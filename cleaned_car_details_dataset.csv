@@ -1,0 +1,1362 @@
+Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Owner,Seller Type,Engine,Drivetrain,Seating Capacity,Fuel Tank Capacity
+Honda,Amaze 1.2 VX i-VTEC,7701.25,2017,87150,Petrol,Manual,Pune,First,Corporate,1198.0,FWD,5.0,35.0
+Maruti Suzuki,Swift DZire VDI,6862.5,2014,75000,Diesel,Manual,Ludhiana,Second,Individual,1248.0,FWD,5.0,42.0
+Hyundai,i10 Magna 1.2 Kappa2,3355.0,2011,67000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,35.0
+Toyota,Glanza G,12184.75,2019,37500,Petrol,Manual,Mangalore,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Ciaz ZXi,10293.75,2017,73315,Petrol,Manual,Pune,First,Individual,1373.0,FWD,5.0,43.0
+Mercedes-Benz,CLA 200 Petrol Sport,28959.73475,2015,47000,Petrol,Automatic,Mumbai,Second,Individual,1991.0,FWD,5.0,50.0
+BMW,X1 xDrive20d M Sport,40412.5,2017,75000,Diesel,Automatic,Coimbatore,Second,Individual,1995.0,AWD,5.0,51.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],21197.5,2017,56000,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,50.0
+Nissan,Terrano XL (D),8768.75,2015,85000,Diesel,Manual,Mumbai,First,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Elite i20 Sportz 1.2,9012.75,2017,20281,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Renault,Kwid 1.0 RXT [2016-2019],7014.98475,2018,22541,Petrol,Manual,Bangalore,First,Individual,999.0,FWD,5.0,28.0
+Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],16393.75,2019,30672,Petrol,Automatic,Bangalore,First,Individual,1462.0,FWD,5.0,43.0
+Tata,Harrier XZ [2019-2020],25848.75,2019,20856,Diesel,Manual,Bangalore,First,Individual,1956.0,FWD,5.0,50.0
+Volkswagen,Polo GT TSI,14411.23475,2017,41417,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Celerio ZXi AMT [2019-2020],8677.25,2016,11471,Petrol,Automatic,Bangalore,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Alto 800 LXi (O),6847.25,2019,3583,Petrol,Manual,Bangalore,First,Individual,796.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Alpha Automatic,13648.73475,2018,21365,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R ZXi 1.2 AMT,10659.75,2020,30777,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,32.0
+Hyundai,Creta 1.6 E Petrol,11285.0,2016,60125,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,60.0
+Maruti Suzuki,S-Presso VXi AMT,7167.5,2020,2169,Petrol,Automatic,Mumbai,First,Individual,998.0,FWD,5.0,27.0
+Volkswagen,Vento Comfortline Petrol AT,11666.25,2015,60240,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,55.0
+Hyundai,Santro Sportz AMT [2018-2020],8982.25,2018,13772,Petrol,Automatic,Bangalore,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Venue SX 1.0 (O) Petrol [2019-2020],15234.75,2019,27464,Petrol,Manual,Bangalore,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Ritz Zxi BS-IV,4956.25,2013,23086,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Creta 1.6 SX Plus Petrol,17918.75,2019,36313,Petrol,Manual,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Honda,Brio V MT,5352.75,2014,39276,Petrol,Manual,Mumbai,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Elite i20 Asta 1.2,8402.75,2015,47752,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Honda,WR-V VX MT Petrol,12504.98475,2018,27963,Petrol,Manual,Delhi,First,Individual,1199.0,FWD,5.0,40.0
+Hyundai,Venue SX 1.0 Turbo iMT,15097.5,2020,24013,Petrol,Manual,Mumbai,First,Individual,998.0,FWD,5.0,45.0
+Hyundai,Creta 1.6 SX Plus AT,14106.25,2016,66000,Diesel,Automatic,Raipur,First,Individual,1582.0,FWD,5.0,60.0
+Ford,Ecosport Titanium+ 1.0L EcoBoost,8158.75,2015,28000,Petrol,Manual,Mumbai,First,Individual,999.0,FWD,5.0,52.0
+Hyundai,Santro GL (CNG),2211.25,2009,72000,CNG,Manual,Kanpur,Second,Individual,1086.0,FWD,5.0,35.0
+Tata,Tiago Revotron XE [2016-2019],6237.25,2018,27069,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,35.0
+Tata,Tigor Revotorq XT,7472.5,2018,43000,Diesel,Manual,Patna,First,Individual,1047.0,FWD,5.0,35.0
+Mercedes-Benz,GLC 220 d Progressive,58712.5,2017,45600,Diesel,Automatic,Mumbai,Second,Individual,2143.0,AWD,5.0,66.0
+Hyundai,Creta SX 1.6 CRDi (O),17156.25,2018,60000,Diesel,Manual,Patna,First,Individual,1582.0,FWD,5.0,55.0
+Mercedes-Benz,M-Class ML 250 CDI,35075.0,2014,105101,Diesel,Automatic,Vadodara,First,Individual,2143.0,AWD,5.0,70.0
+Toyota,Corolla Altis VL AT Petrol,16698.75,2016,45000,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,55.0
+Audi,A4 2.0 TDI (177bhp) Premium Plus,24018.75,2013,66000,Diesel,Automatic,Hyderabad,First,Individual,1968.0,FWD,5.0,63.0
+Hyundai,Elite i20 Asta 1.2,8006.25,2015,68397,Petrol,Manual,Patna,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Baleno Delta 1.2,9226.25,2019,27469,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Celerio VXi AMT,6283.0,2016,41058,Petrol,Automatic,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz VDi SHVS,9531.25,2016,51330,Diesel,Manual,Mumbai,First,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Ciaz VXi,7792.75,2015,45969,Petrol,Manual,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Hyundai,Creta SX Plus 1.6 AT CRDI,17537.5,2017,66602,Diesel,Automatic,Mumbai,First,Individual,1582.0,FWD,5.0,60.0
+Hyundai,Creta SX Plus 1.6  Petrol,13496.25,2016,57983,Petrol,Manual,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Renault,Kwid 1.0 RXT AMT Opt,7167.5,2019,11183,Petrol,Automatic,Mumbai,First,Individual,999.0,FWD,5.0,28.0
+MG,Hector Sharp 2.0 Diesel [2019-2020],24567.75,2019,46301,Diesel,Manual,Mumbai,First,Individual,1956.0,FWD,5.0,60.0
+Tata,Tiago Revotron XZA [2017-2019],7243.75,2017,34867,Petrol,Automatic,Mumbai,Second,Individual,1199.0,FWD,5.0,35.0
+BMW,X3 xDrive 20d Luxury Line [2018-2020],57950.0,2018,9512,Diesel,Automatic,Mumbai,First,Corporate,1995.0,AWD,5.0,67.0
+Jeep,Compass Limited Plus 2.0 Diesel 4x4 AT,37743.75,2020,11293,Diesel,Automatic,Mumbai,First,Individual,1956.0,AWD,5.0,60.0
+Honda,Brio S MT,6710.0,2016,50374,Petrol,Manual,Vadodara,First,Individual,1198.0,FWD,5.0,35.0
+BMW,3-Series 320i Luxury Line,42700.0,2017,15900,Petrol,Automatic,Delhi,First,Individual,1998.0,RWD,5.0,57.0
+Honda,City V Petrol [2017-2019],9836.25,2017,64000,Petrol,Manual,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Volkswagen,Polo Highline1.2L (D),5566.25,2013,78000,Diesel,Manual,Jaipur,First,Individual,1199.0,FWD,5.0,45.0
+Maruti Suzuki,Vitara Brezza ZXi Plus,15936.23475,2021,24000,Petrol,Manual,Mumbai,First,Individual,1462.0,FWD,5.0,48.0
+Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],6938.75,2015,69700,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+BMW,X3 xDrive20d,27450.0,2012,74073,Diesel,Automatic,Hyderabad,First,Individual,1995.0,AWD,5.0,67.0
+Honda,Civic 1.8S MT,2897.5,2006,130000,Petrol,Manual,Deoghar,Third,Individual,1799.0,FWD,5.0,50.0
+Maruti Suzuki,Swift ZXi Plus AMT,11818.75,2021,24000,Petrol,Automatic,Agra,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Elite i20 Sportz 1.5 MT Diesel,12581.25,2021,43000,Diesel,Manual,Agra,First,Individual,1493.0,FWD,5.0,37.0
+Audi,A3 35 TDI Technology + Sunroof,34312.5,2016,40500,Diesel,Automatic,Goa,First,Individual,1968.0,FWD,5.0,50.0
+Honda,City V CVT Petrol [2017-2019],13191.25,2017,49013,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Ford,Figo Duratorq Diesel Titanium 1.4,4559.75,2013,64983,Diesel,Manual,Mumbai,First,Individual,1399.0,FWD,5.0,45.0
+Honda,Jazz VX Petrol,8692.5,2017,92270,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Volkswagen,Polo Highline1.2L (P),5871.25,2013,65000,Petrol,Manual,Mumbai,First,Individual,1198.0,FWD,5.0,45.0
+Honda,Amaze 1.5 SX i-DTEC,5337.5,2014,110000,Diesel,Manual,Warangal,First,Individual,1498.0,FWD,5.0,35.0
+Toyota,Camry 2.5L AT,35761.25,2017,47000,Petrol,Automatic,Delhi,First,Individual,2494.0,FWD,5.0,70.0
+Mercedes-Benz,C-Class 250 CDI Elegance,16775.0,2011,51500,Diesel,Automatic,Hyderabad,Second,Individual,2143.0,RWD,5.0,66.0
+Audi,Q3 35 TDI quattro Premium Plus,44225.0,2018,35000,Diesel,Automatic,Pune,First,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Baleno Sigma 1.2,8311.25,2017,61518,Petrol,Manual,Noida,First,Individual,1197.0,FWD,5.0,37.0
+BMW,X1 sDrive20d xLine,45597.5,2018,34000,Diesel,Automatic,Delhi,First,Corporate,1995.0,RWD,5.0,63.0
+Maruti Suzuki,Baleno Zeta 1.2,9378.75,2017,36058,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta 1.6 SX Plus AT,13572.5,2016,88000,Diesel,Automatic,Ahmedabad,First,Individual,1582.0,FWD,5.0,60.0
+Volkswagen,Vento Comfortline Petrol,6557.5,2015,98112,Petrol,Manual,Mumbai,First,Individual,1598.0,FWD,5.0,55.0
+Mercedes-Benz,C-Class 220 BlueEfficiency,25162.5,2013,58000,Diesel,Automatic,Bangalore,First,Individual,2143.0,RWD,5.0,66.0
+Toyota,Camry Hybrid,24384.75,2015,92355,Petrol,Automatic,Mumbai,First,Individual,2494.0,FWD,5.0,65.0
+Maruti Suzuki,DZire VXi,10537.75,2019,16652,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,37.0
+Nissan,Terrano XV D THP 110 PS,9912.5,2016,76584,Diesel,Manual,Mumbai,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Wagon R LXI CNG,6328.75,2015,42500,CNG,Manual,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza LDi (O) [2016-2018],10202.25,2016,70000,Diesel,Manual,Mohali,First,Individual,1248.0,FWD,5.0,48.0
+BMW,X5 xDrive30d Pure Experience (5 Seater),44987.5,2015,84700,Diesel,Automatic,Navi Mumbai,Second,Individual,2993.0,AWD,5.0,50.0
+Hyundai,Elite i20 Magna 1.2,8006.25,2015,68766,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Verna 1.6 VTVT SX,11437.5,2018,16339,Petrol,Manual,Kolkata,First,Individual,1591.0,FWD,5.0,43.0
+Honda,Amaze 1.2 SX i-VTEC,6786.25,2016,63882,Petrol,Manual,Mumbai,First,Individual,1198.0,FWD,5.0,35.0
+Toyota,Corolla Altis 1.8 G,7518.25,2012,28732,Petrol,Manual,Zirakpur,First,Individual,1798.0,FWD,5.0,55.0
+Hyundai,Elite i20 Sportz 1.2 (O),9317.75,2017,51349,Petrol,Manual,Nagpur,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],7243.75,2014,61866,Petrol,Automatic,Thane,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Creta SX Plus 1.6  Petrol,14106.25,2017,29401,Petrol,Manual,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Audi,A6 2.0 TDI Premium,20206.25,2012,98580,Diesel,Automatic,Goa,First,Individual,1968.0,FWD,5.0,65.0
+BMW,X1 sDrive20d xLine,59475.0,2021,8000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,63.0
+Mahindra,XUV300 W8 (O) 1.5 Diesel,19809.75,2020,31348,Diesel,Manual,Bangalore,First,Individual,1497.0,FWD,5.0,42.0
+Maruti Suzuki,Swift ZDi Plus,8845.0,2018,28851,Diesel,Manual,Kolkata,First,Corporate,1248.0,FWD,5.0,37.0
+Honda,City 1.5 S MT,5718.75,2011,78000,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,42.0
+Tata,Zest XM 75 PS Diesel,6481.25,2017,39000,Diesel,Manual,Ranchi,First,Commercial Registration,1248.0,FWD,5.0,44.0
+Skoda,Rapid Ambition 1.6 MPI AT Plus,6481.25,2014,24000,Petrol,Automatic,Mumbai,Second,Individual,1598.0,FWD,5.0,55.0
+Maruti Suzuki,Alto 800 Lxi,3812.5,2015,62000,Petrol,Manual,Kanpur,Second,Individual,796.0,FWD,5.0,35.0
+Ford,Figo Duratorq Diesel ZXI 1.4,3583.75,2014,82000,Diesel,Manual,Ludhiana,Second,Individual,1399.0,FWD,5.0,45.0
+Audi,A3 35 TDI Technology + Sunroof,46512.5,2020,40910,Diesel,Automatic,Bangalore,First,Individual,1968.0,FWD,5.0,50.0
+Tata,Harrier XZ Plus,32711.25,2020,10290,Diesel,Manual,Bangalore,First,Individual,1956.0,FWD,5.0,50.0
+Hyundai,Elite i20 Asta (O) 1.0 Turbo DCT,18986.25,2021,10530,Petrol,Automatic,Bangalore,First,Individual,998.0,FWD,5.0,37.0
+Hyundai,Elite i20 Asta 1.2,8372.25,2015,61900,Petrol,Manual,Gurgaon,First,Individual,1197.0,FWD,5.0,45.0
+Volkswagen,Polo Highline1.2L (D),7396.23475,2013,78000,Diesel,Manual,Bangalore,Second,Individual,1199.0,FWD,5.0,45.0
+Maruti Suzuki,Swift DZire VXI,6328.75,2014,57402,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Hyundai,Santro GL (CNG),3050.0,2013,57000,CNG,Manual,Kanpur,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],5718.75,2015,87500,Petrol,Manual,Gurgaon,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],28593.75,2022,18000,Petrol,Automatic,Delhi,First,Individual,1353.0,FWD,5.0,50.0
+Audi,Q2 Premium Plus I 40 TFSI quattro,44987.5,2020,10700,Petrol,Automatic,Ahmedabad,First,Individual,1984.0,AWD,5.0,55.0
+Hyundai,Elite i20 Asta (O) 1.0 Turbo DCT,16012.5,2020,16282,Petrol,Automatic,Pune,First,Individual,998.0,FWD,5.0,37.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,7167.5,2013,66000,Diesel,Manual,Amritsar,Third,Individual,1582.0,FWD,5.0,43.0
+Maruti Suzuki,Wagon R VXI,5261.25,2017,72019,Petrol,Manual,Ranchi,Second,Individual,998.0,FWD,5.0,35.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7396.23475,2018,55221,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Renault,Duster RXS 1.5 Petrol MT,13572.5,2020,23500,Petrol,Manual,Chennai,First,Individual,1498.0,FWD,5.0,50.0
+Maruti Suzuki,Swift DZire VXI,4956.25,2012,68000,Petrol,Manual,Kanpur,Second,Individual,1197.0,FWD,5.0,42.0
+Hyundai,Creta SX 1.6 AT Petrol,21197.5,2019,29096,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,55.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7014.98475,2016,61223,Petrol,Manual,Kanpur,First,Individual,1197.0,FWD,5.0,43.0
+Jeep,Compass Limited (O) 2.0 Diesel [2017-2020],16393.75,2017,86000,Diesel,Manual,Ludhiana,First,Individual,1956.0,FWD,5.0,60.0
+Hyundai,Verna EX 1.6 CRDi [2017-2018],7396.23475,2013,87000,Diesel,Manual,Ludhiana,First,Individual,1582.0,FWD,5.0,45.0
+Hyundai,i20 Magna 1.2,5871.25,2013,79287,Petrol,Manual,Kanpur,First,Individual,1197.0,FWD,5.0,45.0
+Audi,A6 35 TDI Matrix,59475.0,2018,48945,Diesel,Automatic,Goa,First,Corporate,1968.0,FWD,5.0,75.0
+Kia,Seltos HTX Plus 1.5 Diesel [2020-2021],24018.75,2019,55000,Diesel,Manual,Lucknow,First,Individual,1493.0,FWD,5.0,50.0
+Maruti Suzuki,Baleno Alpha 1.2,9988.75,2016,38779,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,10659.75,2017,67000,Petrol,Manual,Navi Mumbai,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,6481.25,2012,70000,Diesel,Manual,Jalandhar,Second,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Xcent S 1.2 (O),7472.5,2015,23103,Petrol,Manual,Udupi,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Creta SX 1.6 AT Petrol,22493.75,2019,9576,Petrol,Automatic,Bangalore,First,Individual,1591.0,FWD,5.0,55.0
+MG,Astor Sharp 1.5 CVT,26916.23475,2021,1942,Petrol,Automatic,Bangalore,First,Individual,1498.0,FWD,5.0,48.0
+Honda,CR-V 2.4 AT,3812.5,2006,119300,Petrol,Automatic,Pune,Third,Individual,2354.0,AWD,5.0,58.0
+Maruti Suzuki,Alto 800 Lxi,3736.25,2016,55000,Petrol,Manual,Faridabad,First,Individual,796.0,FWD,5.0,35.0
+Renault,Duster 85 PS RxL,7472.5,2015,98000,Diesel,Manual,Jamshedpur,Second,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8387.5,2017,61400,Petrol,Manual,Aurangabad,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City V,10293.75,2016,87693,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,40.0
+Mercedes-Benz,C-Class C 200 Avantgarde,33931.25,2015,31000,Petrol,Automatic,Mumbai,First,Individual,1991.0,RWD,5.0,66.0
+Hyundai,Elite i20 Asta 1.4 (O) CRDi,8540.0,2016,75210,Diesel,Manual,Ahmedabad,First,Individual,1396.0,FWD,5.0,40.0
+Skoda,Fabia Elegance 1.6 MPI,3431.25,2012,69000,Petrol,Manual,Mumbai,First,Individual,1598.0,FWD,5.0,45.0
+Skoda,Rapid 1.5 TDI CR Ambition Plus AT,7609.75,2014,88000,Diesel,Automatic,Pune,Second,Individual,1498.0,FWD,5.0,55.0
+Kia,Sonet GTX Plus 1.0 DCT [2020-2021],16088.75,2020,15000,Petrol,Automatic,Kolkata,First,Individual,998.0,FWD,5.0,45.0
+BMW,3-Series 320d Luxury Line,42318.75,2018,68189,Diesel,Automatic,Jaipur,First,Individual,1995.0,RWD,5.0,57.0
+Mercedes-Benz,GLA 200 CDI Sport,25162.5,2015,75000,Diesel,Automatic,Faridabad,First,Individual,2143.0,FWD,5.0,50.0
+Audi,A6 35 TDI Premium,22112.5,2014,33000,Diesel,Automatic,Faridabad,Second,Individual,1968.0,FWD,5.0,65.0
+BMW,5-Series 520d Sedan,19062.5,2012,78000,Diesel,Automatic,Mohali,First,Individual,1995.0,RWD,5.0,50.0
+Hyundai,Elite i20 Magna 1.2,8768.75,2015,67000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,45.0
+Ford,Ecosport Titanium+ 1.5L TDCi,10659.75,2017,75000,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,52.0
+Mercedes-Benz,C-Class C 250 d,42318.75,2016,48000,Diesel,Automatic,Delhi,First,Individual,2143.0,RWD,5.0,66.0
+Maruti Suzuki,S-Presso VXi,6557.5,2020,5790,Petrol,Manual,Hyderabad,First,Individual,998.0,FWD,5.0,27.0
+MG,Hector Sharp 2.0 Diesel Turbo MT,27145.0,2020,65433,Diesel,Manual,Lucknow,First,Individual,1956.0,FWD,5.0,60.0
+Maruti Suzuki,Swift VDi BS-IV,4498.75,2011,87230,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Swift ZDi,7548.75,2017,38258,Diesel,Manual,Varanasi,Second,Individual,1248.0,FWD,5.0,37.0
+Honda,City VX (O) MT,14868.75,2019,56881,Petrol,Manual,Lucknow,First,Individual,1497.0,FWD,5.0,40.0
+Renault,Duster 110 PS RxL Diesel,6481.25,2014,72000,Diesel,Manual,Ludhiana,Second,Individual,1461.0,FWD,5.0,50.0
+Audi,Q3 2.0 TDI quattro Premium,20587.5,2012,72000,Diesel,Automatic,Hyderabad,UnRegistered Car,Individual,1968.0,AWD,5.0,64.0
+Volvo,V40 Cross Country D3,19062.5,2013,71141,Diesel,Automatic,Navi Mumbai,First,Individual,1984.0,FWD,5.0,60.0
+Maruti Suzuki,Swift DZire VDI,8540.0,2013,37000,Diesel,Manual,Salem,First,Individual,1248.0,FWD,5.0,42.0
+BMW,X5 xDrive 30d M Sport,45368.75,2015,86999,Diesel,Automatic,Mohali,First,Individual,2993.0,AWD,5.0,50.0
+Honda,City 1.5 S AT,4498.75,2009,70200,Petrol,Automatic,Mumbai,Second,Individual,1497.0,FWD,5.0,42.0
+Mercedes-Benz,C-Class 200 CGI,19825.0,2012,64800,Petrol,Automatic,Delhi,First,Individual,1796.0,RWD,5.0,66.0
+Hyundai,Creta 1.6 SX Plus AT,14487.5,2016,73000,Diesel,Automatic,Dehradun,First,Individual,1582.0,FWD,5.0,60.0
+Mercedes-Benz,M-Class ML 350 CDI,40900.5,2015,76345,Diesel,Automatic,Gurgaon,First,Individual,2997.0,AWD,5.0,70.0
+Maruti Suzuki,Alto 800 Lxi,4361.5,2017,40564,Petrol,Manual,Jamshedpur,First,Individual,796.0,FWD,5.0,35.0
+Hyundai,i20 Magna 1.4 CRDI,5185.0,2013,98500,Diesel,Manual,Chandigarh,First,Individual,1336.0,FWD,5.0,45.0
+Skoda,Rapid Style AT,17156.25,2020,46807,Petrol,Automatic,Bangalore,First,Individual,999.0,FWD,5.0,55.0
+Tata,Nexon XMA Petrol,8845.0,2018,81000,Petrol,Automatic,Valsad,First,Individual,1198.0,FWD,5.0,44.0
+Maruti Suzuki,Swift DZire VXI,7548.75,2015,13716,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire ZDI,8387.5,2014,89000,Diesel,Manual,Chennai,First,Individual,1248.0,FWD,5.0,42.0
+Kia,Sonet GTX Plus 1.5 AT [2020-2021],22646.25,2021,13000,Diesel,Automatic,Mumbai,First,Individual,1493.0,FWD,5.0,45.0
+Skoda,Rapid Monte Carlo 1.6 MPI MT,13496.25,2018,38000,Petrol,Manual,Bangalore,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Grand i10 NIOS Magna AMT 1.2 Kappa VTVT,10903.75,2020,17000,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta SX Plus 1.6 AT CRDI,16012.5,2017,97000,Diesel,Automatic,Zirakpur,First,Corporate,1582.0,FWD,5.0,60.0
+Honda,City 1.5 S MT,4498.75,2010,78000,Petrol,Manual,Zirakpur,First,Corporate,1497.0,FWD,5.0,42.0
+Renault,Kwid RXT Opt,5718.75,2019,55000,Petrol,Manual,Varanasi,First,Individual,799.0,FWD,5.0,28.0
+Audi,A6 2.0 TDI Premium,27068.75,2014,75000,Diesel,Automatic,Ahmedabad,First,Individual,1968.0,FWD,5.0,65.0
+Honda,Brio EX MT,4956.25,2014,43037,Petrol,Manual,Haldwani,First,Individual,1198.0,FWD,5.0,35.0
+Maruti Suzuki,Swift ZDi,6481.25,2013,26000,Diesel,Manual,Delhi,First,Individual,1248.0,FWD,5.0,42.0
+Honda,Amaze VX CVT 1.2 Petrol,13252.25,2021,8700,Petrol,Automatic,Mangalore,First,Individual,1199.0,FWD,5.0,35.0
+Jeep,Compass Longitude Plus 2.0 Diesel 4x4 AT,28975.0,2020,41736,Diesel,Automatic,Ahmedabad,First,Individual,1956.0,AWD,5.0,60.0
+Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],7930.0,2019,76000,CNG,Manual,Kanpur,First,Individual,998.0,FWD,5.0,60.0
+Maruti Suzuki,Alto VXi (O),5947.5,2018,18000,Petrol,Manual,Lucknow,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz VXi (O),8235.0,2015,38000,Petrol,Manual,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Maruti Suzuki,Swift VDi AMT [2018-2019],10659.75,2018,43000,Diesel,Automatic,Mumbai,First,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,7396.23475,2013,107000,Diesel,Manual,Chandigarh,First,Individual,1582.0,FWD,5.0,43.0
+Tata,Nexon XZA Plus Petrol,16546.25,2018,8922,Petrol,Automatic,Bangalore,First,Individual,1198.0,FWD,5.0,44.0
+Maruti Suzuki,Alto 800 Vxi,4864.75,2013,47800,Petrol,Manual,Dharwad,First,Individual,796.0,FWD,5.0,35.0
+Tata,Harrier XZ [2019-2020],26306.25,2019,68758,Diesel,Manual,Hyderabad,First,Individual,1956.0,FWD,5.0,50.0
+Tata,Punch Creative iRA Pack MT,13572.5,2022,7500,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,37.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],6786.25,2016,22402,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City V,16165.0,2019,12382,Petrol,Manual,Pune,First,Corporate,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Baleno Alpha 1.3,10522.5,2017,61000,Diesel,Manual,Surat,First,Individual,1248.0,FWD,5.0,37.0
+BMW,X5 xDrive30d Pure Experience (5 Seater),44987.5,2015,84700,Diesel,Automatic,Pune,Second,Individual,2993.0,AWD,5.0,50.0
+Renault,Kwid 1.0 RXT Edition,6023.75,2018,75500,Petrol,Manual,Raipur,First,Individual,999.0,FWD,5.0,28.0
+BMW,X1 sDrive20d Expedition,42547.5,2018,25000,Diesel,Automatic,Chennai,First,Individual,1995.0,FWD,5.0,51.0
+Audi,Q3 35 TDI quattro Premium Plus,37743.75,2018,38000,Diesel,Automatic,Delhi,First,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Wagon R LXi Minor,2211.25,2009,39586,Petrol,Manual,Ranchi,First,Individual,1061.0,FWD,5.0,35.0
+Hyundai,Elite i20 Asta 1.2 AT,11437.5,2018,33647,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,40.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],8677.25,2018,57847,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Swift DZire VXI,7167.5,2016,74000,Petrol,Manual,Ranchi,First,Individual,1197.0,FWD,5.0,42.0
+Nissan,Terrano XL D Plus,6862.5,2014,85000,Diesel,Manual,Hyderabad,Second,Individual,1461.0,FWD,5.0,50.0
+Renault,Kwid 1.0 RXT [2016-2019],4559.75,2016,26000,Petrol,Manual,Mumbai,First,Individual,999.0,FWD,5.0,28.0
+Hyundai,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],28593.75,2020,18000,Petrol,Automatic,Mumbai,First,Individual,1353.0,FWD,5.0,50.0
+Toyota,Glanza G CVT,12047.5,2019,25000,Petrol,Automatic,Delhi,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,16698.75,2017,39000,Petrol,Automatic,Hyderabad,Second,Individual,1591.0,FWD,5.0,60.0
+Volkswagen,Polo GT TSI,8006.25,2015,80852,Petrol,Automatic,Faridabad,Second,Individual,1198.0,FWD,5.0,45.0
+Maruti Suzuki,Alto VXi,4117.5,2014,54420,Petrol,Manual,Jamshedpur,First,Individual,998.0,FWD,5.0,35.0
+Toyota,Corolla Altis G AT Petrol,13648.73475,2015,39780,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,55.0
+Hyundai,i10 Sportz 1.2 AT Kappa2,5108.75,2013,78301,Petrol,Automatic,Pune,Second,Individual,1197.0,FWD,5.0,35.0
+Hyundai,i10 Sportz 1.2,3355.0,2009,126535,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,35.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,14640.0,2016,37079,Petrol,Automatic,Thane,First,Individual,1591.0,FWD,5.0,60.0
+Audi,Q3 2.0 TDI quattro Premium Plus,19825.0,2014,51000,Diesel,Automatic,Raipur,Second,Individual,1968.0,AWD,5.0,64.0
+Volkswagen,Polo Comfortline 1.2L (P),5718.75,2013,39000,Petrol,Manual,Delhi,First,Individual,1198.0,FWD,5.0,45.0
+Jaguar,XE Prestige Diesel,50309.75,2017,29999,Diesel,Automatic,Bangalore,First,Individual,1999.0,RWD,5.0,56.0
+Audi,Q3 35 TDI Premium + Sunroof,27434.73475,2016,84700,Diesel,Automatic,Karnal,First,Individual,1968.0,AWD,5.0,64.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt,8311.25,2014,56000,Petrol,Manual,Noida,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Venue SX 1.0 Turbo iMT,16546.25,2022,3383,Petrol,Manual,Mumbai,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Vitara Brezza VDi,11056.25,2018,42000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,48.0
+BMW,X3 xDrive20d,16622.5,2012,65000,Diesel,Automatic,Delhi,Second,Individual,1995.0,AWD,5.0,67.0
+Honda,WR-V VX MT Petrol,13725.0,2019,17000,Petrol,Manual,Ahmedabad,First,Individual,1199.0,FWD,5.0,40.0
+BMW,5-Series 520d Luxury Line [2017-2019],51850.0,2016,38000,Diesel,Automatic,Coimbatore,Second,Individual,1995.0,RWD,5.0,65.0
+Honda,Amaze 1.5 S i-DTEC,4498.75,2014,62500,Diesel,Manual,Varanasi,First,Individual,1498.0,FWD,5.0,35.0
+Tata,Harrier XZA Plus Dual Tone,34327.75,2021,30229,Diesel,Automatic,Mumbai,First,Individual,1956.0,FWD,5.0,50.0
+Maruti Suzuki,Wagon R LXI CNG (O),6557.5,2016,26600,CNG,Manual,Pune,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz Delta 1.3 Hybrid,9150.0,2017,86000,Diesel,Manual,Yamunanagar,Second,Individual,1248.0,FWD,5.0,43.0
+Hyundai,Tucson GL 2WD AT Petrol,24323.75,2017,86000,Petrol,Automatic,Bangalore,First,Individual,1999.0,FWD,5.0,62.0
+Hyundai,i20 Sportz 1.2,5718.75,2013,29135,Petrol,Manual,Panchkula,First,Individual,1197.0,FWD,5.0,45.0
+Volvo,V40 D3 Kinetic,18300.0,2015,50965,Diesel,Automatic,Kolkata,First,Corporate,1984.0,FWD,5.0,60.0
+Mercedes-Benz,C-Class C 200 Avantgarde,40793.75,2016,28000,Petrol,Automatic,Gurgaon,First,Individual,1991.0,RWD,5.0,66.0
+Honda,Jazz V AT Petrol,8311.25,2015,42000,Petrol,Automatic,Delhi,First,Individual,1199.0,FWD,5.0,40.0
+Honda,Jazz S,2973.75,2010,32000,Petrol,Manual,Gurgaon,First,Individual,1198.0,FWD,5.0,42.0
+Land Rover,Evoque HSE Dynamic,38109.75,2015,50623,Diesel,Automatic,Kolkata,Second,Individual,2179.0,AWD,5.0,57.0
+Hyundai,Venue SX 1.5 CRDi,16729.25,2022,1700,Diesel,Manual,Mumbai,First,Individual,1493.0,FWD,5.0,45.0
+Volkswagen,Polo GT TSI,16698.75,2020,43260,Petrol,Automatic,Bangalore,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Wagon R LXI CNG,4956.25,2015,67738,CNG,Manual,Delhi,Second,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VXi,11361.25,2021,14722,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Jeep,Compass Limited (O) 1.4 Petrol AT [2017-2020],19062.5,2017,60200,Petrol,Automatic,Thane,First,Corporate,1368.0,FWD,5.0,60.0
+Honda,WR-V S MT Petrol,9531.25,2017,23798,Petrol,Manual,Ahmedabad,First,Individual,1199.0,FWD,5.0,40.0
+Honda,City 1.5 S MT,3812.5,2011,55000,Petrol,Manual,Kolkata,First,Individual,1497.0,FWD,5.0,42.0
+Volkswagen,Vento TSI,9912.5,2017,51000,Petrol,Automatic,Rohtak,First,Individual,1197.0,FWD,5.0,55.0
+Honda,Brio S MT,4727.5,2014,49000,Petrol,Manual,Delhi,Second,Individual,1198.0,FWD,5.0,35.0
+Renault,Duster RXL Petrol,9150.0,2017,48000,Petrol,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,50.0
+BMW,5-Series 520d Sedan,21350.0,2013,121000,Diesel,Automatic,Kanpur,First,Individual,1995.0,RWD,5.0,50.0
+Ford,Fiesta Style Diesel [2011-2014],4498.75,2013,74000,Diesel,Manual,Hyderabad,First,Individual,1498.0,FWD,5.0,43.0
+Kia,Seltos GTX Plus AT 1.4 [2019-2020],24781.25,2021,16000,Petrol,Automatic,Kolkata,First,Individual,1353.0,FWD,5.0,50.0
+Ford,Ecosport Trend 1.5 TDCi,7320.0,2014,115000,Diesel,Manual,Pune,First,Individual,1498.0,FWD,5.0,52.0
+Hyundai,Grand i10 NIOS Magna 1.2 Kappa VTVT,8997.5,2020,74000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Elite i20 Sportz 1.4,8555.25,2015,61000,Diesel,Manual,Ahmedabad,First,Individual,1396.0,FWD,5.0,45.0
+Toyota,Corolla Altis 1.8 G,11056.25,2014,104814,Petrol,Manual,Mumbai,First,Individual,1798.0,FWD,5.0,55.0
+Hyundai,Elantra 1.8 SX MT,9836.25,2013,17000,Petrol,Manual,Pune,First,Individual,1797.0,FWD,5.0,56.0
+Audi,Q3 35 TDI Premium + Sunroof,25848.75,2015,60000,Diesel,Automatic,Delhi,Second,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Swift Lxi (O) [2014-2017],6862.5,2016,45000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift VXi [2014-2017],8006.25,2016,64928,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,DZire VDi,8997.5,2018,68500,Diesel,Manual,Varanasi,First,Individual,1248.0,FWD,5.0,37.0
+BMW,5-Series 520d M Sport,50325.0,2017,41296,Diesel,Automatic,Mumbai,First,Individual,1995.0,RWD,5.0,65.0
+Honda,Amaze 1.5 SX i-DTEC,5871.25,2013,72567,Diesel,Manual,Samastipur,First,Individual,1498.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R VXI+,8158.75,2020,4295,Petrol,Manual,Samastipur,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza ZDi Plus,13343.75,2018,82000,Diesel,Manual,Ahmedabad,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Swift DZire LXi,4498.75,2010,33000,Petrol,Manual,Mumbai,First,Individual,1298.0,FWD,5.0,43.0
+Hyundai,Creta SX 1.6 CRDi (O),14792.48475,2018,68000,Diesel,Manual,Kanpur,First,Individual,1582.0,FWD,5.0,55.0
+Honda,City ZX CVT Petrol,25925.0,2022,8530,Petrol,Automatic,Pune,UnRegistered Car,Individual,1498.0,FWD,5.0,40.0
+Hyundai,Tucson GLS 2WD AT Petrol,27297.48475,2018,46000,Petrol,Automatic,Delhi,First,Individual,1999.0,FWD,5.0,62.0
+Tata,Tiago Revotron XTA [2017-2019],7396.23475,2018,35000,Petrol,Automatic,Patna,First,Individual,1199.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VXi [2014-2017],8845.0,2019,17881,Petrol,Manual,Ranchi,First,Individual,1197.0,FWD,5.0,42.0
+Honda,City E [2013-2016],6862.5,2014,48409,Petrol,Manual,Ranchi,Second,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Alto 800 Vxi (Airbag),5413.75,2020,40000,Petrol,Manual,Deoghar,First,Individual,796.0,FWD,5.0,35.0
+Audi,Q3 35 TDI Premium + Sunroof,36218.75,2017,61643,Diesel,Automatic,Dehradun,First,Individual,1968.0,AWD,5.0,64.0
+Tata,Nexon XZ Plus Dark Edition,16012.5,2022,1500,Petrol,Manual,Kolkata,First,Individual,1199.0,FWD,5.0,44.0
+Ford,Ecosport Ambiente 1.5L TDCi,6786.25,2014,38985,Diesel,Manual,Noida,First,Individual,1498.0,FWD,5.0,52.0
+Honda,Jazz SV Petrol,7548.75,2015,52000,Petrol,Manual,Noida,First,Individual,1199.0,FWD,5.0,40.0
+Hyundai,i10 Sportz 1.2 Kappa2,4193.75,2011,42000,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,35.0
+Honda,Amaze 1.2 VX AT i-VTEC,7091.25,2014,29442,Petrol,Automatic,Mumbai,First,Individual,1198.0,FWD,5.0,35.0
+Jeep,Compass Limited (O) 2.0 Diesel [2017-2020],16012.5,2017,71800,Diesel,Manual,Lucknow,First,Individual,1956.0,FWD,5.0,60.0
+Hyundai,Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,10598.75,2020,18000,CNG,Manual,Ghaziabad,First,Individual,1197.0,FWD,5.0,60.0
+Honda,City 1.5 S MT,4102.25,2009,85000,Petrol,Manual,Mohali,Second,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Xcent E Plus CRDi,6786.25,2018,65555,Diesel,Manual,Varanasi,Second,Individual,1186.0,FWD,5.0,43.0
+BMW,X3 xDrive 20d Luxury Line [2018-2020],57950.0,2018,87000,Diesel,Automatic,Raipur,First,Individual,1995.0,AWD,5.0,67.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,15250.0,2018,42000,Petrol,Automatic,Kolkata,First,Individual,1591.0,FWD,5.0,60.0
+MG,Astor Sharp EX 1.5 MT,23637.5,2022,600,Petrol,Manual,Kolkata,First,Individual,1498.0,FWD,5.0,48.0
+Toyota,Etios Liva VD Dual Tone,7396.23475,2017,86006,Diesel,Manual,Gurgaon,First,Individual,1364.0,FWD,5.0,45.0
+Honda,City SV Diesel,6481.25,2014,75000,Diesel,Manual,Kanpur,First,Individual,1498.0,FWD,5.0,40.0
+Skoda,Superb L&K TSI AT,48723.75,2021,21651,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,66.0
+Hyundai,i20 Active 1.4 SX,11056.25,2016,84000,Diesel,Manual,Aurangabad,First,Individual,1396.0,FWD,5.0,45.0
+Mercedes-Benz,M-Class ML 350 CDI,37362.5,2014,65000,Diesel,Automatic,Chandigarh,Second,Individual,2997.0,AWD,5.0,70.0
+Maruti Suzuki,Ciaz Zeta 1.4 AT,11300.25,2017,31000,Petrol,Automatic,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Honda,City S Diesel,9836.25,2015,64000,Diesel,Manual,Raipur,First,Individual,1498.0,FWD,5.0,40.0
+Honda,City SV Diesel,8387.5,2014,85000,Diesel,Manual,Jaipur,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Baleno Alpha 1.2 AT,9073.75,2017,35000,Petrol,Automatic,Mumbai,Third,Individual,1197.0,FWD,5.0,37.0
+Volvo,V40 Cross Country D3,24323.75,2015,44000,Diesel,Automatic,Mumbai,First,Individual,1984.0,FWD,5.0,60.0
+Maruti Suzuki,Celerio X Zxi AMT [2017-2019],7625.0,2017,32000,Petrol,Automatic,Chennai,Second,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R LXI ABS,5261.25,2016,49857,Petrol,Manual,Faridabad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R VXI+,4559.75,2013,46000,Petrol,Manual,Varanasi,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R LXi Minor,2440.0,2008,50000,Petrol,Manual,Varanasi,Second,Individual,1061.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Delta 1.2 AT,8692.5,2017,36000,Petrol,Automatic,Zirakpur,First,Individual,1197.0,FWD,5.0,37.0
+Renault,Kiger RXT Turbo CVT,12200.0,2021,13000,Petrol,Automatic,Dehradun,First,Individual,999.0,FWD,5.0,40.0
+Hyundai,Eon 1.0 Kappa Magna + [2014-2016],4803.75,2013,45000,Petrol,Manual,Chennai,First,Individual,998.0,FWD,5.0,32.0
+Kia,Seltos GTX Plus AT 1.5 Diesel [2019-2020],28593.75,2021,21000,Diesel,Automatic,Delhi,First,Individual,1493.0,FWD,5.0,50.0
+Hyundai,Creta SX (O) 1.5 Petrol CVT [2020-2022],26672.23475,2022,2670,Petrol,Automatic,Kolkata,First,Individual,1497.0,FWD,5.0,50.0
+Skoda,Rapid Ambition 1.6 TDI CR MT,9760.0,2016,124000,Diesel,Manual,Coimbatore,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Elite i20 Asta 1.2 (O) [2016],11879.75,2016,9889,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,45.0
+Honda,City ZX CVT Petrol,22112.5,2021,13000,Petrol,Automatic,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Tata,Nexon XZA Plus Petrol,13572.5,2018,35000,Petrol,Automatic,Chennai,First,Individual,1198.0,FWD,5.0,44.0
+Maruti Suzuki,Baleno Zeta 1.2,9531.25,2017,51145,Petrol,Manual,Nagpur,First,Individual,1197.0,FWD,5.0,37.0
+Skoda,Superb L&K TDI AT,38125.0,2017,82900,Diesel,Automatic,Coimbatore,First,Individual,1968.0,FWD,5.0,66.0
+Maruti Suzuki,Alto 800 Lxi CNG,3797.25,2014,56843,CNG + CNG,Manual,Navi Mumbai,Second,Individual,796.0,FWD,5.0,35.0
+Ford,Figo Duratec Petrol Titanium 1.2,4117.5,2015,64000,Petrol,Manual,Pune,First,Individual,1196.0,FWD,5.0,45.0
+Maruti Suzuki,DZire VXi AMT,12581.25,2019,9644,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Celerio ZXi (O) AMT [2019-2020],6481.25,2017,41624,Petrol,Automatic,Pune,Second,Individual,998.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sportz U2 1.2 CRDi,7014.98475,2016,82844,Diesel,Manual,Hyderabad,First,Individual,1186.0,FWD,5.0,43.0
+Renault,Duster RXL Petrol,12032.25,2017,60444,Petrol,Manual,Bangalore,First,Individual,1498.0,FWD,5.0,50.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,21350.0,2019,13000,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],6862.5,2016,53300,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City SV,12810.0,2019,34000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Land Rover,Evoque HSE Dynamic,61000.0,2017,25500,Diesel,Automatic,Pune,Second,Individual,1999.0,AWD,5.0,57.0
+Mercedes-Benz,CLA 200 D Urban Sport,42700.0,2018,20000,Diesel,Automatic,Mumbai,First,Individual,2143.0,FWD,5.0,56.0
+Hyundai,Xcent SX 1.1 CRDi,8006.25,2018,78900,Diesel,Manual,Vadodara,First,Individual,1120.0,FWD,5.0,43.0
+Ford,Ecosport Titanium 1.5L TDCi,9455.0,2017,92000,Diesel,Manual,Agra,First,Individual,1498.0,FWD,5.0,52.0
+Mercedes-Benz,CLA 200 CDI Sport,30484.73475,2017,39328,Diesel,Automatic,Kolkata,First,Individual,2143.0,FWD,5.0,56.0
+Maruti Suzuki,Swift VXi [2014-2017],8997.5,2019,26000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,42.0
+MINI,Countryman Cooper D,22707.25,2014,81000,Diesel,Automatic,Panvel,Second,Individual,1995.0,FWD,5.0,47.0
+Maruti Suzuki,DZire ZDi Plus AMT,10446.25,2018,92000,Diesel,Automatic,Ludhiana,First,Individual,1248.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R VXI,8311.25,2019,10340,Petrol,Manual,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Audi,Q3 2.0 TDI quattro Premium,20587.5,2015,47706,Diesel,Automatic,Ranchi,First,Individual,1968.0,AWD,5.0,64.0
+Ford,Aspire Titanium1.5 TDCi,6862.5,2016,44613,Diesel,Manual,Ranchi,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Swift VXi [2014-2017],8387.5,2019,29000,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Wagon R LXI CNG (O),6786.25,2015,67580,CNG,Manual,Pune,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,Verna 1.6 VTVT S,7548.75,2015,42000,Petrol,Manual,Kolkata,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Eon 1.0 Kappa Magna AirBag,5490.0,2015,16205,Petrol,Manual,Pune,First,Individual,998.0,FWD,5.0,32.0
+Maruti Suzuki,Grand Vitara 2015 2.0 AT,5261.25,2007,92000,Petrol,Automatic,Mohali,Third,Individual,1995.0,AWD,5.0,66.0
+Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],8616.25,2016,29000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City V Diesel,8006.25,2015,114635,Diesel,Manual,Kolkata,First,Individual,1498.0,FWD,5.0,40.0
+BMW,X1 sDrive20d xLine,40412.5,2018,50000,Diesel,Automatic,Delhi,Second,Individual,1995.0,RWD,5.0,63.0
+BMW,X1 sDrive20d xLine,57721.25,2019,29221,Diesel,Automatic,Bangalore,First,Individual,1995.0,RWD,5.0,63.0
+Audi,A6 2.0 TDI Premium,17918.75,2012,77000,Diesel,Automatic,Mumbai,Second,Individual,1968.0,FWD,5.0,65.0
+BMW,3-Series 320d Sport Line,22112.5,2013,70000,Diesel,Automatic,Mumbai,Second,Individual,1995.0,RWD,5.0,60.0
+Honda,City VX CVT Petrol,21197.5,2022,32000,Petrol,Automatic,Delhi,First,Individual,1498.0,FWD,5.0,40.0
+Volkswagen,Tiguan Highline TDI,45597.5,2020,17904,Diesel,Automatic,Mumbai,First,Individual,1968.0,AWD,5.0,71.0
+Land Rover,Evoque Pure SD4,32787.5,2012,95000,Diesel,Automatic,Coimbatore,First,Individual,2179.0,AWD,5.0,57.0
+Maruti Suzuki,Wagon R LXI CNG,6100.0,2016,67850,CNG,Manual,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VDi,9302.5,2017,105000,Diesel,Manual,Pune,First,Corporate,1248.0,FWD,5.0,42.0
+Hyundai,Creta SX 1.6 AT Petrol,16393.75,2019,45000,Petrol,Automatic,Raipur,First,Individual,1591.0,FWD,5.0,55.0
+Toyota,Corolla Altis G AT Petrol,20145.25,2018,38000,Petrol,Automatic,Mumbai,First,Corporate,1798.0,FWD,5.0,55.0
+Maruti Suzuki,S-Cross Zeta 1.3,14487.5,2020,55055,Diesel,Manual,Ludhiana,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Baleno Zeta 1.2,12581.25,2021,22000,Petrol,Manual,Raipur,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift ZXi,7091.25,2014,25704,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire VDI,7243.75,2016,55353,Diesel,Manual,Kanpur,Second,Individual,1248.0,FWD,5.0,42.0
+Audi,Q3 35 TDI Premium,27068.75,2015,80000,Diesel,Automatic,Chennai,First,Individual,1968.0,AWD,5.0,64.0
+Volkswagen,Vento Highline Plus 1.2 (P) AT 16 Alloy,12581.25,2018,62000,Petrol,Automatic,Faridabad,First,Corporate,1197.0,FWD,5.0,55.0
+Tata,Tiago Revotron XT [2016-2019],5779.75,2018,29434,Petrol,Manual,Kolkata,Second,Individual,1047.0,FWD,5.0,35.0
+Datsun,Go D,3660.0,2017,42000,Petrol,Manual,Lucknow,First,Individual,1198.0,FWD,5.0,35.0
+Kia,Seltos HTK Plus 1.5 [2019-2020],23256.25,2021,14000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,50.0
+BMW,3-Series 320d Sport Line,21350.0,2014,35000,Diesel,Automatic,Kolkata,First,Individual,1995.0,RWD,5.0,60.0
+Mercedes-Benz,GLA 200 d Sport,37362.5,2018,61000,Diesel,Automatic,Mumbai,Second,Individual,2143.0,FWD,5.0,50.0
+Mercedes-Benz,GLA 200 CDI Sport,27297.48475,2015,45000,Diesel,Automatic,Lucknow,First,Individual,2143.0,FWD,5.0,50.0
+Hyundai,Elite i20 Sportz 1.2 MT,11818.75,2020,39000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Estilo VXi BS-IV,3507.48475,2012,52000,Petrol,Manual,Pune,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,Eon Era +,4575.0,2018,51000,Petrol,Manual,Kanpur,First,Individual,814.0,FWD,5.0,32.0
+Maruti Suzuki,Alto VXi (O) [2014-2019],2440.0,2011,72000,Petrol,Manual,Kanpur,First,Individual,998.0,FWD,5.0,35.0
+Audi,Q3 35 TDI Premium + Sunroof,25696.25,2016,80251,Diesel,Automatic,Delhi,Second,Individual,1968.0,AWD,5.0,64.0
+Hyundai,i10 Sportz 1.2,4117.5,2010,86000,Petrol,Manual,Chennai,Second,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Alto 800 Lxi,3202.5,2014,42505,Petrol,Manual,Purnea,First,Individual,796.0,FWD,5.0,35.0
+Hyundai,Elite i20 Asta 1.2,9531.25,2017,42000,Petrol,Manual,Patna,First,Individual,1197.0,FWD,5.0,45.0
+Kia,Seltos GTX Plus AT 1.4 [2019-2020],22722.5,2019,57600,Petrol,Automatic,Chennai,First,Individual,1353.0,FWD,5.0,50.0
+Hyundai,Tucson 2WD AT GLS Diesel,24400.0,2016,128000,Diesel,Automatic,Pune,Second,Corporate,1995.0,FWD,5.0,62.0
+Toyota,Etios V,4041.25,2011,66000,Petrol,Manual,Delhi,First,Individual,1496.0,FWD,5.0,45.0
+Volkswagen,Vento Comfortline Petrol,5490.0,2013,58000,Petrol,Manual,Chandigarh,First,Individual,1598.0,FWD,5.0,55.0
+Maruti Suzuki,Ciaz Alpha 1.4 MT,12200.0,2017,82300,Petrol,Manual,Pune,First,Individual,1373.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza VDi,10827.5,2017,73000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,S-Cross Alpha 1.6,10827.5,2018,72000,Diesel,Manual,Lucknow,First,Individual,1598.0,FWD,5.0,48.0
+Volkswagen,Polo Highline1.0L (P),10980.0,2018,50197,Petrol,Manual,Pune,First,Individual,999.0,FWD,5.0,45.0
+Honda,Amaze 1.2 S i-VTEC,6023.75,2014,44527,Petrol,Manual,Mumbai,First,Individual,1198.0,FWD,5.0,35.0
+Audi,A4 35 TDI Technology,42684.75,2017,72400,Diesel,Automatic,Bangalore,First,Individual,1968.0,FWD,5.0,54.0
+Ford,Ecosport Trend 1.5 Ti-VCT,6938.75,2014,50000,Petrol,Manual,Delhi,Second,Individual,1499.0,FWD,5.0,52.0
+Honda,City VX (O) MT,10522.5,2014,37000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Tata,Harrier XZA Plus Dark Edition,30423.75,2020,8000,Diesel,Automatic,Bhubaneswar,First,Individual,1956.0,FWD,5.0,50.0
+BMW,5-Series 520d Luxury Line,26687.5,2014,69000,Diesel,Automatic,Jalandhar,Second,Individual,1995.0,RWD,5.0,65.0
+BMW,X1 sDrive20d xLine,44225.0,2019,25000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,63.0
+Honda,City 1.5 S MT,6862.5,2013,61000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,42.0
+BMW,5-Series 520d Luxury Line [2017-2019],32772.25,2015,69000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,65.0
+Tata,Nexon XT Diesel [2017-2019],13115.0,2018,82200,Diesel,Manual,Pune,First,Individual,1497.0,FWD,5.0,44.0
+Honda,City V,13343.75,2018,28000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Swift DZire VXi,3507.48475,2010,72000,Petrol,Manual,Kanpur,First,Individual,1298.0,FWD,5.0,43.0
+Audi,Q3 2.0 TDI quattro Premium Plus,23073.25,2015,79000,Diesel,Automatic,Ahmedabad,Second,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Alto VXi,3568.5,2013,72600,Petrol,Manual,Panchkula,First,Individual,998.0,FWD,5.0,35.0
+Datsun,Redigo S 1.0 AMT [2018-2019],4880.0,2018,42313,Petrol,Automatic,Bangalore,Second,Individual,999.0,FWD,5.0,28.0
+Maruti Suzuki,Vitara Brezza ZDi Plus,15631.25,2019,90000,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,DZire VDi,9607.5,2017,36000,Diesel,Manual,Patna,First,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Venue SX Plus 1.0 Turbo DCT,16622.5,2020,26200,Petrol,Automatic,Delhi,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Swift LXi Special Edition,10675.0,2019,11000,Petrol,Manual,Chennai,Second,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift VXi,10080.25,2021,14366,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,37.0
+Audi,Q3 35 TDI Premium + Sunroof,28212.5,2015,71700,Diesel,Automatic,Navi Mumbai,Second,Individual,1968.0,AWD,5.0,64.0
+Hyundai,Elite i20 Asta 1.4 CRDI [2016-2017],8158.75,2016,58339,Diesel,Manual,Panchkula,First,Individual,1396.0,FWD,5.0,45.0
+Maruti Suzuki,DZire VDi AMT,11742.5,2019,72040,Diesel,Automatic,Pune,First,Individual,1248.0,FWD,5.0,37.0
+BMW,3-Series 330i M Sport Edition,55662.5,2019,6000,Petrol,Automatic,Delhi,First,Individual,1998.0,RWD,5.0,57.0
+Kia,Sonet GTX Plus 1.0 iMT [2020-2021],18223.75,2022,6200,Petrol,Manual,Kolkata,First,Individual,998.0,FWD,5.0,45.0
+Skoda,Superb L&K TSI AT,48784.75,2021,6900,Petrol,Automatic,Kolkata,First,Individual,1798.0,FWD,5.0,66.0
+Volkswagen,Polo GT TSI,9531.25,2016,68000,Petrol,Automatic,Delhi,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Vitara Brezza VDi,11361.25,2018,36000,Diesel,Manual,Patna,First,Individual,1248.0,FWD,5.0,48.0
+Hyundai,Santro Sportz,8402.75,2021,19000,Petrol,Manual,Ahmedabad,First,Individual,1086.0,FWD,5.0,35.0
+MINI,Cooper D 3 Door,50325.0,2019,6400,Diesel,Automatic,Delhi,First,Individual,1496.0,FWD,5.0,44.0
+Renault,Duster 110 PS RXZ 4X2 AMT Diesel,10522.5,2016,35000,Diesel,Automatic,Delhi,Second,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Vitara Brezza VDi AGS,13648.73475,2019,46000,Diesel,Automatic,Mumbai,First,Individual,1248.0,FWD,5.0,48.0
+Skoda,Rapid Ambition 1.6 TDI CR MT,8387.5,2016,83000,Diesel,Manual,Chandigarh,First,Individual,1598.0,FWD,5.0,55.0
+Ford,Ecosport Trend 1.5 TDCi,6084.75,2013,54000,Diesel,Manual,Mumbai,Third,Individual,1498.0,FWD,5.0,52.0
+Kia,Seltos HTX 1.5 [2020-2021],19443.75,2020,42000,Petrol,Manual,Ahmedabad,First,Individual,1497.0,FWD,5.0,50.0
+Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],8158.75,2020,41441,Petrol,Manual,Bangalore,First,Individual,1196.0,RWD,5.0,40.0
+Maruti Suzuki,Vitara Brezza VDi,12581.25,2018,48174,Diesel,Manual,Thane,First,Individual,1248.0,FWD,5.0,48.0
+Ford,Ecosport Ambiente 1.5L TDCi,8921.25,2016,62591,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,52.0
+Honda,Jazz V AT Petrol,10293.75,2017,48650,Petrol,Automatic,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Maruti Suzuki,S-Cross Alpha 1.3,12123.75,2017,52245,Diesel,Manual,Pune,First,Individual,1248.0,FWD,5.0,48.0
+Hyundai,Elite i20 Sportz 1.4 CRDI,9317.75,2017,65000,Diesel,Manual,Kheda,First,Individual,1396.0,FWD,5.0,45.0
+Maruti Suzuki,Wagon R VXI,5947.5,2015,43297,Petrol,Manual,Kollam,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VXi [2014-2017],9912.5,2019,44710,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,42.0
+Renault,Fluence 1.5 E4,5947.5,2013,62000,Diesel,Manual,Lucknow,First,Individual,1461.0,FWD,5.0,67.0
+Audi,A4 35 TDI Technology,36600.0,2017,59267,Diesel,Automatic,Kolkata,First,Individual,1968.0,FWD,5.0,54.0
+Maruti Suzuki,Swift VXi,5871.25,2011,69000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire VXI,6862.5,2017,75000,Petrol,Manual,Kanpur,First,Commercial Registration,1197.0,FWD,5.0,42.0
+Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,9897.25,2020,52236,Petrol,Manual,Udupi,First,Individual,1197.0,FWD,5.0,43.0
+Audi,A3 35 TDI Premium + Sunroof,44225.0,2019,15530,Diesel,Automatic,Goa,First,Individual,1968.0,FWD,5.0,50.0
+Maruti Suzuki,Swift DZire VDI,6100.0,2014,64000,Diesel,Manual,Agra,First,Individual,1248.0,FWD,5.0,42.0
+Hyundai,Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,9134.75,2020,35000,Petrol,Automatic,Kolkata,First,Individual,1197.0,FWD,5.0,37.0
+Audi,A4 30 TFSI Technology Pack,53375.0,2018,18000,Petrol,Automatic,Mumbai,First,Individual,1395.0,FWD,5.0,54.0
+Honda,Jazz V Petrol,6100.0,2016,50000,Petrol,Manual,Kolkata,First,Individual,1199.0,FWD,5.0,40.0
+Maruti Suzuki,Celerio ZXi [2017-2019],6786.25,2018,71000,Petrol,Manual,Ludhiana,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VXi [2014-2017],9150.0,2020,10000,Petrol,Manual,Meerut,First,Individual,1197.0,FWD,5.0,42.0
+Kia,Seltos GTX Plus AT 1.5 Diesel [2019-2020],27983.75,2020,33828,Diesel,Automatic,Mumbai,First,Individual,1493.0,FWD,5.0,50.0
+Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],8387.5,2019,48000,CNG,Manual,Mumbai,First,Individual,998.0,FWD,5.0,60.0
+Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],10903.75,2017,71000,Diesel,Manual,Delhi,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Wagon R LXi (O) 1.0 CNG [2019-2020],8006.25,2019,50000,CNG,Manual,Delhi,First,Individual,998.0,FWD,5.0,60.0
+Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],6481.25,2015,48000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Elite i20 Sportz 1.2 IVT,12123.75,2022,4000,Petrol,Automatic,Kanpur,First,Individual,1197.0,FWD,5.0,37.0
+Honda,City 1.5 V MT,4102.25,2010,73000,Petrol,Manual,Delhi,Second,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Verna Fluidic 1.6 CRDi,8616.25,2014,68000,Diesel,Manual,Lucknow,First,Individual,1582.0,FWD,5.0,43.0
+BMW,5-Series 520d Luxury Line,38887.5,2015,70000,Diesel,Automatic,Coimbatore,Second,Individual,1995.0,RWD,5.0,65.0
+Hyundai,i20 Active 1.2 S,8067.25,2015,57654,Petrol,Manual,Zirakpur,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Alto VXi (O),6100.0,2019,22000,Petrol,Manual,Ludhiana,First,Individual,998.0,FWD,5.0,35.0
+BMW,X1 sDrive20d Expedition,39650.0,2017,41000,Diesel,Automatic,Hyderabad,First,Individual,1995.0,FWD,5.0,51.0
+Kia,Seltos GTX Plus 1.4 [2020-2021],23637.5,2019,17000,Petrol,Manual,Bangalore,First,Individual,1353.0,FWD,5.0,50.0
+Maruti Suzuki,Alto VXi AMT,6557.5,2019,57993,Petrol,Automatic,Hyderabad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Delta 1.2,9150.0,2018,32000,Petrol,Manual,Mohali,First,Individual,1197.0,FWD,5.0,37.0
+Toyota,Corolla Altis VL AT Petrol,25162.5,2018,25914,Petrol,Automatic,Pune,First,Corporate,1798.0,FWD,5.0,55.0
+Maruti Suzuki,Alto VXi,3812.5,2014,114000,Petrol,Manual,Aurangabad,Second,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza LDi (O) [2016-2018],10293.75,2016,45000,Diesel,Manual,Jalandhar,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Swift DZire VXI,6938.75,2014,30183,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Wagon R VXI,5261.25,2016,73190,Petrol,Manual,Nagpur,Second,Individual,998.0,FWD,5.0,35.0
+Hyundai,Elantra 1.8 SX MT,10675.0,2014,64000,Petrol,Manual,Dehradun,First,Individual,1797.0,FWD,5.0,56.0
+Maruti Suzuki,Ciaz VXi,8997.5,2015,39000,Petrol,Manual,Delhi,First,Individual,1373.0,FWD,5.0,43.0
+Nissan,Micra XV CVT [2016-2017],7472.5,2014,56918,Petrol,Automatic,Coimbatore,Second,Individual,1198.0,FWD,5.0,41.0
+Maruti Suzuki,DZire VDi AMT,10598.75,2018,55000,Diesel,Automatic,Delhi,First,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Venue SX 1.4 CRDi,15631.25,2019,42000,Diesel,Manual,Mumbai,First,Individual,1396.0,FWD,5.0,45.0
+Mercedes-Benz,GLA 200 d Sport,40412.5,2018,43000,Diesel,Automatic,Mumbai,Second,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,Baleno Delta 1.2,10903.75,2021,16000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta SX 1.6 AT CRDi,18300.0,2019,27657,Diesel,Automatic,Kolkata,Second,Individual,1582.0,FWD,5.0,55.0
+Hyundai,Eon 1.0 Kappa Magna + [2014-2016],4193.75,2012,30000,Petrol,Manual,Indore,First,Individual,998.0,FWD,5.0,32.0
+Honda,City 1.5 V MT,6786.25,2012,111000,Petrol,Manual,Ernakulam,First,Individual,1497.0,FWD,5.0,42.0
+Maruti Suzuki,Baleno Alpha 1.3,10141.25,2017,48000,Diesel,Manual,Delhi,First,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Creta EX 1.4 CRDi,16622.5,2019,37000,Diesel,Manual,Hyderabad,First,Individual,1396.0,FWD,5.0,55.0
+Audi,A6 35 TDI Matrix,36600.0,2017,81802,Diesel,Automatic,Nashik,Second,Individual,1968.0,FWD,5.0,75.0
+Hyundai,Verna SX Plus 1.6 CRDi AT,16546.25,2018,45915,Diesel,Automatic,Mumbai,First,Individual,1582.0,FWD,5.0,45.0
+Honda,Amaze 1.2 V CVT Petrol [2018-2020],12123.75,2019,22224,Petrol,Automatic,Pune,First,Individual,1199.0,FWD,5.0,35.0
+Honda,Amaze 1.2 S MT Petrol [2018-2020],9577.0,2018,53848,Petrol,Manual,Delhi,First,Individual,1199.0,FWD,5.0,35.0
+BMW,3-Series 320d Luxury Line,23637.5,2013,104264,Diesel,Automatic,Hyderabad,Second,Individual,1995.0,RWD,5.0,57.0
+Honda,City VX (O) MT,9073.75,2015,72000,Petrol,Manual,Meerut,First,Individual,1497.0,FWD,5.0,40.0
+Land Rover,Evoque SE,52612.5,2016,29000,Diesel,Automatic,Delhi,First,Individual,2179.0,AWD,5.0,57.0
+Honda,WR-V VX MT Petrol,12504.98475,2018,42000,Petrol,Manual,Chennai,First,Individual,1199.0,FWD,5.0,40.0
+Audi,Q5 2.0 TDI quattro Premium Plus,22722.5,2012,40000,Diesel,Automatic,Raipur,First,Individual,1968.0,AWD,5.0,75.0
+Mahindra,XUV300 1.5 W6 [2019-2020],14487.5,2020,57400,Diesel,Manual,Agra,First,Individual,1497.0,FWD,5.0,42.0
+Jaguar,XF Prestige Diesel CBU,57187.5,2019,13500,Diesel,Automatic,Delhi,Second,Individual,1999.0,RWD,5.0,66.0
+Jeep,Compass Model S (O) Diesel 4x4 AT,44987.5,2021,38000,Diesel,Automatic,Pune,First,Individual,1956.0,AWD,5.0,60.0
+Toyota,Etios Liva GD,9531.25,2015,76000,Diesel,Manual,Pune,First,Individual,1364.0,FWD,5.0,45.0
+Hyundai,i10 Asta 1.2 AT with Sunroof,4956.25,2013,46721,Petrol,Automatic,Thane,Second,Individual,1197.0,FWD,5.0,35.0
+Honda,City ZX CVT Petrol [2017-2019],17354.5,2018,6000,Petrol,Automatic,Mumbai,First,Corporate,1497.0,FWD,5.0,40.0
+Honda,Brio S MT,5566.25,2014,31000,Petrol,Manual,Kharar,First,Individual,1198.0,FWD,5.0,35.0
+Chevrolet,Cruze LTZ AT,7243.75,2014,73265,Diesel,Automatic,Delhi,Second,Individual,1998.0,FWD,5.0,60.0
+Hyundai,Creta SX 1.6 CRDi,18681.25,2019,47000,Diesel,Manual,Jalandhar,First,Individual,1582.0,FWD,5.0,55.0
+Mercedes-Benz,GLA 200 CDI Sport,37362.5,2017,25000,Diesel,Automatic,Mumbai,Second,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,DZire VXi AMT,10598.75,2018,68818,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Honda,Amaze 1.5 VX CVT Diesel,14487.5,2020,39000,Diesel,Automatic,Ludhiana,First,Individual,1498.0,FWD,5.0,35.0
+Honda,Jazz VX Petrol,8921.25,2017,24100,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Ford,Aspire Titanium 1.2 Ti-VCT,6633.73475,2017,23000,Petrol,Manual,Delhi,First,Individual,1196.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Delta 1.5 Diesel,13877.5,2019,76000,Diesel,Manual,Hyderabad,First,Individual,1498.0,FWD,5.0,43.0
+Maruti Suzuki,Celerio VXi,8616.25,2020,47000,Petrol,Manual,Hyderabad,First,Individual,998.0,FWD,5.0,35.0
+Toyota,Urban Cruiser Premium Grade AT,16012.5,2021,1910,Petrol,Automatic,Varanasi,First,Individual,1462.0,FWD,5.0,48.0
+Hyundai,Creta E Plus 1.4 CRDI,15097.5,2019,23000,Diesel,Manual,Ahmedabad,First,Individual,1396.0,FWD,5.0,60.0
+Audi,A3 35 TDI Premium Plus,39497.5,2020,36978,Diesel,Automatic,Chandigarh,Second,Individual,1968.0,FWD,5.0,50.0
+Hyundai,i10 1.1L iRDE ERA Special Edition,3888.73475,2012,18954,Petrol,Manual,Patna,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Verna Fluidic 1.6 VTVT SX AT,9119.5,2015,58200,Petrol,Automatic,Navi Mumbai,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Elite i20 Asta 1.4 (O) CRDi,8540.0,2016,80000,Diesel,Manual,Ambala Cantt,Second,Individual,1396.0,FWD,5.0,40.0
+Audi,A4 2.0 TDI (177bhp) Premium,14868.75,2011,75000,Diesel,Automatic,Lucknow,First,Individual,1968.0,FWD,5.0,63.0
+Audi,A3 35 TDI Premium,39650.0,2017,64000,Diesel,Automatic,Chennai,First,Individual,1968.0,FWD,5.0,50.0
+Skoda,Rapid Ambition 1.6 TDI CR MT,11361.25,2016,117048,Diesel,Manual,Hyderabad,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT,7548.75,2017,47000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,43.0
+Audi,A3 40 TFSI Premium Plus + sunroof,37362.5,2018,43290,Petrol,Automatic,Pune,First,Individual,1798.0,FWD,5.0,50.0
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,43462.5,2016,7000,Diesel,Automatic,Delhi,First,Individual,2143.0,RWD,5.0,66.0
+Audi,A6 2.0 TDI Premium,22875.0,2014,69000,Diesel,Automatic,Mohali,First,Individual,1968.0,FWD,5.0,65.0
+Toyota,Etios G,4956.25,2011,101347,Petrol,Manual,Pune,Third,Individual,1496.0,FWD,5.0,45.0
+Audi,A3 35 TDI Premium,27450.0,2014,76529,Diesel,Automatic,Pune,First,Individual,1968.0,FWD,5.0,50.0
+Nissan,Terrano XL D Plus,9150.0,2016,99000,Diesel,Manual,Chennai,First,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],6649.0,2014,37959,Petrol,Automatic,Delhi,Second,Individual,1197.0,FWD,5.0,43.0
+Datsun,Go T (O),4117.5,2017,27000,Petrol,Manual,Lucknow,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Creta SX 1.4 Turbo 7 DCT,29142.75,2022,1300,Petrol,Automatic,Delhi,First,Individual,1353.0,FWD,5.0,50.0
+Mercedes-Benz,C-Class C 220d Progressive [2018-2019],59475.0,2019,33000,Diesel,Automatic,Delhi,First,Individual,1950.0,RWD,5.0,66.0
+Volvo,V40 D3 R-Design,30500.0,2016,6000,Diesel,Automatic,Mumbai,First,Individual,1984.0,FWD,5.0,60.0
+Hyundai,Santro Sportz AMT [2018-2020],7091.25,2019,19000,Petrol,Automatic,Kolkata,First,Individual,1086.0,FWD,5.0,35.0
+Honda,City V,13343.75,2019,58618,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,40.0
+Renault,Kwid 1.0 RXT AMT Opt,6511.73475,2020,41669,Petrol,Automatic,Zirakpur,First,Individual,999.0,FWD,5.0,28.0
+Hyundai,Creta 1.6 SX,15783.75,2018,36000,Diesel,Manual,Patna,First,Individual,1582.0,FWD,5.0,60.0
+Maruti Suzuki,DZire ZXi,10598.75,2018,31000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+BMW,X1 sDrive20d xLine,56043.75,2020,37180,Diesel,Automatic,Bangalore,First,Individual,1995.0,RWD,5.0,63.0
+Tata,Tiago Revotron XZ,6847.25,2018,53512,Petrol,Manual,Hyderabad,Second,Individual,1199.0,FWD,5.0,35.0
+Hyundai,Elite i20 Sportz 1.4,8616.25,2015,65000,Diesel,Manual,Ludhiana,Second,Individual,1396.0,FWD,5.0,45.0
+BMW,X1 sDrive20d xLine,57568.75,2019,32963,Diesel,Automatic,Bangalore,First,Individual,1995.0,RWD,5.0,63.0
+Renault,Kwid 1.0 RXT Edition,5718.75,2018,14000,Petrol,Manual,Mumbai,First,Individual,999.0,FWD,5.0,28.0
+Maruti Suzuki,Vitara Brezza ZDi,14472.25,2018,50500,Diesel,Manual,Dharwad,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Swift ZDi Plus,11818.75,2019,80849,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,37.0
+Audi,A6 2.0 TDI Premium Plus,27450.0,2014,19868,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,65.0
+Honda,City VX CVT,12581.25,2016,45000,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Santro Magna [2018-2020],7777.48475,2019,30858,Petrol,Manual,Hyderabad,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],9912.5,2020,37003,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City ZX Diesel,22722.5,2021,11000,Diesel,Manual,Lucknow,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Baleno Sigma 1.2,8311.25,2016,53000,Petrol,Manual,Jalandhar,First,Individual,1197.0,FWD,5.0,37.0
+BMW,3-Series 320d Luxury Line,44987.5,2018,75000,Diesel,Automatic,Coimbatore,First,Individual,1995.0,RWD,5.0,57.0
+Audi,Q3 2.0 TDI quattro Premium,28212.5,2013,44087,Diesel,Automatic,Mumbai,First,Individual,1968.0,AWD,5.0,64.0
+Nissan,Sunny XV Diesel,5490.0,2013,92000,Diesel,Manual,Lucknow,Second,Individual,1461.0,FWD,5.0,41.0
+Ford,Ecosport Titanium 1.5L Ti-VCT,9531.25,2019,48422,Petrol,Manual,Kolkata,First,Individual,1497.0,FWD,5.0,52.0
+BMW,3-Series 320d Luxury Line,63287.5,2019,29000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,57.0
+Maruti Suzuki,Baleno Delta 1.2,7396.23475,2018,62000,Petrol,Manual,Faridabad,Second,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta SX 1.6 (O) Petrol,19443.75,2019,44000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,55.0
+BMW,3-Series 320d Luxury Line,20968.75,2013,102000,Diesel,Automatic,Bangalore,Second,Individual,1995.0,RWD,5.0,57.0
+Hyundai,Creta SX 1.5 Diesel [2020-2022],25925.0,2022,9000,Diesel,Manual,Raipur,First,Individual,1493.0,FWD,5.0,50.0
+Maruti Suzuki,DZire VXi AMT,10903.75,2019,31552,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R VXI+ AMT,5795.0,2016,70000,Petrol,Automatic,Ahmedabad,First,Individual,998.0,FWD,5.0,35.0
+Honda,Brio E MT,5718.75,2016,35134,Petrol,Manual,Delhi,First,Individual,1198.0,FWD,5.0,35.0
+Maruti Suzuki,Swift ZXi AMT [2018-2019],10598.75,2018,8000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta 1.6 SX (O),13343.75,2016,62125,Diesel,Manual,Patna,First,Individual,1582.0,FWD,5.0,60.0
+Hyundai,i20 Active 1.2 SX,10446.25,2018,64300,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,40.0
+Skoda,Octavia 1.8 TSI Ambition Plus AT,25696.25,2017,28600,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,50.0
+Audi,A6 35 TDI Matrix,38887.5,2015,69500,Diesel,Automatic,Chandigarh,Second,Individual,1968.0,FWD,5.0,75.0
+Hyundai,Creta SX 1.6 CRDI,13267.48475,2017,70000,Diesel,Manual,Kanpur,First,Individual,1582.0,FWD,5.0,60.0
+Audi,Q3 2.0 TDI quattro Premium,21197.5,2012,69500,Diesel,Automatic,Ahmedabad,First,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],12581.25,2019,25500,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Ciaz Zeta 1.4 AT,11971.25,2017,20000,Petrol,Automatic,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Mercedes-Benz,GLA 200 CDI Sport,32711.25,2016,55000,Diesel,Automatic,Mumbai,Second,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,Eeco 5 STR WITH HTR CNG [2018-2019],8997.5,2021,8640,CNG,Manual,Bhopal,First,Individual,1196.0,RWD,5.0,40.0
+Volkswagen,Polo Highline1.2L (P),7472.5,2015,50000,Petrol,Manual,Delhi,First,Individual,1198.0,FWD,5.0,45.0
+Renault,Kwid 1.0 RXT [2016-2019],6405.0,2017,43000,Petrol,Manual,Hyderabad,UnRegistered Car,Individual,999.0,FWD,5.0,28.0
+Hyundai,Tucson GL 2WD AT Diesel,36523.75,2019,44876,Diesel,Automatic,Bangalore,First,Individual,1995.0,FWD,5.0,62.0
+Hyundai,i20 Sportz 1.4 CRDI,5490.0,2013,95610,Diesel,Manual,Rudrapur,Second,Individual,1336.0,FWD,5.0,45.0
+Nissan,Sunny XV Diesel,4956.25,2013,51000,Diesel,Manual,Zirakpur,First,Individual,1461.0,FWD,5.0,41.0
+Land Rover,Evoque Dynamic SD4,35075.0,2013,110000,Diesel,Automatic,Chennai,Second,Individual,2179.0,AWD,5.0,57.0
+Hyundai,Eon Era +,4422.5,2018,70000,Petrol,Manual,Kheda,First,Individual,814.0,FWD,5.0,32.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],5947.5,2014,57000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,43.0
+Toyota,Corolla Altis 1.8 G AT,13572.5,2014,63000,Petrol,Automatic,Delhi,First,Individual,1798.0,FWD,5.0,55.0
+Maruti Suzuki,Swift LXi,6710.0,2016,53807,Petrol,Manual,Gurgaon,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Delta 1.4 MT,10995.25,2018,46000,Petrol,Manual,Noida,First,Individual,1373.0,FWD,5.0,43.0
+Skoda,Octavia 1.8 TSI L&K,23103.75,2018,67546,Petrol,Automatic,Ludhiana,Second,Individual,1798.0,FWD,5.0,50.0
+Honda,City V,14472.25,2018,37100,Petrol,Manual,Mysore,First,Individual,1497.0,FWD,5.0,40.0
+Renault,Kwid RXT [2015-2019],4864.75,2018,89059,Petrol,Manual,Zirakpur,First,Individual,799.0,FWD,5.0,28.0
+Volvo,V40 D3 R-Design,32025.0,2018,42000,Diesel,Automatic,Raipur,First,Individual,1984.0,FWD,5.0,60.0
+Maruti Suzuki,Baleno Delta 1.2,10446.25,2017,58146,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Toyota,Etios GD,4575.0,2013,75000,Diesel,Manual,Kanpur,Second,Individual,1364.0,FWD,5.0,45.0
+Mercedes-Benz,A-Class Sedan 200d,62525.0,2022,3826,Diesel,Automatic,Ahmedabad,UnRegistered Car,Individual,1950.0,FWD,5.0,43.0
+Hyundai,Creta SX 1.6 (O) Petrol,17003.75,2018,37000,Petrol,Manual,Delhi,Second,Individual,1591.0,FWD,5.0,55.0
+Honda,City V CVT Petrol [2017-2019],11605.25,2017,38000,Petrol,Automatic,Ahmedabad,Second,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Baleno Zeta 1.2,12581.25,2021,8499,Petrol,Manual,Thane,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Elite i20 Magna 1.4 CRDI [2016-2017],9912.5,2016,61181,Diesel,Manual,Jaipur,First,Individual,1396.0,FWD,5.0,45.0
+Honda,Jazz V Petrol,8616.25,2017,45000,Petrol,Manual,Delhi,First,Individual,1199.0,FWD,5.0,40.0
+Hyundai,Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,10446.25,2021,9232,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Elite i20 Magna Executive 1.2,9287.25,2018,42601,Petrol,Manual,Udupi,First,Individual,1197.0,FWD,5.0,45.0
+Honda,Amaze 1.2 S i-VTEC Opt,7320.0,2016,50000,Petrol,Manual,Guwahati,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Elantra 1.6 SX AT,9531.25,2014,80000,Diesel,Automatic,Delhi,First,Individual,1582.0,FWD,5.0,56.0
+Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],6435.5,2018,12768,Petrol,Manual,Ahmedabad,First,Individual,1196.0,RWD,5.0,40.0
+Toyota,Corolla Altis VL AT Petrol,19748.75,2018,65100,Petrol,Automatic,Thane,First,Corporate,1798.0,FWD,5.0,55.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],7548.75,2017,30000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,43.0
+Tata,Tiago Revotron XTA [2017-2019],8921.25,2019,12000,Petrol,Automatic,Mumbai,First,Individual,1199.0,FWD,5.0,35.0
+Mercedes-Benz,C-Class C 220d Progressive [2018-2019],60237.5,2019,33000,Diesel,Automatic,Mumbai,First,Individual,1950.0,RWD,5.0,66.0
+Skoda,Rapid Elegance 1.6 MPI AT,6481.25,2013,57000,Petrol,Automatic,Delhi,Second,Individual,1598.0,FWD,5.0,55.0
+BMW,5-Series 525d Sedan,14868.75,2011,61000,Diesel,Automatic,Mohali,Third,Individual,1995.0,RWD,5.0,50.0
+BMW,5-Series 520d Sport Line,45597.5,2017,44000,Diesel,Automatic,Mumbai,Second,Individual,1995.0,RWD,5.0,57.0
+Renault,Duster 85 PS RxL Diesel,4270.0,2013,99000,Diesel,Manual,Faridabad,Second,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Wagon R LXI CNG (O),4727.5,2014,82000,CNG,Manual,Lucknow,First,Individual,998.0,FWD,5.0,35.0
+Honda,Jazz V AT Petrol,9073.75,2016,80000,Petrol,Automatic,Delhi,First,Individual,1199.0,FWD,5.0,40.0
+Jeep,Compass Limited 2.0 Diesel [2017-2020],18910.0,2017,57000,Diesel,Manual,Mumbai,First,Individual,1956.0,FWD,5.0,60.0
+Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],5002.0,2018,26807,Petrol,Manual,Mumbai,Second,Individual,1196.0,RWD,5.0,40.0
+Hyundai,Elite i20 Sportz 1.2,9531.25,2018,23000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,40.0
+Maruti Suzuki,Swift VDi,6252.48475,2015,112000,Diesel,Manual,Gurgaon,First,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire ZXI,8311.25,2015,70000,Petrol,Manual,Mohali,First,Individual,1197.0,FWD,5.0,42.0
+Volkswagen,Polo Trendline 1.0L (P),10659.75,2019,53929,Petrol,Manual,Bangalore,First,Individual,999.0,FWD,5.0,45.0
+Maruti Suzuki,Celerio LXi,5947.5,2014,49580,Petrol,Manual,Coimbatore,First,Individual,998.0,FWD,5.0,35.0
+Toyota,Corolla Altis GL,10370.0,2014,85000,Diesel,Manual,Kanpur,Second,Individual,1364.0,FWD,5.0,50.0
+Maruti Suzuki,Ciaz ZDi SHVS,9531.25,2015,61000,Diesel,Manual,Allahabad,First,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Wagon R LXi LPG,3583.75,2012,35000,LPG,Manual,Varanasi,Second,Individual,998.0,FWD,5.0,28.0
+Honda,City 1.5 V AT,8387.5,2011,69000,Petrol,Automatic,Bangalore,Second,Individual,1497.0,FWD,5.0,42.0
+Jeep,Compass Limited 1.4 Petrol AT [2017-2020],20587.5,2017,70000,Petrol,Automatic,Chennai,First,Individual,1368.0,FWD,5.0,60.0
+Hyundai,i10 Magna 1.2 Kappa2,4956.25,2013,15780,Petrol,Manual,Thane,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz ZXI+,9760.0,2016,50800,Petrol,Manual,Lucknow,First,Individual,1373.0,FWD,5.0,43.0
+Toyota,Corolla Altis 1.8 VL AT,6862.5,2011,95000,Petrol,Automatic,Mumbai,First,Individual,1794.0,FWD,5.0,55.0
+BMW,5-Series 520d Sedan,11437.5,2010,112000,Diesel,Automatic,Pune,Second,Individual,1995.0,RWD,5.0,70.0
+Maruti Suzuki,Vitara Brezza ZDi,12215.25,2018,30000,Diesel,Manual,Patna,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Alto VXi,3736.25,2014,31100,Petrol,Manual,Jamshedpur,Second,Individual,998.0,FWD,5.0,35.0
+Honda,Amaze 1.2 S i-VTEC,7243.75,2014,65000,Petrol,Manual,Coimbatore,Second,Individual,1198.0,FWD,5.0,35.0
+Audi,A3 35 TDI Premium,44987.5,2020,11000,Diesel,Automatic,Pune,First,Individual,1968.0,FWD,5.0,50.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],8311.25,2019,28000,Petrol,Manual,Kharar,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Xcent SX CRDi,6633.73475,2017,27000,Diesel,Manual,Kolkata,Second,Individual,1186.0,FWD,5.0,43.0
+Renault,Kwid RXT [2015-2019],4803.75,2017,15507,Petrol,Manual,Pune,First,Individual,799.0,FWD,5.0,28.0
+Honda,City VX,8387.5,2015,44000,Petrol,Manual,Kolkata,First,Individual,1497.0,FWD,5.0,40.0
+Datsun,Redigo T(O) 1.0 [2017-2019],3019.5,2017,24000,Petrol,Manual,Faridabad,First,Individual,999.0,FWD,5.0,28.0
+Hyundai,i10 Magna 1.1 LPG,3431.25,2014,47721,LPG,Manual,Patna,First,Individual,1086.0,FWD,5.0,35.0
+Renault,Kwid RXT [2015-2019],4803.75,2017,15507,Petrol,Manual,Thane,First,Individual,799.0,FWD,5.0,28.0
+Honda,City V,11818.75,2018,39000,Petrol,Manual,Noida,Second,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,DZire VXi AMT,9531.25,2017,58000,Petrol,Automatic,Chennai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta SX Plus 1.6 CRDI Dual Tone,11818.75,2015,82000,Diesel,Manual,Raipur,Second,Individual,1582.0,FWD,5.0,60.0
+BMW,3-Series 320d Prestige,25604.75,2016,46000,Diesel,Automatic,Delhi,Second,Individual,1995.0,RWD,5.0,57.0
+Maruti Suzuki,Swift ZXi AMT [2018-2019],11056.25,2019,11874,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,8235.0,2014,86000,Diesel,Manual,Lucknow,First,Individual,1582.0,FWD,5.0,43.0
+Volkswagen,Polo Highline1.2L (D),5337.5,2014,111000,Diesel,Manual,Ambala Cantt,Second,Individual,1199.0,FWD,5.0,45.0
+Volvo,V40 D3 R-Design,25772.48475,2015,50000,Diesel,Automatic,Coimbatore,Second,Individual,1984.0,FWD,5.0,60.0
+Nissan,Magnite XL,9531.25,2021,28000,Petrol,Manual,Zirakpur,First,Corporate,999.0,FWD,5.0,40.0
+Maruti Suzuki,Celerio ZXi [2019-2020],7243.75,2019,25000,Petrol,Manual,Muzaffurpur,First,Individual,998.0,FWD,5.0,35.0
+Kia,Seltos HTK Plus 1.5 Diesel,25162.5,2021,12000,Diesel,Manual,Raipur,First,Individual,1493.0,FWD,5.0,50.0
+Hyundai,Santro Era,6252.48475,2019,32000,Petrol,Manual,Zirakpur,First,Individual,1086.0,FWD,5.0,35.0
+BMW,5-Series 520d Luxury Line [2017-2019],41937.5,2017,51800,Diesel,Automatic,Navi Mumbai,Second,Individual,1995.0,RWD,5.0,65.0
+Maruti Suzuki,Ignis Zeta 1.2 AMT,8311.25,2017,22000,Petrol,Automatic,Delhi,First,Individual,1197.0,FWD,5.0,32.0
+Maruti Suzuki,Swift VXi,7091.25,2014,75000,Petrol,Manual,Mohali,First,Individual,1197.0,FWD,5.0,42.0
+Fiat,Punto Active 1.3,5718.75,2014,71000,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,45.0
+Audi,Q3 30 TDI Premium FWD,44225.0,2017,64000,Diesel,Automatic,Chennai,First,Individual,1968.0,FWD,5.0,64.0
+Honda,WR-V VX MT Petrol,12123.75,2018,45326,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Audi,A3 35 TDI Premium,44225.0,2019,15529,Diesel,Automatic,Mumbai,First,Individual,1968.0,FWD,5.0,50.0
+Mercedes-Benz,GLA 200 Sport,34312.5,2015,43200,Petrol,Automatic,Pune,First,Corporate,1991.0,FWD,5.0,50.0
+Honda,City VX CVT Petrol [2017-2019],16012.5,2017,29386,Petrol,Automatic,Bangalore,Second,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],11666.25,2021,18105,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,S-Cross Sigma 1.3,10293.75,2017,125372,Diesel,Manual,Coimbatore,First,Individual,1248.0,FWD,5.0,48.0
+Audi,A6 35 TDI Matrix,36600.0,2015,100000,Diesel,Automatic,Jaipur,First,Individual,1968.0,FWD,5.0,75.0
+Audi,A7 Sportback 3.0 TDI quattro,39650.0,2012,42000,Diesel,Automatic,Lucknow,First,Individual,2967.0,AWD,5.0,65.0
+Honda,City 1.5 V AT,7548.75,2012,65001,Petrol,Automatic,Pune,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7548.75,2018,45000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Swift DZire LDI,7320.0,2016,85000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,42.0
+Hyundai,Creta 1.6 SX (O),26687.5,2021,17000,Diesel,Manual,Kanpur,First,Individual,1582.0,FWD,5.0,60.0
+Hyundai,Santro Sportz AMT [2018-2020],6633.73475,2019,34400,Petrol,Automatic,Ranchi,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Venue SX (O) 1.0 Turbo iMT,16317.5,2021,8800,Petrol,Manual,Delhi,First,Individual,998.0,FWD,5.0,45.0
+Honda,City ZX CVT Petrol,23332.5,2022,2000,Petrol,Automatic,Delhi,First,Individual,1498.0,FWD,5.0,40.0
+Hyundai,Creta SX 1.5 Diesel [2020-2022],24369.5,2020,19700,Diesel,Manual,Mumbai,First,Individual,1493.0,FWD,5.0,50.0
+Hyundai,Verna 1.6 VTVT SX,9836.25,2016,45000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,43.0
+Maruti Suzuki,Swift DZire ZDI AMT,9912.5,2017,76000,Diesel,Automatic,Navi Mumbai,First,Individual,1248.0,FWD,5.0,42.0
+Volkswagen,Vento Highline Diesel,8311.25,2013,110000,Diesel,Manual,Bangalore,First,Individual,1598.0,FWD,5.0,55.0
+Honda,City V Petrol,16698.75,2022,2700,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Audi,Q3 35 TDI Technology with Navigation,28044.75,2017,110000,Diesel,Automatic,Mumbai,First,Individual,1968.0,AWD,5.0,64.0
+Skoda,Superb L&K TSI AT,22875.0,2016,70000,Petrol,Automatic,Raipur,Second,Individual,1798.0,FWD,5.0,66.0
+Audi,Q3 35 TDI quattro Premium Plus,32025.0,2017,42000,Diesel,Automatic,Gurgaon,First,Individual,1968.0,AWD,5.0,64.0
+Volkswagen,Polo Comfortline 1.5L (D),5261.25,2015,70000,Diesel,Manual,Faridabad,First,Individual,1498.0,FWD,5.0,45.0
+Honda,City V,12962.5,2018,52890,Petrol,Manual,Gurgaon,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Creta SX 1.6 AT CRDi,21731.25,2018,72870,Diesel,Automatic,Mumbai,First,Corporate,1582.0,FWD,5.0,55.0
+Hyundai,Elite i20 Asta 1.2,10293.75,2017,48591,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,45.0
+Mahindra,XUV300 1.5 W6 [2019-2020],14106.25,2019,60888,Diesel,Manual,Jalandhar,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Eon Era +,3202.5,2014,48000,Petrol,Manual,Lucknow,First,Individual,814.0,FWD,5.0,32.0
+Tata,Nexon XM,11590.0,2018,20251,Petrol,Manual,Pune,First,Individual,1198.0,FWD,5.0,44.0
+Hyundai,Verna 1.6 CRDI SX,9760.0,2015,49000,Diesel,Manual,Mumbai,First,Individual,1582.0,FWD,5.0,43.0
+Maruti Suzuki,Swift VXi,5185.0,2013,66000,Petrol,Manual,Meerut,First,Individual,1197.0,FWD,5.0,42.0
+Honda,City S Petrol,10598.75,2017,51292,Petrol,Manual,Thane,First,Individual,1497.0,FWD,5.0,40.0
+Ford,Figo Trend 1.5L TDCi [2015-2016],7091.25,2015,89000,Diesel,Manual,Jaipur,Second,Individual,1498.0,FWD,5.0,40.0
+Toyota,Glanza V,11208.75,2019,55000,Petrol,Manual,Jaipur,First,Individual,1197.0,FWD,5.0,37.0
+Honda,City V,10446.25,2016,68500,Petrol,Manual,Ahmedabad,First,Individual,1497.0,FWD,5.0,40.0
+Toyota,Glanza G,10675.0,2019,19244,Petrol,Manual,Zirakpur,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R VXi 1.2,8387.5,2020,19000,Petrol,Manual,Varanasi,First,Individual,1197.0,FWD,5.0,32.0
+Audi,A6 2.0 TDI Premium,21350.0,2013,60000,Diesel,Automatic,Pune,Second,Individual,1968.0,FWD,5.0,65.0
+Maruti Suzuki,Swift VXi,6481.25,2015,80000,Petrol,Manual,Noida,Second,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],9760.0,2016,52000,Diesel,Manual,Delhi,Second,Individual,1248.0,FWD,5.0,48.0
+Hyundai,Santro GL (CNG),4193.75,2013,76000,CNG,Manual,Delhi,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Elite i20 Sportz 1.2 [2016-2017],10598.75,2019,42678,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Honda,City 1.5 V AT,3736.25,2010,95000,Petrol,Automatic,Gurgaon,Second,Individual,1497.0,FWD,5.0,42.0
+Renault,Duster 110 PS RxL,10522.5,2016,65000,Diesel,Manual,Delhi,Second,Individual,1461.0,FWD,5.0,50.0
+Volkswagen,Taigun Highline 1.0 TSI AT,22875.0,2021,31000,Petrol,Automatic,Hyderabad,First,Individual,999.0,FWD,5.0,50.0
+Maruti Suzuki,Alto VXi,4117.5,2014,82682,Petrol,Manual,Pune,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,i20 Active 1.4 S,8311.25,2016,70500,Diesel,Manual,Jamshedpur,First,Individual,1396.0,FWD,5.0,45.0
+Renault,Kwid RXT [2015-2019],3888.73475,2016,57159,Petrol,Manual,Varanasi,First,Individual,799.0,FWD,5.0,28.0
+BMW,3-Series 320d Sport Line [2014-2016],30500.0,2014,82000,Diesel,Automatic,Mohali,First,Individual,1995.0,RWD,5.0,50.0
+Honda,City 1.5 V AT,7243.75,2012,40000,Petrol,Automatic,Pune,Second,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Elite i20 Sportz 1.2 (O),9912.5,2020,58100,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,45.0
+Mercedes-Benz,C-Class C 200 Avantgarde,36371.25,2015,60921,Petrol,Automatic,Pune,Second,Individual,1991.0,RWD,5.0,66.0
+Audi,Q5 2.0 TDI quattro Premium,25925.0,2014,78000,Diesel,Automatic,Ahmedabad,First,Individual,1968.0,AWD,5.0,75.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt,5795.0,2012,53000,Petrol,Manual,Mumbai,First,Corporate,1591.0,FWD,5.0,43.0
+Renault,Kwid 1.0 RXT [2016-2019],4498.75,2016,34736,Petrol,Manual,Hyderabad,First,Individual,999.0,FWD,5.0,28.0
+Tata,Harrier XZ,26687.5,2020,14400,Diesel,Manual,Ahmedabad,First,Individual,1956.0,FWD,5.0,50.0
+Audi,A3 35 TFSI Premium Plus,33245.0,2018,77590,Petrol,Automatic,Delhi,First,Individual,1395.0,FWD,5.0,50.0
+Maruti Suzuki,Alto LXi CNG,2363.75,2009,56852,CNG,Manual,Kanpur,Second,Individual,796.0,FWD,5.0,35.0
+Maruti Suzuki,DZire ZXi Plus AMT,11208.75,2018,42000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Skoda,Rapid Style 1.6 MPI AT,13725.0,2018,55000,Petrol,Automatic,Pune,Second,Individual,1598.0,FWD,5.0,55.0
+Skoda,Superb Elegance 1.8 TSI AT,12123.75,2014,53000,Petrol,Automatic,Delhi,Second,Individual,1798.0,FWD,5.0,60.0
+MINI,Cooper D 3 Door,50325.0,2018,17000,Diesel,Automatic,Delhi,First,Individual,1496.0,FWD,5.0,44.0
+Maruti Suzuki,Vitara Brezza VDi,11056.25,2017,75793,Diesel,Manual,Navi Mumbai,First,Individual,1248.0,FWD,5.0,48.0
+Volvo,S60 Kinetic D4,15173.73475,2012,89311,Diesel,Automatic,Hyderabad,First,Individual,1984.0,FWD,5.0,67.5
+Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],11971.25,2018,80000,Diesel,Manual,Mohali,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Wagon R VXI,5947.5,2018,66794,Petrol,Manual,Kolkata,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Zeta 1.2 AT,10293.75,2017,35616,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Eeco 5 STR [2014-2019],4880.0,2015,64000,Petrol,Manual,Ranchi,First,Individual,1196.0,RWD,5.0,40.0
+Maruti Suzuki,Baleno Zeta 1.2 AT,12810.0,2020,7000,Petrol,Automatic,Chennai,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R VXI,4727.5,2015,45000,Petrol,Manual,Ranchi,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R LXI CNG,4727.5,2015,67738,CNG,Manual,Delhi,Second,Individual,998.0,FWD,5.0,35.0
+Toyota,Glanza G,13115.0,2021,11030,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,i10 Magna 1.2 Kappa2,5947.5,2015,49123,Petrol,Manual,Patna,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Swift DZire LDI,7930.0,2018,46000,Diesel,Manual,Bhubaneswar,First,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],10293.75,2018,64000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,S-Presso VXi,7243.75,2021,7942,Petrol,Manual,Thane,First,Individual,998.0,FWD,5.0,27.0
+Maruti Suzuki,Alto 800 Lxi,4041.25,2017,52100,Petrol,Manual,Lucknow,First,Individual,796.0,FWD,5.0,35.0
+Skoda,Rapid Ambition 1.6 TDI CR MT,14487.5,2019,32809,Diesel,Manual,Coimbatore,First,Individual,1598.0,FWD,5.0,55.0
+Audi,A3 35 TDI Premium Plus + Sunroof,33931.25,2016,40500,Diesel,Automatic,Mumbai,First,Individual,1968.0,FWD,5.0,50.0
+Jeep,Compass Sport 1.4 Petrol,26672.23475,2021,25700,Petrol,Manual,Karnal,First,Corporate,1368.0,FWD,5.0,60.0
+Mercedes-Benz,M-Class ML 250 CDI,34312.5,2014,85000,Diesel,Automatic,Delhi,Second,Individual,2143.0,AWD,5.0,70.0
+Hyundai,Elite i20 Asta 1.2 (O) [2016],10522.5,2017,17268,Petrol,Manual,Nashik,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Baleno Zeta 1.2,8555.25,2017,68000,Petrol,Manual,Noida,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift DZire VXI AT,9073.75,2017,44100,Petrol,Automatic,Mumbai,First,Corporate,1197.0,FWD,5.0,42.0
+Hyundai,i20 Magna (O) 1.2,6862.5,2014,23000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,45.0
+BMW,5-Series 520d Modern Line,35059.75,2014,58000,Diesel,Automatic,Mumbai,First,Individual,1995.0,RWD,5.0,50.0
+Audi,Q3 35 TDI Technology,32787.5,2016,95401,Diesel,Automatic,Bangalore,First,Individual,1968.0,AWD,5.0,64.0
+Kia,Seltos GTX Plus 1.4 DCT,28212.5,2020,7000,Petrol,Automatic,Bangalore,First,Individual,1353.0,FWD,5.0,50.0
+Hyundai,Elantra SX (O) 2.0 AT,17918.75,2017,24000,Petrol,Automatic,Mumbai,First,Individual,1999.0,FWD,5.0,50.0
+Hyundai,Accent Executive,6100.0,2015,41273,Petrol,Manual,Mumbai,First,Individual,1495.0,FWD,5.0,45.0
+Hyundai,Creta SX 1.6 CRDi,16775.0,2018,65954,Diesel,Manual,Pune,First,Individual,1582.0,FWD,5.0,55.0
+Hyundai,i10 Sportz 1.2 Kappa2,6023.75,2016,28000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,S-Presso VXi Plus,6481.25,2021,38848,Petrol,Manual,Panchkula,First,Individual,998.0,FWD,5.0,27.0
+Maruti Suzuki,Swift DZire LXI (O),6420.25,2017,69000,Petrol,Manual,Faridabad,First,Individual,1197.0,FWD,5.0,42.0
+Hyundai,i20 Active 1.2 SX,8540.0,2016,22700,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Audi,Q3 35 TDI quattro Technology,49562.5,2019,41000,Diesel,Automatic,Hyderabad,Second,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Ciaz Alpha 1.4 MT,13709.75,2018,13066,Petrol,Manual,Bangalore,First,Individual,1373.0,FWD,5.0,43.0
+Renault,Duster 85 PS RxL,6481.25,2015,75000,Diesel,Manual,Kanpur,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,S-Presso VXi (O),6481.25,2019,53241,Petrol,Manual,Mirzapur,First,Individual,998.0,FWD,5.0,27.0
+MINI,Countryman Cooper S JCW Inspired,59093.75,2021,12000,Petrol,Automatic,Delhi,First,Individual,1998.0,FWD,5.0,47.0
+Honda,City 1.5 S MT,7625.0,2013,65000,Petrol,Manual,Chennai,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Eon 1.0 Kappa Magna + [2014-2016],3660.0,2013,64000,Petrol,Manual,Faizabad,First,Individual,998.0,FWD,5.0,32.0
+Honda,Amaze 1.5 VX i-DTEC,14258.75,2019,56000,Diesel,Manual,Hyderabad,First,Individual,1498.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Alpha Automatic,11818.75,2018,39000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Grand i10 Magna AT 1.2 Kappa VTVT,8372.25,2018,53000,Petrol,Automatic,Hyderabad,Second,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],9836.25,2021,1374,CNG,Manual,Mumbai,First,Individual,1196.0,RWD,5.0,40.0
+Mercedes-Benz,C-Class C 220d Progressive [2018-2019],51850.0,2018,68000,Diesel,Automatic,Hyderabad,First,Individual,1950.0,RWD,5.0,66.0
+Hyundai,Elite i20 Sportz 1.2 [2016-2017],9836.25,2019,35000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+BMW,5-Series 520d M Sport,39650.0,2016,39000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,65.0
+Audi,A4 2.0 TDI (177bhp) Premium,20968.75,2011,62000,Diesel,Automatic,Chennai,First,Individual,1968.0,FWD,5.0,63.0
+Honda,City V CVT Petrol [2017-2019],20435.0,2021,11000,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Swift ZXi Plus [2018-2019],12810.0,2020,11000,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift DZire VXI,8006.25,2014,102000,Petrol,Manual,Salem,Second,Individual,1197.0,FWD,5.0,42.0
+Hyundai,Eon Sportz,3278.75,2012,20000,Petrol,Manual,Mumbai,First,Individual,814.0,FWD,5.0,32.0
+Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],9073.75,2019,25000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,43.0
+Audi,A4 Premium Plus 40 TFSI,63287.5,2022,22000,Petrol,Automatic,Delhi,First,Individual,1984.0,FWD,5.0,54.0
+Maruti Suzuki,Swift VDi,11437.5,2018,65000,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,37.0
+Ford,Ecosport Titanium 1.5 Ti-VCT,8387.5,2013,47000,Petrol,Manual,Indore,First,Individual,1499.0,FWD,5.0,52.0
+Jaguar,XE Prestige Diesel,41175.0,2018,45545,Diesel,Automatic,Chandigarh,Second,Individual,1999.0,RWD,5.0,56.0
+Volkswagen,Polo Comfortline 1.2L (P),8616.25,2014,72782,Petrol,Manual,Bangalore,First,Individual,1198.0,FWD,5.0,45.0
+Maruti Suzuki,Alto VXi [2014-2019],5627.25,2017,16800,Petrol,Manual,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Toyota,Yaris V CVT,16622.5,2019,40900,Petrol,Automatic,Pune,First,Corporate,1496.0,FWD,5.0,42.0
+Honda,WR-V VX MT Petrol,8845.0,2017,39000,Petrol,Manual,Guwahati,First,Corporate,1199.0,FWD,5.0,40.0
+BMW,X1 sDrive20d xLine,33534.75,2016,77000,Diesel,Automatic,Surat,First,Individual,1995.0,RWD,5.0,63.0
+Honda,Amaze 1.2 SX i-VTEC,8235.0,2017,38700,Petrol,Manual,Meerut,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,5566.25,2014,76000,Petrol,Manual,Ernakulam,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza VDi,12581.25,2019,81300,Diesel,Manual,Ludhiana,First,Individual,1248.0,FWD,5.0,48.0
+Volkswagen,Polo GT TDI,4956.25,2013,76000,Diesel,Manual,Lucknow,First,Individual,1598.0,FWD,5.0,45.0
+Tata,Tiago Revotron XM (O) [2016-2019],6100.0,2018,91460,Petrol,Manual,Kanpur,First,Individual,1199.0,FWD,5.0,35.0
+Land Rover,Evoque HSE Dynamic,54900.0,2018,45000,Diesel,Automatic,Delhi,First,Individual,1999.0,AWD,5.0,57.0
+Mercedes-Benz,GLC 220 d Progressive,51850.0,2018,50000,Diesel,Automatic,Delhi,First,Individual,2143.0,AWD,5.0,66.0
+Volkswagen,Vento Highline Plus 1.2 (P) AT 16 Alloy,11818.75,2017,60500,Petrol,Automatic,Surat,First,Individual,1197.0,FWD,5.0,55.0
+MINI,Cooper D 5 Door,54747.5,2020,19759,Diesel,Automatic,Coimbatore,First,Individual,1496.0,FWD,5.0,44.0
+Toyota,Corolla Altis 1.8 G,5718.75,2011,77000,Petrol,Manual,Faridabad,First,Individual,1794.0,FWD,5.0,55.0
+Hyundai,Verna Fluidic 1.6 VTVT SX AT,9836.25,2015,58200,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,43.0
+Maruti Suzuki,Celerio ZXi,7777.48475,2015,42000,Petrol,Manual,Bangalore,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,Elantra 1.8 SX AT,8311.25,2013,63000,Petrol,Automatic,Mumbai,First,Individual,1797.0,FWD,5.0,56.0
+Honda,City V,12733.75,2018,42855,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,40.0
+Renault,Duster 85 PS RXS 4X2 MT Diesel,14640.0,2018,24000,Diesel,Manual,Bangalore,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Celerio VXi [2019-2020],8235.0,2019,34000,Petrol,Manual,Chennai,First,Individual,998.0,FWD,5.0,35.0
+Kia,Seltos HTK Plus 1.5 iMT,22493.75,2022,9500,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,50.0
+Hyundai,Verna 1.6 CRDI SX (O),17918.75,2018,97000,Diesel,Manual,Jaipur,First,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,7243.75,2014,72900,Petrol,Automatic,Mumbai,Second,Individual,1591.0,FWD,5.0,43.0
+Maruti Suzuki,Swift LXi,9912.5,2022,6000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,i10 Sportz 1.2 AT Kappa2,5642.5,2013,41000,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,35.0
+Honda,City VX (O) MT BL,13343.75,2018,50000,Petrol,Manual,Patna,First,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,DZire VDi AMT,10598.75,2018,66000,Diesel,Automatic,Warangal,First,Individual,1248.0,FWD,5.0,37.0
+Tata,Harrier XZA Plus,34693.75,2022,38000,Diesel,Automatic,Mumbai,First,Individual,1956.0,FWD,5.0,50.0
+Jeep,Compass Model S (O) 1.4 Petrol DCT,41175.0,2021,17000,Petrol,Automatic,Delhi,First,Individual,1368.0,FWD,5.0,60.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,8311.25,2014,74000,Diesel,Manual,Mohali,First,Individual,1582.0,FWD,5.0,43.0
+Skoda,Rapid Style 1.6 MPI AT,16759.75,2018,20690,Petrol,Automatic,Bangalore,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Verna 1.6 CRDI SX,17156.25,2019,40000,Diesel,Manual,Ludhiana,First,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,19809.75,2018,50000,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+BMW,5-Series 525d Luxury Plus,24400.0,2013,70000,Diesel,Automatic,Mumbai,Second,Individual,1995.0,RWD,5.0,50.0
+Tata,Tigor XZA Plus,12123.75,2021,9000,Petrol,Automatic,Pune,First,Individual,1199.0,FWD,5.0,35.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,7014.98475,2013,78000,Diesel,Manual,Ahmedabad,Second,Individual,1582.0,FWD,5.0,43.0
+Audi,A6 35 TDI Matrix,51850.0,2018,51000,Diesel,Automatic,Hyderabad,First,Individual,1968.0,FWD,5.0,75.0
+Hyundai,Creta E Plus 1.6 Petrol,16012.5,2018,34841,Petrol,Manual,Hyderabad,First,Individual,1591.0,FWD,5.0,55.0
+Hyundai,i20 Magna 1.2,5871.25,2014,46000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,45.0
+Honda,City S Diesel,8921.25,2015,61000,Diesel,Manual,Ranchi,First,Individual,1498.0,FWD,5.0,40.0
+Audi,A3 35 TDI Premium + Sunroof,25162.5,2014,55000,Diesel,Automatic,Mumbai,First,Individual,1968.0,FWD,5.0,50.0
+Maruti Suzuki,Swift VXi [2014-2017],9531.25,2020,58736,Petrol,Manual,Kollam,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],13877.5,2019,34000,Petrol,Manual,Delhi,First,Individual,1462.0,FWD,5.0,43.0
+Hyundai,Elite i20 Magna 1.2 [2016-2017],8921.25,2017,47000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Elite i20 Asta 1.2 IVT,16393.75,2021,12020,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta SX 1.5 Diesel [2020-2022],25162.5,2020,7000,Diesel,Manual,Ahmedabad,First,Individual,1493.0,FWD,5.0,50.0
+Audi,A4 2.0 TDI (143bhp),24018.75,2014,15000,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,63.0
+BMW,X3 xDrive20d,29737.5,2014,82000,Diesel,Automatic,Chandigarh,Second,Individual,1995.0,AWD,5.0,67.0
+Hyundai,Creta 1.4 S Plus,16470.0,2019,68000,Diesel,Manual,Bhopal,First,Individual,1396.0,FWD,5.0,60.0
+Hyundai,Venue SX (O) 1.5 CRDi,16470.0,2020,56000,Diesel,Manual,Jalandhar,First,Individual,1493.0,FWD,5.0,45.0
+Hyundai,Venue SX 1.0 Turbo iMT,18071.25,2021,10700,Petrol,Manual,Jaipur,First,Individual,998.0,FWD,5.0,45.0
+Hyundai,Elite i20 Sportz 1.2 IVT,13648.73475,2021,25000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Honda,Amaze 1.2 S CVT Petrol [2018-2020],9912.5,2019,54000,Petrol,Automatic,Varanasi,Second,Individual,1199.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Delta 1.3,8387.5,2016,88000,Diesel,Manual,Kanpur,First,Individual,1248.0,FWD,5.0,37.0
+Skoda,Kushaq Style 1.0L TSI MT,24400.0,2022,1300,Petrol,Manual,Mumbai,First,Individual,999.0,FWD,5.0,50.0
+Hyundai,Verna 1.6 VTVT SX (O),17918.75,2019,20000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Elite i20 Sportz 1.4 CRDI [2016-2017],8768.75,2016,38000,Diesel,Manual,Patna,First,Individual,1396.0,FWD,5.0,45.0
+MG,Hector Sharp 2.0 Diesel Turbo MT,30118.75,2021,18500,Diesel,Manual,Hyderabad,First,Individual,1956.0,FWD,5.0,60.0
+Hyundai,Creta SX (O) 1.5 Diesel [2020-2022],24781.25,2022,27800,Diesel,Manual,Gurgaon,First,Individual,1493.0,FWD,5.0,50.0
+Maruti Suzuki,Swift VXi [2014-2017],10598.75,2019,46027,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,42.0
+Toyota,Yaris J CVT [2018-2020],13343.75,2018,23148,Petrol,Automatic,Bangalore,First,Individual,1496.0,FWD,5.0,42.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],22798.75,2017,28000,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,50.0
+Maruti Suzuki,Swift ZXi AMT [2018-2019],11056.25,2019,11874,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta E Plus 1.6 Petrol,13343.75,2017,50000,Petrol,Manual,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+BMW,5-Series 520d Modern Line,34312.5,2014,88000,Diesel,Automatic,Bangalore,Third,Individual,1995.0,RWD,5.0,50.0
+BMW,3-Series 320d Prestige,41022.5,2019,15500,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,57.0
+Maruti Suzuki,Ciaz VDi+ SHVS,10598.75,2016,82445,Diesel,Manual,Hyderabad,Second,Individual,1248.0,FWD,5.0,43.0
+Honda,City V,9150.0,2014,75574,Petrol,Manual,Jaipur,Second,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Wagon R LXI CNG,5718.75,2015,64000,CNG,Manual,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,i10 Sportz 1.2 Kappa2,4803.75,2012,75000,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,35.0
+Ford,Ecosport Trend 1.5 Ti-VCT,11818.75,2019,14095,Petrol,Manual,Delhi,First,Individual,1499.0,FWD,5.0,52.0
+Audi,A6 35 TDI Matrix,46893.75,2017,17000,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,75.0
+Renault,Duster 110 PS RxZ Diesel,6328.75,2014,70000,Diesel,Manual,Delhi,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Swift VXi [2014-2017],7930.0,2018,40000,Petrol,Manual,Patna,Second,Individual,1197.0,FWD,5.0,42.0
+Hyundai,Creta 1.6 SX,12962.5,2016,72000,Diesel,Manual,Ahmedabad,First,Individual,1582.0,FWD,5.0,60.0
+Maruti Suzuki,Baleno Delta 1.3,8768.75,2016,62000,Diesel,Manual,Ludhiana,First,Individual,1248.0,FWD,5.0,37.0
+BMW,3-Series 320d Luxury Line,21273.75,2013,65000,Diesel,Automatic,Kolkata,Second,Individual,1995.0,RWD,5.0,57.0
+Skoda,Kushaq Style 1.0L TSI AT,24781.25,2021,7900,Petrol,Automatic,Pune,First,Individual,999.0,FWD,5.0,50.0
+Kia,Sonet GTX Plus 1.5 AT [2020-2021],22859.75,2021,22000,Diesel,Automatic,Mumbai,First,Individual,1493.0,FWD,5.0,45.0
+Volkswagen,Tiguan Highline TDI,31262.5,2018,73000,Diesel,Automatic,Coimbatore,Second,Individual,1968.0,AWD,5.0,71.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],19825.0,2016,55000,Petrol,Automatic,Hyderabad,Second,Individual,1798.0,FWD,5.0,50.0
+Skoda,Superb L&K TDI AT,48784.75,2019,6900,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,66.0
+Maruti Suzuki,Swift LXi,6862.5,2017,65000,Petrol,Manual,Kanpur,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Alto 800 Lxi,4270.0,2018,48000,Petrol,Manual,Kanpur,Second,Individual,796.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R LXI ABS,6481.25,2018,18000,Petrol,Manual,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Mercedes-Benz,C-Class 220 BlueEfficiency,19062.5,2012,78000,Diesel,Automatic,Mohali,First,Individual,2143.0,RWD,5.0,66.0
+Hyundai,Santro Sportz CNG [2018-2020],8311.25,2019,43000,CNG,Manual,Mumbai,First,Individual,1086.0,FWD,5.0,60.0
+Mercedes-Benz,C-Class 220 CDI Elegance AT,7548.75,2008,95200,Diesel,Automatic,Mumbai,First,Corporate,2148.0,RWD,5.0,66.0
+Maruti Suzuki,Swift DZire VXI,7625.0,2016,26000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Celerio VXi AMT,5947.5,2015,70000,Petrol,Automatic,Ahmedabad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],8768.75,2019,31000,CNG,Manual,Delhi,First,Individual,998.0,FWD,5.0,60.0
+BMW,3-Series 320d Luxury Line [2014-2016],32025.0,2014,103000,Diesel,Automatic,Lucknow,Second,Individual,1995.0,RWD,5.0,50.0
+Hyundai,i10 Magna 1.2 Kappa2,3812.5,2012,54556,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,DZire VXi,10446.25,2019,74000,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,37.0
+Renault,Kwid RXT [2015-2019],4880.0,2016,64000,Petrol,Manual,Mohali,First,Individual,799.0,FWD,5.0,28.0
+Maruti Suzuki,S-Cross Delta 1.6,9455.0,2016,85000,Diesel,Manual,Karnal,Second,Individual,1598.0,FWD,5.0,48.0
+Maruti Suzuki,Swift VXi [2014-2017],9150.0,2018,54000,Petrol,Manual,Mohali,First,Individual,1197.0,FWD,5.0,42.0
+Jeep,Compass Longitude (O) 1.4 Petrol AT [2019-2020],26687.5,2019,57000,Petrol,Automatic,Hyderabad,First,Individual,1368.0,FWD,5.0,60.0
+Hyundai,Creta 1.6 SX Plus AT,15478.75,2015,68566,Diesel,Automatic,Ahmedabad,First,Individual,1582.0,FWD,5.0,60.0
+Toyota,Corolla Altis 1.8 G,5947.5,2009,68195,Petrol,Manual,Ahmedabad,First,Individual,1794.0,FWD,5.0,55.0
+Maruti Suzuki,Ciaz Delta 1.4 MT,11513.75,2017,57000,Petrol,Manual,Delhi,First,Individual,1373.0,FWD,5.0,43.0
+Hyundai,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],27831.25,2021,45000,Petrol,Automatic,Delhi,First,Individual,1353.0,FWD,5.0,50.0
+Maruti Suzuki,Celerio VXi AMT,6344.0,2014,60116,Petrol,Automatic,Bangalore,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Swift DZire ZDi BS-IV,4956.25,2010,82202,Diesel,Manual,Jalandhar,Second,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Wagon R LXi Minor,3324.5,2008,51000,Petrol,Manual,Coimbatore,Second,Individual,1061.0,FWD,5.0,35.0
+Mercedes-Benz,CLA 200 CDI Sport,42700.0,2018,24000,Diesel,Automatic,Mumbai,First,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,Ciaz VDi (O) SHVS,9912.5,2017,86000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,43.0
+Honda,WR-V S MT Diesel,12047.5,2018,41000,Diesel,Manual,Raipur,First,Individual,1498.0,FWD,5.0,40.0
+Honda,City SV Diesel,8235.0,2015,76000,Diesel,Manual,Agra,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Swift VDi,5718.75,2011,120000,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,42.0
+BMW,X1 sDrive20i xLine,60847.5,2021,12500,Petrol,Automatic,Delhi,First,Individual,1998.0,FWD,5.0,51.0
+Maruti Suzuki,Swift DZire VXi,3736.25,2009,114000,Petrol,Manual,Mumbai,First,Individual,1298.0,FWD,5.0,43.0
+Maruti Suzuki,Celerio LXi,3965.0,2015,25862,Petrol,Manual,Kolkata,First,Individual,998.0,FWD,5.0,35.0
+Ford,Figo Duratorq Diesel Titanium 1.4,3660.0,2010,72000,Diesel,Manual,Hyderabad,First,Individual,1399.0,FWD,5.0,45.0
+Hyundai,Creta 1.6 SX Plus Special Edition,12200.0,2015,90000,Diesel,Manual,Lucknow,First,Individual,1582.0,FWD,5.0,60.0
+Honda,City V,11361.25,2016,38000,Petrol,Manual,Gurgaon,First,Individual,1497.0,FWD,5.0,40.0
+Honda,Amaze 1.2 S MT Petrol [2018-2020],10293.75,2019,74237,Petrol,Manual,Nashik,First,Individual,1199.0,FWD,5.0,35.0
+BMW,X1 sDrive20d xLine,40412.5,2018,53000,Diesel,Automatic,Delhi,Second,Individual,1995.0,RWD,5.0,63.0
+Maruti Suzuki,Alto 800 Lxi,5185.0,2016,52303,Petrol,Manual,Bhopal,First,Commercial Registration,796.0,FWD,5.0,35.0
+Maruti Suzuki,Baleno Alpha 1.2,9455.0,2019,42356,Petrol,Manual,Varanasi,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,SX4 ZDI,4529.25,2013,84000,Diesel,Manual,Delhi,First,Individual,1248.0,FWD,5.0,50.0
+Toyota,Etios Liva GD,7625.0,2016,114000,Diesel,Manual,Ambala Cantt,First,Individual,1364.0,FWD,5.0,45.0
+Hyundai,Verna SX Plus 1.6 VTVT AT,17522.25,2019,26894,Petrol,Automatic,Hyderabad,First,Individual,1591.0,FWD,5.0,45.0
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,40412.5,2017,70000,Diesel,Automatic,Pune,Second,Individual,2143.0,RWD,5.0,66.0
+Hyundai,i10 Magna,3583.75,2009,107000,Petrol,Manual,Coimbatore,Third,Individual,1086.0,FWD,5.0,35.0
+BMW,5-Series 525d Luxury Plus,34770.0,2014,68000,Diesel,Automatic,Pune,First,Individual,1995.0,RWD,5.0,50.0
+Maruti Suzuki,S-Cross Alpha 1.6,11422.25,2017,114000,Diesel,Manual,Faridabad,First,Individual,1598.0,FWD,5.0,48.0
+Hyundai,i20 Active 1.4 S,11437.5,2017,72000,Diesel,Manual,Chennai,First,Individual,1396.0,FWD,5.0,45.0
+Mercedes-Benz,C-Class C 220d Progressive [2018-2019],63287.5,2019,8000,Diesel,Automatic,Delhi,First,Individual,1950.0,RWD,5.0,66.0
+Maruti Suzuki,Alto VXi,4880.0,2014,54000,Petrol,Manual,Mohali,First,Individual,998.0,FWD,5.0,35.0
+Mercedes-Benz,GLA 200 CDI Style,26687.5,2015,99000,Diesel,Automatic,Chennai,Second,Individual,2143.0,FWD,5.0,50.0
+MG,Hector Sharp 1.5 DCT Petrol Dual Tone,26687.5,2021,33000,Petrol,Automatic,Ahmedabad,First,Individual,1451.0,FWD,5.0,60.0
+Hyundai,Verna 1.6 CRDI SX,11056.25,2016,42000,Diesel,Manual,Ludhiana,First,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],9912.5,2017,49422,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City SV CVT,8997.5,2015,75258,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Santro Sportz CNG [2018-2020],7548.75,2019,46000,CNG,Manual,Agra,First,Individual,1086.0,FWD,5.0,60.0
+Maruti Suzuki,Baleno Zeta 1.3,10598.75,2016,68921,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Verna 1.6 CRDI SX,12184.75,2018,79800,Diesel,Manual,Karnal,First,Individual,1582.0,FWD,5.0,43.0
+Volkswagen,Polo Highline1.2L (P),4956.25,2013,53000,Petrol,Manual,Meerut,Second,Individual,1198.0,FWD,5.0,45.0
+Maruti Suzuki,Baleno Zeta 1.2,11437.5,2021,58000,Petrol,Manual,Varanasi,First,Individual,1197.0,FWD,5.0,37.0
+Mercedes-Benz,M-Class ML 350 CDI,39650.0,2014,94000,Diesel,Automatic,Mumbai,First,Individual,2997.0,AWD,5.0,70.0
+Maruti Suzuki,Alto 800 Lx CNG,4559.75,2017,45000,CNG,Manual,Pune,First,Individual,796.0,FWD,5.0,35.0
+Hyundai,Venue SX Plus 1.0 Turbo DCT,16393.75,2019,28000,Petrol,Automatic,Chennai,First,Individual,998.0,FWD,5.0,45.0
+Hyundai,Grand i10 Magna AT 1.2 Kappa VTVT,9912.5,2019,15000,Petrol,Automatic,Chandigarh,First,Individual,1197.0,FWD,5.0,43.0
+Honda,Amaze 1.2 S i-VTEC,6481.25,2014,53610,Petrol,Manual,Gurgaon,Second,Individual,1198.0,FWD,5.0,35.0
+Nissan,Terrano XL D Plus,6786.25,2014,75000,Diesel,Manual,Delhi,First,Individual,1461.0,FWD,5.0,50.0
+Audi,A3 35 TDI Premium + Sunroof,20587.5,2015,60000,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,50.0
+Mercedes-Benz,C-Class 220 BlueEfficiency,22112.5,2014,45000,Diesel,Automatic,Ranchi,First,Individual,2143.0,RWD,5.0,66.0
+Hyundai,Santro GLS,2150.25,2009,56400,Petrol,Manual,Jamshedpur,Third,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Creta 1.6 S Plus AT,20968.75,2017,70000,Diesel,Automatic,Bangalore,First,Individual,1582.0,FWD,5.0,60.0
+Honda,Jazz V Diesel,8006.25,2015,68244,Diesel,Manual,Indore,Second,Individual,1498.0,FWD,5.0,40.0
+Hyundai,Eon Magna +,6176.25,2018,34000,Petrol,Manual,Hyderabad,First,Individual,814.0,FWD,5.0,32.0
+Audi,Q3 35 TDI quattro Premium Plus,38887.5,2017,36000,Diesel,Automatic,Delhi,First,Individual,1968.0,AWD,5.0,64.0
+Honda,City SV,13343.75,2019,36000,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Swift VXi,5413.75,2014,68005,Petrol,Manual,Ranchi,First,Individual,1197.0,FWD,5.0,42.0
+Ford,Ecosport Titanium 1.5L TDCi,14106.25,2018,74797,Diesel,Manual,Udupi,First,Individual,1498.0,FWD,5.0,52.0
+Hyundai,Elite i20 Magna 1.2 [2016-2017],9531.25,2019,31000,Petrol,Manual,Kanpur,First,Individual,1197.0,FWD,5.0,45.0
+Datsun,Redigo T(O) 1.0,6481.25,2020,7520,Petrol,Manual,Bangalore,First,Individual,999.0,FWD,5.0,28.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2016-2017],8387.5,2015,58078,Petrol,Manual,Mysore,Second,Individual,1197.0,FWD,5.0,43.0
+Volkswagen,Vento Comfortline Diesel,6633.73475,2014,79081,Diesel,Manual,Delhi,First,Individual,1598.0,FWD,5.0,55.0
+Mercedes-Benz,GLC 220 d Progressive,53375.0,2017,72000,Diesel,Automatic,Faridabad,First,Individual,2143.0,AWD,5.0,66.0
+Hyundai,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],26687.5,2022,23000,Petrol,Automatic,Delhi,First,Individual,1353.0,FWD,5.0,50.0
+Hyundai,Xcent S 1.2 (O),6481.25,2015,11628,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,43.0
+Ford,Ecosport Titanium + 1.5L TDCi,10293.75,2017,81323,Diesel,Manual,Hyderabad,First,Individual,1498.0,FWD,5.0,52.0
+Maruti Suzuki,Vitara Brezza LDi (O) [2016-2018],10293.75,2016,50000,Diesel,Manual,Mohali,First,Individual,1248.0,FWD,5.0,48.0
+Audi,A3 40 TFSI Premium,26840.0,2017,48000,Petrol,Automatic,Delhi,First,Individual,1798.0,FWD,5.0,50.0
+Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],11132.5,2017,80000,Diesel,Manual,Kanpur,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Swift LXi,4590.25,2011,28513,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Wagon R LXi LPG,4193.75,2011,42000,LPG,Manual,Bhopal,Second,Individual,998.0,FWD,5.0,28.0
+Ford,Figo Duratorq Diesel ZXI 1.4,3431.25,2013,87000,Diesel,Manual,Mohali,First,Individual,1399.0,FWD,5.0,45.0
+Maruti Suzuki,Alto 800 Lxi,4346.25,2017,45600,Petrol,Manual,Jamshedpur,First,Individual,796.0,FWD,5.0,35.0
+Volkswagen,Vento Highline Diesel,5337.5,2013,78000,Diesel,Manual,Dehradun,Second,Individual,1598.0,FWD,5.0,55.0
+Skoda,Superb Style TSI AT,25162.5,2017,52458,Petrol,Automatic,Mumbai,First,Individual,1798.0,FWD,5.0,66.0
+Maruti Suzuki,Alto 800 Lxi CNG,4041.25,2017,30000,CNG,Manual,Kanpur,First,Individual,796.0,FWD,5.0,35.0
+Tata,Tiago Revotron XE [2016-2019],6023.75,2017,46992,Petrol,Manual,Gurgaon,First,Individual,1199.0,FWD,5.0,35.0
+Honda,Jazz V Petrol,7625.0,2016,54440,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Mercedes-Benz,M-Class ML 250 CDI,37362.5,2015,103000,Diesel,Automatic,Mumbai,First,Individual,2143.0,AWD,5.0,70.0
+Audi,A4 1.8 TFSI Multitronic Premium Plus,47656.25,2020,28600,Petrol,Automatic,Lucknow,First,Individual,1798.0,FWD,5.0,63.0
+Mercedes-Benz,GLA 220 d Activity Edition,34312.5,2016,79000,Diesel,Automatic,Chennai,First,Individual,2143.0,AWD,5.0,50.0
+Maruti Suzuki,Ciaz Delta 1.4 MT,8616.25,2017,64000,Petrol,Manual,Ranchi,First,Individual,1373.0,FWD,5.0,43.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],8387.5,2018,56000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza LDi (O) [2016-2018],10842.75,2018,67900,Diesel,Manual,Mumbai,First,Individual,1248.0,FWD,5.0,48.0
+Tata,Tigor Revotron XM,5718.75,2018,48144,Petrol,Manual,Kolkata,First,Individual,1199.0,FWD,5.0,35.0
+Maruti Suzuki,Alto VXi [2014-2019],3736.25,2016,64000,Petrol,Manual,Ranchi,First,Individual,998.0,FWD,5.0,35.0
+Honda,City V Diesel,10522.5,2016,38000,Diesel,Manual,Patna,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Vitara Brezza ZDi,12962.5,2018,37093,Diesel,Manual,Jalandhar,First,Individual,1248.0,FWD,5.0,48.0
+Volkswagen,Vento Highline 1.0L TSI,18300.0,2021,37230,Petrol,Manual,Hyderabad,First,Individual,999.0,FWD,5.0,55.0
+Maruti Suzuki,Celerio VXi AMT,5017.25,2014,76116,Petrol,Automatic,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Honda,Civic 1.8V MT,4575.0,2010,83359,Petrol,Manual,Mumbai,First,Individual,1799.0,FWD,5.0,50.0
+Hyundai,Santro Sportz CNG [2018-2020],7091.25,2019,28000,CNG,Manual,Delhi,First,Individual,1086.0,FWD,5.0,60.0
+Skoda,Superb L&K TSI AT,35837.5,2018,14120,Petrol,Automatic,Pune,First,Individual,1798.0,FWD,5.0,66.0
+Hyundai,Eon D-Lite +,3812.5,2014,25000,Petrol,Manual,Meerut,First,Individual,814.0,FWD,5.0,32.0
+Land Rover,Evoque HSE,57950.0,2017,50000,Diesel,Automatic,Mumbai,First,Individual,1999.0,AWD,5.0,57.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],6252.48475,2014,55000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,43.0
+Ford,Figo Titanium1.5 TDCi,8768.75,2019,71569,Diesel,Manual,Lucknow,First,Individual,1498.0,FWD,5.0,40.0
+Hyundai,i10 Magna 1.2 Kappa2,4117.5,2012,41200,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Swift DZire VXI,7091.25,2014,65000,Petrol,Manual,Ahmedabad,Second,Individual,1197.0,FWD,5.0,42.0
+Hyundai,i10 Magna 1.2 Kappa2,5337.5,2011,21000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,35.0
+Hyundai,Venue SX 1.0 Turbo iMT,13725.0,2020,23000,Petrol,Manual,Haldwani,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Swift LXi,9073.75,2016,26357,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,42.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,19215.0,2018,33500,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Tata,Zest XE 75 PS Diesel,8082.5,2020,5923,Diesel,Manual,Ranchi,First,Commercial Registration,1248.0,FWD,5.0,44.0
+Volvo,V40 D3 R-Design,27434.73475,2017,14000,Diesel,Automatic,Delhi,First,Individual,1984.0,FWD,5.0,60.0
+Maruti Suzuki,Baleno Delta 1.2,9699.0,2021,35500,Petrol,Manual,Ranchi,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta E Plus 1.4 CRDI,14487.5,2018,63000,Diesel,Manual,Delhi,First,Individual,1396.0,FWD,5.0,60.0
+Maruti Suzuki,S-Cross Zeta 1.6,12200.0,2017,52836,Diesel,Manual,Ahmedabad,First,Individual,1598.0,FWD,5.0,48.0
+Maruti Suzuki,Celerio X Vxi AMT [2017-2019],6618.5,2017,50000,Petrol,Automatic,Dehradun,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,Elite i20 Sportz 1.4 CRDI [2016-2017],9531.25,2016,72114,Diesel,Manual,Jalandhar,First,Individual,1396.0,FWD,5.0,45.0
+Maruti Suzuki,Alto 800 Lxi CNG,3736.25,2015,72000,CNG,Manual,Faridabad,Second,Individual,796.0,FWD,5.0,35.0
+Mercedes-Benz,GLA 200 Sport,47275.0,2019,24000,Petrol,Automatic,Delhi,First,Individual,1991.0,FWD,5.0,50.0
+Audi,A6 2.0 TDI Premium,22722.5,2012,42000,Diesel,Automatic,Raipur,First,Individual,1968.0,FWD,5.0,65.0
+Maruti Suzuki,Alto VXi [2014-2019],4498.75,2015,31000,Petrol,Manual,Patna,First,Individual,998.0,FWD,5.0,35.0
+Lexus,ES 300h,59475.0,2017,31059,Petrol,Automatic,Bangalore,First,Individual,2494.0,RWD,5.0,65.0
+Honda,City V Diesel,9683.75,2016,72200,Diesel,Manual,Kanpur,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,S-Cross Alpha 1.6,8997.5,2016,77000,Diesel,Manual,Delhi,First,Individual,1598.0,FWD,5.0,48.0
+Honda,City VX,18284.75,2020,26497,Petrol,Manual,Kolkata,Second,Individual,1497.0,FWD,5.0,40.0
+Hyundai,i10 Asta 1.2 AT Kappa2 with Sunroof,5795.0,2013,57000,Petrol,Automatic,Kanpur,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Alto VXi AMT [2014-2018],5566.25,2015,20100,Petrol,Automatic,Pune,First,Individual,998.0,FWD,5.0,35.0
+Audi,A4 1.8 TFSI Multitronic Premium Plus,15250.0,2010,67000,Petrol,Automatic,Dehradun,Second,Individual,1798.0,FWD,5.0,63.0
+Kia,Seltos HTK Plus AT 1.5 Diesel [2020-2021],19443.75,2021,30000,Diesel,Automatic,Mohali,First,Individual,1493.0,FWD,5.0,50.0
+BMW,5-Series 525d Sedan,19748.75,2011,56000,Diesel,Automatic,Mumbai,First,Individual,1995.0,RWD,5.0,50.0
+Hyundai,Creta E Plus 1.6 Petrol,13572.5,2017,49000,Petrol,Manual,Pune,First,Individual,1591.0,FWD,5.0,60.0
+BMW,3-Series 320d Sport Line,34693.75,2015,78362,Diesel,Automatic,Bangalore,First,Individual,1995.0,RWD,5.0,60.0
+Hyundai,i20 Active 1.4 SX,8235.0,2015,59000,Diesel,Manual,Agra,First,Individual,1396.0,FWD,5.0,45.0
+BMW,X1 sDrive20d xLine,47656.25,2018,49000,Diesel,Automatic,Bangalore,First,Individual,1995.0,RWD,5.0,63.0
+Mercedes-Benz,M-Class ML 350 CDI,48800.0,2014,60513,Diesel,Automatic,Mumbai,First,Corporate,2997.0,AWD,5.0,70.0
+Mercedes-Benz,GLA 200 d Sport,41937.5,2019,56500,Diesel,Automatic,Delhi,First,Individual,2143.0,FWD,5.0,50.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,6100.0,2013,71000,Diesel,Manual,Agra,First,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Creta 1.4 S,12200.0,2018,68000,Diesel,Manual,Kanpur,First,Individual,1396.0,FWD,5.0,60.0
+Maruti Suzuki,Vitara Brezza ZDi,11895.0,2017,94827,Diesel,Manual,Jaipur,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Estilo LXi BS-IV,3355.0,2010,62000,Petrol,Manual,Bhopal,First,Individual,998.0,FWD,5.0,35.0
+BMW,X1 sDrive20d Expedition,36371.25,2017,22120,Diesel,Automatic,Delhi,First,Individual,1995.0,FWD,5.0,51.0
+BMW,X1 sDrive20d xLine,51850.0,2019,11000,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,63.0
+Audi,A6 35 TFSI Matrix,43462.5,2017,58000,Petrol,Automatic,Delhi,First,Individual,1798.0,FWD,5.0,75.0
+Maruti Suzuki,Vitara Brezza ZDi,15097.5,2019,54572,Diesel,Manual,Jaipur,First,Individual,1248.0,FWD,5.0,48.0
+Honda,City 1.5 V AT,4956.25,2010,56000,Petrol,Automatic,Delhi,First,Individual,1497.0,FWD,5.0,42.0
+Honda,City 1.5 V AT,4956.25,2011,89000,Petrol,Automatic,Mumbai,Second,Individual,1497.0,FWD,5.0,42.0
+Skoda,Rapid 1.5 TDI CR Ambition Plus AT,8372.25,2014,42000,Diesel,Automatic,Chandigarh,First,Individual,1498.0,FWD,5.0,55.0
+Renault,Pulse RxL ABS Diesel [2015-2017],5185.0,2017,6000,Diesel,Manual,Kolkata,First,Individual,1461.0,FWD,5.0,41.0
+Honda,Amaze 1.5 E i-DTEC,6481.25,2013,79500,Diesel,Manual,Pune,First,Individual,1498.0,FWD,5.0,35.0
+BMW,3-Series 320d Luxury Line,25772.48475,2015,82000,Diesel,Automatic,Delhi,Second,Individual,1995.0,RWD,5.0,57.0
+Maruti Suzuki,Swift VXi [2014-2017],8387.5,2018,50000,Petrol,Manual,Meerut,First,Individual,1197.0,FWD,5.0,42.0
+Nissan,Terrano XL D THP 110 PS,8387.5,2014,65000,Diesel,Manual,Ahmedabad,First,Individual,1461.0,FWD,5.0,50.0
+Tata,Tiago Revotron XZA,8463.75,2018,20000,Petrol,Automatic,Mumbai,First,Individual,1199.0,FWD,5.0,35.0
+Maruti Suzuki,Celerio ZXi [2017-2019],5962.75,2017,24000,Petrol,Manual,Patna,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ignis Delta 1.2 AMT,8540.0,2017,36000,Petrol,Automatic,Delhi,First,Individual,1197.0,FWD,5.0,32.0
+Audi,Q3 2.0 TDI quattro Premium Plus,21655.0,2013,117000,Diesel,Automatic,Chennai,First,Individual,1968.0,AWD,5.0,64.0
+Volkswagen,Polo Highline Plus 1.0L TSI,14487.5,2021,24000,Petrol,Manual,Mangalore,First,Individual,999.0,FWD,5.0,45.0
+Maruti Suzuki,Baleno Sigma 1.2,7472.5,2017,82000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Creta 1.6 SX,15936.23475,2016,78000,Diesel,Manual,Bangalore,First,Individual,1582.0,FWD,5.0,60.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,17156.25,2019,50000,Petrol,Automatic,Delhi,First,Individual,1591.0,FWD,5.0,43.0
+MINI,Cooper D 5 Door,29737.5,2014,24000,Diesel,Automatic,Ludhiana,Second,Individual,1496.0,FWD,5.0,44.0
+Maruti Suzuki,Swift DZire VXi,3965.0,2009,77000,Petrol,Manual,Pune,Second,Individual,1298.0,FWD,5.0,43.0
+Hyundai,i10 Magna 1.2,2516.25,2009,55000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,35.0
+Hyundai,Xcent S 1.2,7472.5,2018,66000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Alto VXi,2821.25,2012,37000,Petrol,Manual,Kolkata,First,Individual,998.0,FWD,5.0,35.0
+Honda,City 1.5 V MT,5718.75,2012,80350,Petrol,Manual,Mumbai,First,Individual,1497.0,FWD,5.0,42.0
+Mercedes-Benz,C-Class 220 BlueEfficiency,14868.75,2013,102000,Diesel,Automatic,Jalandhar,First,Individual,2143.0,RWD,5.0,66.0
+Maruti Suzuki,Swift VXi [2014-2017],6862.5,2016,48200,Petrol,Manual,Dehradun,Second,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire VDI,7014.98475,2015,55000,Diesel,Manual,Dehradun,Second,Individual,1248.0,FWD,5.0,42.0
+Hyundai,Elite i20 Sportz 1.2 MT,10675.0,2020,25000,Petrol,Manual,Patna,First,Individual,1197.0,FWD,5.0,37.0
+Volkswagen,Polo Highline Plus 1.0L TSI,15631.25,2020,20124,Petrol,Manual,Bangalore,First,Individual,999.0,FWD,5.0,45.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],5795.0,2015,55660,Petrol,Manual,Raipur,First,Individual,1197.0,FWD,5.0,43.0
+Skoda,Octavia Style 1.8 TSI AT,12504.98475,2015,94580,Petrol,Automatic,Kanpur,First,Individual,1798.0,FWD,5.0,50.0
+Mercedes-Benz,GLA 200 Sport,25787.75,2015,45000,Petrol,Automatic,Mumbai,Second,Individual,1991.0,FWD,5.0,50.0
+Maruti Suzuki,Ciaz VDi SHVS,11056.25,2016,57000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,43.0
+Hyundai,Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,11056.25,2021,45000,CNG,Manual,Ludhiana,First,Individual,1197.0,FWD,5.0,60.0
+Maruti Suzuki,Alto LXi CNG,2363.75,2011,90342,CNG,Manual,Ambala Cantt,Second,Individual,796.0,FWD,5.0,35.0
+Honda,Amaze 1.2 VX MT Petrol [2018-2020],10675.0,2022,1000,Petrol,Manual,Delhi,First,Individual,1199.0,FWD,5.0,35.0
+Kia,Seltos HTX Plus 1.5 Diesel [2020-2021],20587.5,2019,79000,Diesel,Manual,Ludhiana,Second,Individual,1493.0,FWD,5.0,50.0
+Hyundai,i10 Magna 1.2 Kappa2,3812.5,2011,53000,Petrol,Manual,Kanpur,First,Individual,1197.0,FWD,5.0,35.0
+Hyundai,Elite i20 Asta 1.4 CRDI [2016-2017],12504.98475,2020,30000,Diesel,Manual,Ahmedabad,First,Individual,1396.0,FWD,5.0,45.0
+Honda,City VX,12047.5,2016,63088,Petrol,Manual,Jaipur,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,i10 Magna (O),2287.5,2008,62000,Petrol,Manual,Mumbai,Second,Individual,1086.0,FWD,5.0,35.0
+Hyundai,Xcent S 1.1 CRDi (O),5947.5,2014,81000,Diesel,Manual,Lucknow,First,Individual,1120.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,5871.25,2011,73000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,8341.75,2013,36623,Petrol,Manual,Zirakpur,First,Individual,1591.0,FWD,5.0,43.0
+Hyundai,Creta SX 1.6 AT Petrol,19748.75,2018,30000,Petrol,Automatic,Delhi,First,Individual,1591.0,FWD,5.0,55.0
+Hyundai,i10 Sportz 1.2 Kappa2,3812.5,2011,64000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,35.0
+Toyota,Corolla Altis VL AT Petrol,25467.5,2019,39000,Petrol,Automatic,Ahmedabad,Second,Individual,1798.0,FWD,5.0,55.0
+Maruti Suzuki,Vitara Brezza ZDi,13572.5,2017,70000,Diesel,Manual,Dak. Kannada,Second,Individual,1248.0,FWD,5.0,48.0
+Audi,A3 35 TDI Premium Plus + Sunroof,36295.0,2019,36000,Diesel,Automatic,Jalandhar,Second,Individual,1968.0,FWD,5.0,50.0
+Maruti Suzuki,Baleno Alpha Automatic,11818.75,2018,40000,Petrol,Automatic,Chennai,First,Individual,1197.0,FWD,5.0,37.0
+Volkswagen,Polo 1.5 TDI,7625.0,2014,62000,Diesel,Manual,Hyderabad,First,Individual,1498.0,FWD,5.0,45.0
+Mercedes-Benz,C-Class 250 CDI Avantgarde,10293.75,2011,97000,Diesel,Automatic,Mumbai,First,Individual,2143.0,RWD,5.0,66.0
+Volkswagen,Polo Highline1.2L (P),8006.25,2014,43550,Petrol,Manual,Hyderabad,First,Individual,1198.0,FWD,5.0,45.0
+Ford,Ecosport Titanium + 1.5L TDCi [2019-2020],12962.5,2019,28000,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,52.0
+Renault,Kwid 1.0 RXL [2017-2019],5947.5,2018,47874,Petrol,Manual,Bangalore,First,Individual,999.0,FWD,5.0,28.0
+Hyundai,Verna 1.6 CRDI SX (O),14716.25,2018,87001,Diesel,Manual,Delhi,First,Individual,1582.0,FWD,5.0,43.0
+BMW,X1 sDrive20d xLine,46131.25,2019,59000,Diesel,Automatic,Mumbai,First,Individual,1995.0,RWD,5.0,63.0
+Audi,A3 35 TDI Premium Plus,21197.5,2014,85900,Diesel,Automatic,Agra,First,Individual,1968.0,FWD,5.0,50.0
+Maruti Suzuki,DZire ZXi AGS,14487.5,2022,10000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift VXi,6252.48475,2014,55000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Volkswagen,Ameo Trendline 1.5L (D),8768.75,2017,69508,Diesel,Manual,Ranga Reddy,Second,Individual,1498.0,FWD,5.0,45.0
+Honda,City ZX Diesel,22112.5,2022,2500,Diesel,Manual,Ludhiana,First,Individual,1498.0,FWD,5.0,40.0
+Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],12550.75,2018,90000,Petrol,Automatic,Bangalore,First,Individual,1462.0,FWD,5.0,43.0
+Tata,Harrier XZ,31948.75,2021,23000,Diesel,Manual,Hyderabad,First,Individual,1956.0,FWD,5.0,50.0
+Hyundai,Grand i10 Magna U2 1.2 CRDi,5108.75,2016,64000,Diesel,Manual,Bulandshahar,Second,Individual,1186.0,FWD,5.0,43.0
+Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,9897.25,2020,52236,Petrol,Manual,Mangalore,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City 1.5 V MT,6100.0,2013,76000,Petrol,Manual,Delhi,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Creta SX Plus 1.6 AT CRDI,18147.5,2018,76000,Diesel,Automatic,Chandigarh,First,Individual,1582.0,FWD,5.0,60.0
+Tata,Harrier XT Plus Dark Edition,29432.5,2021,15000,Diesel,Manual,Delhi,First,Individual,1956.0,FWD,5.0,50.0
+Hyundai,Elite i20 Asta 1.2 (O) [2016],11056.25,2017,36597,Petrol,Manual,Hyderabad,Second,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Ciaz VXi,8768.75,2015,48000,Petrol,Manual,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Nissan,Sunny XV Diesel,5795.0,2013,35000,Diesel,Manual,Kanpur,First,Individual,1461.0,FWD,5.0,41.0
+Honda,Amaze 1.2 VX AT i-VTEC,6633.73475,2014,50000,Petrol,Automatic,Mumbai,First,Individual,1199.0,FWD,5.0,35.0
+Volkswagen,Polo Comfortline 1.2L (P),6481.25,2016,52600,Petrol,Manual,Varanasi,First,Individual,1198.0,FWD,5.0,45.0
+Honda,Amaze 1.2 E MT Petrol [2018-2020],10293.75,2020,25000,Petrol,Manual,Delhi,First,Individual,1199.0,FWD,5.0,35.0
+Hyundai,Xcent S 1.2,6084.75,2014,74000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,43.0
+Volkswagen,Vento Highline Diesel AT,10446.25,2015,85000,Diesel,Automatic,Pune,First,Individual,1498.0,FWD,5.0,55.0
+Volkswagen,Vento Highline Plus 1.6 (P),14335.0,2021,35000,Petrol,Manual,Chennai,First,Corporate,1598.0,FWD,5.0,55.0
+Audi,Q5 2.0 TDI quattro Technology Pack,41022.5,2016,57000,Diesel,Automatic,Gurgaon,First,Individual,1968.0,AWD,5.0,75.0
+Honda,City VX,19138.75,2021,10000,Petrol,Manual,Mumbai,First,Corporate,1497.0,FWD,5.0,40.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],5947.5,2014,46000,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 CRDi SX Opt,8006.25,2014,64000,Diesel,Manual,Ahmedabad,Second,Individual,1582.0,FWD,5.0,43.0
+Audi,Q2 Premium 40 TFSI quattro,52612.5,2022,4600,Petrol,Automatic,Gurgaon,First,Individual,1984.0,AWD,5.0,55.0
+Mercedes-Benz,CLA 200 CDI Sport (CBU),43081.25,2018,23000,Diesel,Automatic,Mumbai,First,Individual,2143.0,FWD,5.0,50.0
+Honda,City 1.5 S MT,4193.75,2009,80000,Petrol,Manual,Mohali,First,Individual,1497.0,FWD,5.0,42.0
+Toyota,Etios 1.2 G,6633.73475,2015,32545,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Tucson GL 2WD AT Diesel,31872.48475,2019,31000,Diesel,Automatic,Delhi,First,Individual,1995.0,FWD,5.0,62.0
+Maruti Suzuki,Swift DZire VDI,7625.0,2015,50000,Diesel,Manual,Dehradun,Second,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire VDI,6100.0,2015,65000,Diesel,Manual,Delhi,Second,Individual,1248.0,FWD,5.0,42.0
+Hyundai,i10 Era 1.1 iRDE2 [2010-2017],3431.25,2012,26000,Petrol,Manual,Dehradun,First,Individual,1086.0,FWD,5.0,35.0
+Mahindra,XUV300 1.5 W6 [2019-2020],14716.25,2021,27000,Diesel,Manual,Delhi,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Creta E Plus 1.4 CRDI,12581.25,2017,62000,Diesel,Manual,Dehradun,First,Individual,1396.0,FWD,5.0,60.0
+Hyundai,Santro GL Plus,3888.73475,2012,17000,Petrol,Manual,Mohali,First,Individual,1086.0,FWD,5.0,35.0
+Ford,Ecosport Trend 1.5 TDCi,4346.25,2013,72000,Diesel,Manual,Faridabad,First,Individual,1498.0,FWD,5.0,52.0
+Chevrolet,Beat LT Diesel,3507.48475,2011,41215,Diesel,Manual,Hyderabad,First,Individual,936.0,FWD,5.0,35.0
+Maruti Suzuki,Alto VXi,3050.0,2011,51000,Petrol,Manual,Mumbai,Second,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza ZDi Plus AGS,15417.75,2019,74179,Diesel,Automatic,Mumbai,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,S-Cross Alpha 1.6,16210.75,2019,31056,Diesel,Manual,Hyderabad,First,Individual,1598.0,FWD,5.0,48.0
+Honda,City VX CVT,10522.5,2015,59000,Petrol,Automatic,Faridabad,First,Individual,1497.0,FWD,5.0,40.0
+Audi,A3 35 TDI Technology + Sunroof,23256.25,2016,32000,Diesel,Automatic,Delhi,First,Individual,1968.0,FWD,5.0,50.0
+Honda,Accord 2.4 AT,7243.75,2011,72000,Petrol,Automatic,Delhi,First,Individual,2354.0,FWD,5.0,70.0
+Hyundai,Verna SX Plus 1.6 CRDi AT,17125.75,2017,80000,Diesel,Automatic,Bangalore,First,Individual,1582.0,FWD,5.0,45.0
+Honda,Amaze 1.5 VX i-DTEC,7853.75,2015,63587,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz Delta Hybrid 1.5 AT [2018-2020],12962.5,2019,32000,Petrol,Automatic,Pune,First,Individual,1462.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza VDi,13191.25,2018,53694,Diesel,Manual,Pune,Second,Individual,1248.0,FWD,5.0,48.0
+Audi,A6 2.0 TDI Premium Plus,22112.5,2014,58000,Diesel,Automatic,Delhi,Second,Individual,1968.0,FWD,5.0,65.0
+Audi,A4 2.0 TDI (177bhp) Premium Plus,17918.75,2013,50000,Diesel,Automatic,Pune,First,Individual,1968.0,FWD,5.0,63.0
+Hyundai,Eon Magna +,4956.25,2017,56000,Petrol,Manual,Dehradun,First,Individual,814.0,FWD,5.0,32.0
+Renault,Duster 85 PS RxL Diesel,8006.25,2014,48000,Diesel,Manual,Patna,First,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Elite i20 Asta 1.2,8387.5,2015,33000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Creta SX 1.6 CRDi,19443.75,2019,58900,Diesel,Manual,Agra,First,Individual,1582.0,FWD,5.0,55.0
+Renault,Kwid RXT [2015-2019],6633.73475,2019,32000,Petrol,Manual,Mysore,First,Individual,799.0,FWD,5.0,28.0
+Hyundai,i10 Sportz 1.2 AT,2821.25,2008,61000,Petrol,Automatic,Pune,Third,Individual,1197.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8540.0,2017,29000,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Ciaz ZDi (O) [2014-2015],9683.75,2016,92000,Diesel,Manual,Mohali,Second,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,DZire VXi,9912.5,2020,42000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,37.0
+Datsun,Go T (O),5261.25,2019,60969,Petrol,Manual,Ranchi,First,Individual,1198.0,FWD,5.0,35.0
+Audi,A4 2.0 TDI (143bhp),21045.0,2014,100000,Diesel,Automatic,Bangalore,First,Individual,1968.0,FWD,5.0,63.0
+Maruti Suzuki,Ciaz S 1.4 MT,8921.25,2018,31000,Petrol,Manual,Kolkata,First,Individual,1373.0,FWD,5.0,43.0
+Toyota,Glanza G,10522.5,2020,55000,Petrol,Manual,Lucknow,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Wagon R LXI CNG (O),5795.0,2018,68320,CNG,Manual,Faridabad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ritz Vdi BS-IV,4193.75,2013,85785,Diesel,Manual,Ambala Cantt,Second,Individual,1248.0,FWD,5.0,43.0
+Volkswagen,Vento Comfortline 1.6 (P),10522.5,2018,38000,Petrol,Manual,Dehradun,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Elite i20 Asta 1.0 Turbo IMT Dual Tone,17232.5,2020,12905,Petrol,Manual,Bangalore,First,Individual,998.0,FWD,5.0,37.0
+Mercedes-Benz,A-Class Sedan 200,62525.0,2021,9000,Petrol,Automatic,Chennai,First,Individual,1332.0,FWD,5.0,43.0
+Tata,Nexon XM Diesel,11056.25,2018,65000,Diesel,Manual,Amritsar,Second,Individual,1497.0,FWD,5.0,44.0
+Hyundai,Elite i20 Magna Executive 1.2,9073.75,2019,48000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,40.0
+Hyundai,i10 Magna 1.2 Kappa2,4422.5,2011,91000,Petrol,Manual,Ahmedabad,First,Individual,1197.0,FWD,5.0,35.0
+Mahindra,XUV300 1.5 W6 [2019-2020],16470.0,2020,52000,Diesel,Manual,Lucknow,First,Individual,1497.0,FWD,5.0,42.0
+Toyota,Etios GD,4559.75,2013,90000,Diesel,Manual,Bulandshahar,Third,Individual,1364.0,FWD,5.0,45.0
+Maruti Suzuki,Swift Lxi (O) [2014-2017],8768.75,2018,58000,Petrol + CNG,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Honda,Amaze 1.2 S AT i-VTEC,5947.5,2014,67000,Petrol,Automatic,Delhi,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Venue SX 1.4 CRDi,17918.75,2021,37556,Diesel,Manual,Nashik,First,Individual,1396.0,FWD,5.0,45.0
+Maruti Suzuki,Alto VXi,3965.0,2012,54000,Petrol,Manual,Bangalore,First,Individual,998.0,FWD,5.0,35.0
+Honda,Amaze 1.2 E i-VTEC,9912.5,2019,42000,Petrol,Manual,Delhi,First,Individual,1198.0,FWD,5.0,35.0
+Volkswagen,Ameo Highline1.2L (P) [2016-2018],9531.25,2017,55000,Petrol,Manual,Pune,First,Individual,1198.0,FWD,5.0,45.0
+MG,Hector Sharp 2.0 Diesel [2019-2020],26306.25,2019,23952,Diesel,Manual,Bangalore,First,Individual,1956.0,FWD,5.0,60.0
+Maruti Suzuki,Wagon R LXI CNG (O),4559.75,2015,92000,CNG,Manual,Mumbai,Second,Individual,998.0,FWD,5.0,35.0
+Hyundai,i10 Sportz 1.2 AT Kappa2,5718.75,2013,34000,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Celerio ZXi AMT,9744.75,2020,44300,Petrol,Automatic,Dharwad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Ciaz VDi+ SHVS,9012.75,2015,65000,Diesel,Manual,Ahmedabad,First,Individual,1248.0,FWD,5.0,43.0
+Honda,City 1.5 S AT,3812.5,2009,110000,Petrol,Automatic,Delhi,First,Individual,1497.0,FWD,5.0,42.0
+Kia,Seltos HTX 1.5 [2020-2021],21334.75,2021,11000,Petrol,Manual,Pune,First,Individual,1497.0,FWD,5.0,50.0
+Hyundai,Aura S 1.2 CNG,11285.0,2020,39000,CNG,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,65.0
+Hyundai,i10 Magna,2668.75,2009,65000,Petrol,Manual,Jamshedpur,Second,Individual,1086.0,FWD,5.0,35.0
+BMW,3-Series 320d Luxury Line [2014-2016],57187.5,2019,42500,Diesel,Automatic,Delhi,First,Individual,1995.0,RWD,5.0,50.0
+BMW,5-Series 530d M Sport [2013-2017],24400.0,2013,80000,Diesel,Automatic,Delhi,Second,Individual,2993.0,RWD,5.0,65.0
+Renault,Duster 85 PS Sandstorm Edition Diesel,9531.25,2017,81000,Diesel,Manual,Mohali,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Swift ZXi,8768.75,2015,50599,Petrol,Manual,Chennai,Second,Individual,1197.0,FWD,5.0,42.0
+BMW,X1 sDrive20d xLine,42700.0,2017,29000,Diesel,Automatic,Bangalore,Second,Individual,1995.0,RWD,5.0,63.0
+Honda,Jazz VX CVT Petrol,11971.25,2018,23000,Petrol,Automatic,Chennai,First,Individual,1199.0,FWD,5.0,40.0
+Audi,Q3 35 TDI Premium + Sunroof,29737.5,2016,84878,Diesel,Automatic,Nashik,Second,Individual,1968.0,AWD,5.0,64.0
+Ford,Ecosport Ambiente 1.5L Ti-VCT,7243.75,2016,69001,Petrol,Manual,Delhi,First,Individual,1499.0,FWD,5.0,52.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,6328.75,2014,62000,Diesel,Manual,Delhi,Second,Individual,1582.0,FWD,5.0,43.0
+Hyundai,i20 Magna (O) 1.4 CRDI,5718.75,2012,82000,Diesel,Manual,Chandigarh,First,Individual,1336.0,FWD,5.0,45.0
+Toyota,Etios V,4575.0,2011,49200,Petrol,Manual,Mumbai,First,Individual,1496.0,FWD,5.0,45.0
+Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],14868.75,2019,58000,Diesel,Manual,Mumbai,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Alto VXi [2014-2019],5642.5,2015,64000,Petrol,Manual,Mohali,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,i10 Era 1.1 iRDE2 [2010-2017],3812.5,2012,48568,Petrol,Manual,Mumbai,First,Individual,1086.0,FWD,5.0,35.0
+Hyundai,i10 Era,1982.5,2009,59000,Petrol,Manual,Kanpur,Second,Individual,1086.0,FWD,5.0,35.0
+Maruti Suzuki,Swift VXi,4559.75,2013,47000,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,42.0
+Hyundai,i20 Magna 1.2,4575.0,2014,40000,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,45.0
+Skoda,Superb Sportline AT,50706.25,2021,13092,Petrol,Automatic,Mumbai,First,Individual,1984.0,FWD,5.0,66.0
+Audi,A4 35 TDI Premium,29737.5,2016,57057,Diesel,Automatic,Ludhiana,First,Individual,1968.0,FWD,5.0,63.0
+Maruti Suzuki,Swift DZire VDI,7625.0,2015,90000,Diesel,Manual,Ludhiana,First,Individual,1248.0,FWD,5.0,42.0
+Hyundai,i20 Active 1.2 SX,9073.75,2015,45000,Petrol,Manual,Thane,First,Individual,1197.0,FWD,5.0,45.0
+Maruti Suzuki,Celerio X Zxi AMT [2017-2019],7396.23475,2018,44000,Petrol,Automatic,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R VXi 1.2,8829.75,2019,50860,Petrol,Manual,Bangalore,First,Individual,1197.0,FWD,5.0,32.0
+Maruti Suzuki,Baleno Delta 1.2,8158.75,2017,34908,Petrol,Manual,Mumbai,First,Corporate,1197.0,FWD,5.0,37.0
+Renault,Duster 110 PS RXL 4X2 AMT [2016-2017],11818.75,2017,67000,Diesel,Automatic,Mumbai,First,Individual,1461.0,FWD,5.0,50.0
+Maruti Suzuki,Celerio VXi AMT,5261.25,2014,19000,Petrol,Automatic,Mumbai,Second,Individual,998.0,FWD,5.0,35.0
+Skoda,Octavia RS,51850.0,2019,30600,Petrol,Automatic,Hyderabad,First,Corporate,1984.0,FWD,5.0,50.0
+Honda,Jazz V Petrol,8006.25,2016,18800,Petrol,Manual,Mumbai,First,Individual,1199.0,FWD,5.0,40.0
+Hyundai,Elite i20 Asta 1.2 [2016-2017],9912.5,2016,100000,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,16378.5,2017,50050,Petrol,Automatic,Delhi,First,Individual,1591.0,FWD,5.0,60.0
+Hyundai,Creta 1.6 SX,26687.5,2021,14000,Diesel,Manual,Chennai,First,Individual,1582.0,FWD,5.0,60.0
+Nissan,Terrano XL D Plus,8997.5,2014,55000,Diesel,Manual,Lucknow,Second,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Creta SX (O) 1.5 Diesel [2020-2022],26306.25,2020,35000,Diesel,Manual,Dehradun,First,Individual,1493.0,FWD,5.0,50.0
+Maruti Suzuki,Celerio ZXi AMT [2019-2020],9607.5,2019,20734,Petrol,Automatic,Udupi,First,Individual,998.0,FWD,5.0,35.0
+Honda,Amaze 1.5 S i-DTEC,6481.25,2014,75000,Diesel,Manual,Amritsar,First,Individual,1498.0,FWD,5.0,35.0
+Honda,City 1.5 S MT,3812.5,2009,72256,Petrol,Manual,Navi Mumbai,First,Individual,1497.0,FWD,5.0,42.0
+Audi,A3 35 TDI Premium Plus + Sunroof,44987.5,2018,17300,Diesel,Automatic,Bangalore,First,Individual,1968.0,FWD,5.0,50.0
+Hyundai,Venue S 1.0 AT Petrol [2019-2020],11437.5,2019,43600,Petrol,Automatic,Allahabad,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Wagon R VXi (O),6862.5,2018,43000,Petrol,Manual,Allahabad,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza VXi,12947.25,2021,17283,Petrol,Manual,Mumbai,First,Individual,1462.0,FWD,5.0,48.0
+Maruti Suzuki,Swift DZire VXI,6557.5,2014,59000,Petrol,Manual,Guwahati,First,Individual,1197.0,FWD,5.0,42.0
+Mercedes-Benz,CLA 200 Petrol Sport,30118.75,2015,19000,Petrol,Automatic,Pune,First,Individual,1991.0,FWD,5.0,50.0
+Hyundai,Creta SX 1.6 AT Petrol,19215.0,2018,36000,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,55.0
+Renault,Kwid RXT [2015-2019],3812.5,2017,32000,Petrol,Manual,Kolkata,First,Individual,799.0,FWD,5.0,28.0
+Hyundai,Verna SX (O) AT Anniversary Edition 1.6 VTVT,14868.75,2018,53300,Petrol,Automatic,Thane,First,Individual,1591.0,FWD,5.0,45.0
+Audi,A4 Premium Plus 40 TFSI,63302.75,2022,1,Petrol,Automatic,Delhi,UnRegistered Car,Individual,1984.0,FWD,5.0,54.0
+BMW,X1 sDrive20d,49562.5,2020,32005,Diesel,Automatic,Bangalore,Second,Individual,1995.0,RWD,5.0,61.0
+Hyundai,Elantra 2.0 SX (O) AT,22341.25,2019,22000,Petrol,Automatic,Mumbai,Second,Individual,1999.0,FWD,5.0,50.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,7243.75,2014,62000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,43.0
+Renault,Kiger RXZ AMT,15250.0,2022,4000,Petrol,Automatic,Hyderabad,Second,Individual,999.0,FWD,5.0,40.0
+Maruti Suzuki,Ciaz ZXI+,8692.5,2015,60798,Petrol,Manual,Mumbai,First,Individual,1373.0,FWD,5.0,43.0
+Hyundai,Verna 1.6 VTVT SX AT,11742.5,2016,20000,Petrol,Automatic,Pune,First,Individual,1591.0,FWD,5.0,43.0
+Honda,City V CVT Petrol [2017-2019],15860.0,2019,18000,Petrol,Automatic,Delhi,First,Individual,1497.0,FWD,5.0,40.0
+Maruti Suzuki,Swift DZire VXI,6862.5,2014,52000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Swift ZXi,12200.0,2022,10000,Petrol,Manual,Jalandhar,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,DZire LDi,8540.0,2018,84500,Diesel,Manual,Ambala Cantt,Third,Individual,1248.0,FWD,5.0,37.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],6862.5,2016,47000,Petrol,Manual,Dehradun,Second,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Verna EX 1.6 CRDi [2017-2018],12352.5,2018,73000,Diesel,Manual,Pune,First,Individual,1582.0,FWD,5.0,45.0
+Honda,Jazz S AT [2015-2016],7930.0,2015,42000,Petrol,Automatic,Delhi,First,Individual,1198.0,FWD,5.0,40.0
+Maruti Suzuki,Swift VDi,6481.25,2015,36528,Diesel,Manual,Varanasi,Third,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Swift VXi,4956.25,2012,30000,Petrol,Manual,Patna,First,Individual,1197.0,FWD,5.0,42.0
+Volvo,XC60 Inscription,29737.5,2016,79000,Diesel,Automatic,Ahmedabad,First,Individual,2400.0,AWD,5.0,70.0
+Audi,A6 35 TDI Matrix,30118.75,2015,61000,Diesel,Automatic,Delhi,Second,Individual,1968.0,FWD,5.0,75.0
+Mercedes-Benz,C-Class C 220d Progressive [2018-2019],53375.0,2019,55000,Diesel,Automatic,Pune,Second,Individual,1950.0,RWD,5.0,66.0
+Renault,Kwid CLIMBER 1.0 [2017-2019],5718.75,2017,45000,Petrol,Manual,Bhubaneswar,UnRegistered Car,Individual,999.0,FWD,5.0,28.0
+Mercedes-Benz,GLA 200 d Sport,27831.25,2016,58000,Diesel,Automatic,Lucknow,First,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,Celerio VXi AMT,5718.75,2014,35000,Petrol,Automatic,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Alto 800 Vxi,4346.25,2016,22346,Petrol,Manual,Patna,First,Individual,796.0,FWD,5.0,35.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],6084.75,2018,38000,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,20206.25,2021,9900,Petrol,Automatic,Mumbai,First,Individual,1591.0,FWD,5.0,43.0
+Maruti Suzuki,Celerio VXi (O) [2019-2020],7777.48475,2019,48000,Petrol,Manual,Hyderabad,First,Individual,998.0,FWD,5.0,35.0
+Jeep,Compass Limited 2.0 Diesel 4x4 [2017-2020],22112.5,2018,90000,Diesel,Manual,Guwahati,First,Individual,1956.0,AWD,5.0,60.0
+Maruti Suzuki,S-Cross Delta 1.6,9760.0,2017,63000,Diesel,Manual,Delhi,First,Individual,1598.0,FWD,5.0,48.0
+Maruti Suzuki,Celerio LDi [2015-2017],4559.75,2017,65822,Diesel,Manual,Lucknow,First,Individual,793.0,FWD,5.0,35.0
+Maruti Suzuki,Wagon R Duo LXi LPG,2973.75,2009,102000,LPG,Manual,Nashik,First,Individual,1061.0,FWD,5.0,35.0
+Toyota,Etios Liva G,5337.5,2013,34000,Petrol,Manual,Pune,First,Individual,1197.0,FWD,5.0,45.0
+Honda,Jazz V AT Petrol,9073.75,2017,99000,Petrol,Automatic,Noida,First,Individual,1199.0,FWD,5.0,40.0
+Maruti Suzuki,Swift DZire VDI,5352.75,2013,42000,Diesel,Manual,Patna,First,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Delta Hybrid 1.5 [2018-2020],12581.25,2019,44000,Petrol,Manual,Delhi,First,Individual,1462.0,FWD,5.0,43.0
+Audi,Q3 30 TDI Premium FWD,30042.5,2017,85000,Diesel,Automatic,Chennai,Second,Individual,1968.0,FWD,5.0,64.0
+BMW,2 Series Gran Coupe 220d M Sport [2020-2021],62525.0,2020,12136,Diesel,Automatic,Hyderabad,First,Corporate,1995.0,FWD,5.0,50.0
+Audi,A4 35 TDI Premium Sunroof,23256.25,2015,49000,Diesel,Automatic,Mohali,First,Individual,1968.0,FWD,5.0,63.0
+Mercedes-Benz,A-Class Sedan 200,63287.5,2021,6000,Petrol,Automatic,Delhi,First,Individual,1332.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza ZDi Plus,11056.25,2017,64000,Diesel,Manual,Kolkata,First,Individual,1248.0,FWD,5.0,48.0
+Toyota,Corolla Altis 1.8 G,5185.0,2011,109000,Petrol,Manual,Mumbai,Second,Individual,1794.0,FWD,5.0,55.0
+Maruti Suzuki,Baleno Delta 1.2,9912.5,2018,32000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Swift Lxi (O) [2014-2017],8692.5,2019,13000,Petrol,Manual,Delhi,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Baleno Zeta 1.2 AT,10065.0,2017,40000,Petrol,Automatic,Pune,First,Individual,1197.0,FWD,5.0,37.0
+Honda,WR-V VX MT Petrol,8768.75,2017,53580,Petrol,Manual,Kolkata,First,Individual,1199.0,FWD,5.0,40.0
+Honda,City V Petrol,14487.5,2019,22000,Petrol,Manual,Noida,First,Individual,1497.0,FWD,5.0,40.0
+Renault,Kwid RXT [2015-2019],6389.75,2017,23700,Petrol,Manual,Mysore,First,Individual,799.0,FWD,5.0,28.0
+Maruti Suzuki,Swift DZire VXI AT,11437.5,2017,48069,Petrol,Automatic,Hyderabad,First,Individual,1197.0,FWD,5.0,42.0
+Audi,A4 35 TDI Premium Plus,51850.0,2019,48000,Diesel,Automatic,Chandigarh,First,Individual,1968.0,FWD,5.0,54.0
+Skoda,Octavia Elegance 2.0 TDI AT,17690.0,2015,47981,Diesel,Automatic,Mumbai,First,Individual,1968.0,FWD,5.0,50.0
+Kia,Seltos HTK Plus AT 1.5 Diesel [2020-2021],24018.75,2020,63000,Diesel,Automatic,Ahmedabad,First,Individual,1493.0,FWD,5.0,50.0
+Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],7243.75,2016,16630,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,43.0
+Honda,City VX Petrol [2017-2019],12962.5,2017,47255,Petrol,Manual,Ahmedabad,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Creta SX 1.5 Petrol CVT [2020-2022],29356.25,2022,9355,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,50.0
+Renault,Kwid RXL [2015-2019],4651.25,2018,34800,Petrol,Manual,Jamshedpur,First,Individual,799.0,FWD,5.0,28.0
+Nissan,Terrano XL D Plus,5871.25,2013,72000,Diesel,Manual,Dehradun,Second,Individual,1461.0,FWD,5.0,50.0
+Skoda,Rapid Elegance 1.6 TDI CR MT,7625.0,2012,86288,Diesel,Manual,Hyderabad,First,Individual,1598.0,FWD,5.0,55.0
+Honda,Jazz V Petrol,9988.75,2017,24003,Petrol,Manual,Bangalore,First,Individual,1199.0,FWD,5.0,40.0
+Tata,Nexon XZ Plus Diesel,14106.25,2017,28000,Diesel,Manual,Bangalore,First,Individual,1497.0,FWD,5.0,44.0
+Hyundai,Elite i20 Asta 1.4 CRDI,10522.5,2017,65000,Diesel,Manual,Ahmedabad,First,Individual,1396.0,FWD,5.0,45.0
+Hyundai,Verna 1.6 CRDI SX (O),12886.23475,2018,71000,Diesel,Manual,Gurgaon,Second,Individual,1582.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],9760.0,2017,61000,Diesel,Manual,Kanpur,First,Individual,1248.0,FWD,5.0,48.0
+Volvo,V40 D3 R-Design,31262.5,2017,68000,Diesel,Automatic,Mumbai,Second,Corporate,1984.0,FWD,5.0,60.0
+Maruti Suzuki,Celerio VXi AMT,6023.75,2014,47884,Petrol,Automatic,Pune,First,Individual,998.0,FWD,5.0,35.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],21197.5,2017,56000,Petrol,Automatic,Navi Mumbai,First,Individual,1798.0,FWD,5.0,50.0
+Honda,City 1.5 V MT,5566.25,2010,58424,Petrol,Manual,Hyderabad,First,Individual,1497.0,FWD,5.0,42.0
+Hyundai,Xcent S 1.1 CRDi Special Edition,6877.75,2017,55000,Diesel,Manual,Ahmedabad,First,Individual,1120.0,FWD,5.0,43.0
+Skoda,Rapid 1.6 MPI Active,13420.0,2018,47000,Petrol,Manual,Coimbatore,First,Individual,1598.0,FWD,5.0,55.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,17995.0,2019,38000,Petrol,Automatic,Bangalore,First,Individual,1591.0,FWD,5.0,43.0
+Maruti Suzuki,Alto 800 Lxi,4346.25,2016,17000,Petrol,Manual,Lucknow,First,Individual,796.0,FWD,5.0,35.0
+Ford,Aspire Titanium1.5 TDCi [2018-2020],10293.75,2019,35000,Diesel,Manual,Bhopal,First,Individual,1498.0,FWD,5.0,40.0
+MINI,Cooper D 5 Door,38125.0,2015,34303,Diesel,Automatic,Bangalore,Second,Individual,1496.0,FWD,5.0,44.0
+Audi,A6 35 TDI Matrix,56043.75,2019,34000,Diesel,Automatic,Ghaziabad,First,Individual,1968.0,FWD,5.0,75.0
+Kia,Seltos HTK 1.5 Diesel [2020-2021],19825.0,2020,27000,Diesel,Manual,Jaipur,First,Individual,1493.0,FWD,5.0,50.0
+Hyundai,Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,12581.25,2021,6600,Petrol,Automatic,Hyderabad,First,Individual,1197.0,FWD,5.0,37.0
+Maruti Suzuki,Alto 800 VXi,6252.48475,2021,13424,Petrol,Manual,Ranga Reddy,First,Individual,796.0,FWD,5.0,35.0
+Maruti Suzuki,Alto 800 Lxi CNG,4407.25,2015,78000,CNG,Manual,Mumbai,First,Individual,796.0,FWD,5.0,35.0
+Maruti Suzuki,Alto LXi,4270.0,2011,69276,Petrol,Manual,Hyderabad,First,Individual,998.0,FWD,5.0,35.0
+Hyundai,Verna SX (O) 1.6 CRDi,12382.98475,2017,31000,Diesel,Manual,Kolkata,First,Individual,1582.0,FWD,5.0,45.0
+Volkswagen,Polo Highline1.5L (D),9531.25,2014,54000,Diesel,Manual,Bangalore,First,Individual,1498.0,FWD,5.0,45.0
+Maruti Suzuki,Vitara Brezza ZDi,11056.25,2017,75000,Diesel,Manual,Ambala Cantt,First,Individual,1248.0,FWD,5.0,48.0
+Audi,Q3 35 TDI Premium Plus + Sunroof,22112.5,2014,71796,Diesel,Automatic,Bangalore,Third,Individual,1968.0,AWD,5.0,64.0
+Nissan,Terrano XE (D),6481.25,2014,74000,Diesel,Manual,Gurgaon,Second,Individual,1461.0,FWD,5.0,50.0
+Hyundai,Eon Sportz,3812.5,2013,82461,Petrol,Manual,Hyderabad,First,Individual,814.0,FWD,5.0,32.0
+Maruti Suzuki,DZire VDi,12200.0,2018,66000,Diesel,Manual,Pune,First,Individual,1248.0,FWD,5.0,37.0
+Mercedes-Benz,GLA 200 d Sport,34693.75,2016,61109,Diesel,Automatic,Bangalore,Second,Individual,2143.0,FWD,5.0,50.0
+Tata,Tiago NRG Petrol,8006.25,2019,32000,Petrol,Manual,Noida,First,Individual,1199.0,FWD,5.0,35.0
+Maruti Suzuki,Celerio ZXi AMT [2017-2019],8768.75,2018,27239,Petrol,Automatic,Bangalore,First,Individual,998.0,FWD,5.0,35.0
+Chevrolet,Spark LS 1.0 BS-III,2897.5,2013,66000,Petrol,Manual,Lucknow,First,Individual,995.0,FWD,5.0,38.0
+Hyundai,Grand i10 NIOS Sportz 1.2 Kappa VTVT,11513.75,2022,2272,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,37.0
+Honda,CR-V 2.0L 2WD AT,17232.5,2015,50000,Petrol,Automatic,Mumbai,First,Individual,1997.0,FWD,5.0,58.0
+Maruti Suzuki,Swift DZire LXI,9302.5,2017,38674,Petrol,Manual,Navi Mumbai,First,Individual,1197.0,FWD,5.0,42.0
+Audi,Q3 35 TDI Premium Plus + Sunroof,28593.75,2016,40000,Diesel,Automatic,Delhi,First,Individual,1968.0,AWD,5.0,64.0
+Maruti Suzuki,Alto 800 Lxi CNG,7320.0,2021,14000,CNG,Manual,Mohali,First,Individual,796.0,FWD,5.0,35.0
+Renault,Kwid 1.0 RXL [2017-2019],5566.25,2019,32000,Petrol,Manual,Mumbai,First,Individual,999.0,FWD,5.0,28.0
+Ford,Ecosport Titanium+ 1.5L TDCi,11361.25,2017,82000,Diesel,Manual,Jaipur,First,Individual,1498.0,FWD,5.0,52.0
+Mercedes-Benz,B-class B180 Sports,17537.5,2013,52000,Petrol,Automatic,Delhi,Second,Individual,1595.0,FWD,5.0,50.0
+Hyundai,Xcent SX 1.1 CRDi (O),3050.0,2014,56000,Diesel,Manual,Delhi,Third,Individual,1120.0,FWD,5.0,43.0
+Honda,City VX CVT,11818.75,2016,42000,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Creta SX Plus 1.6  Petrol,13115.0,2016,57983,Petrol,Manual,Mumbai,First,Individual,1591.0,FWD,5.0,60.0
+Audi,A3 35 TFSI Premium Plus,31872.48475,2018,15600,Petrol,Automatic,Lucknow,First,Corporate,1395.0,FWD,5.0,50.0
+Hyundai,Verna 1.6 CRDI SX,16775.0,2019,26000,Diesel,Manual,Patna,First,Individual,1582.0,FWD,5.0,43.0
+Maruti Suzuki,Swift DZire VDI,3965.0,2011,90000,Diesel,Manual,Chandigarh,Second,Individual,1248.0,FWD,5.0,42.0
+Skoda,Octavia 2.0 TDI L&K,21350.0,2020,94182,Diesel,Automatic,Kanpur,First,Individual,1968.0,FWD,5.0,50.0
+Hyundai,Santro Sportz [2018-2020],7853.75,2022,3395,Petrol,Manual,Ludhiana,First,Individual,1086.0,FWD,5.0,35.0
+Jaguar,XE Prestige Diesel,43462.5,2018,45000,Diesel,Automatic,Dehradun,First,Individual,1999.0,RWD,5.0,56.0
+Toyota,Corolla Altis GL Petrol,16393.75,2016,70000,Petrol,Manual,Delhi,First,Individual,1798.0,FWD,5.0,55.0
+Tata,Altroz XT Petrol,8768.75,2020,40000,Petrol,Manual,Kolkata,First,Individual,1199.0,FWD,5.0,37.0
+Volvo,XC40 D4 R-Design,60237.5,2018,52000,Diesel,Automatic,Bangalore,First,Individual,1969.0,AWD,5.0,54.0
+Maruti Suzuki,Ciaz Delta Hybrid 1.5 [2018-2020],11437.5,2019,6200,Petrol,Manual,Mumbai,First,Individual,1462.0,FWD,5.0,43.0
+Honda,WR-V VX MT Diesel,11513.75,2017,75650,Diesel,Manual,Thane,First,Individual,1498.0,FWD,5.0,40.0
+Hyundai,i10 Sportz 1.2,2897.5,2010,60000,Petrol,Manual,Roorkee,Third,Individual,1197.0,FWD,5.0,35.0
+Maruti Suzuki,Swift DZire VDI,6481.25,2014,89000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Alto 800 Lxi CNG,5947.5,2019,56000,CNG,Manual,Ahmedabad,First,Individual,796.0,FWD,5.0,35.0
+Hyundai,Verna 1.6 CRDI SX,13038.75,2017,57000,Diesel,Manual,Bangalore,Second,Individual,1582.0,FWD,5.0,43.0
+Hyundai,Eon Era +,3431.25,2012,56000,Petrol,Manual,Meerut,First,Individual,814.0,FWD,5.0,32.0
+Audi,A6 35 TDI Matrix,36981.25,2016,60000,Diesel,Automatic,Mumbai,First,Individual,1968.0,FWD,5.0,75.0
+Maruti Suzuki,Wagon R LXI CNG (O),4956.25,2014,58000,CNG,Manual,Delhi,Second,Individual,998.0,FWD,5.0,35.0
+Tata,Nexon XM,11437.5,2019,33000,Petrol,Manual,Delhi,First,Individual,1198.0,FWD,5.0,44.0
+Maruti Suzuki,Celerio ZXi AMT [2019-2020],6862.5,2014,48000,Petrol,Automatic,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+MG,Hector Sharp 2.0 Diesel [2019-2020],26077.5,2020,12400,Diesel,Manual,Mohali,First,Individual,1956.0,FWD,5.0,60.0
+Hyundai,Creta 1.6 SX (O),13282.75,2015,64000,Diesel,Manual,Ahmedabad,First,Individual,1582.0,FWD,5.0,60.0
+Maruti Suzuki,Wagon R LXI CNG (O),9531.25,2021,18000,CNG,Manual,Delhi,First,Individual,998.0,FWD,5.0,35.0
+Honda,City V Diesel,9150.0,2016,70000,Diesel,Manual,Kanpur,First,Individual,1498.0,FWD,5.0,40.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,9073.75,2014,65123,Diesel,Manual,Patna,First,Individual,1582.0,FWD,5.0,43.0
+Honda,Amaze 1.2 S i-VTEC,6481.25,2014,58600,Petrol,Manual,Pune,First,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Venue SX (O) 1.0 Turbo iMT,16012.5,2021,7500,Petrol,Manual,Hyderabad,First,Individual,998.0,FWD,5.0,45.0
+Hyundai,Creta SX 1.6 CRDi,19809.75,2019,39000,Diesel,Manual,Mumbai,First,Individual,1582.0,FWD,5.0,55.0
+Hyundai,i10 Magna,2668.75,2009,23000,Petrol,Manual,Mumbai,First,Individual,1086.0,FWD,5.0,35.0
+Renault,Kwid 1.0 RXT [2016-2019],4041.25,2016,122000,Petrol,Manual,Coimbatore,First,Individual,999.0,FWD,5.0,28.0
+Maruti Suzuki,Baleno Sigma 1.2,7243.75,2015,48000,Petrol,Manual,Navi Mumbai,First,Individual,1197.0,FWD,5.0,37.0
+Hyundai,Elite i20 Sportz 1.2 (O),10065.0,2018,9000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Renault,Kwid 1.0 RXT AMT Opt,7472.5,2019,32000,Petrol,Automatic,Coimbatore,First,Individual,999.0,FWD,5.0,28.0
+Nissan,Sunny XL,4803.75,2012,57000,Petrol,Manual,Amritsar,First,Individual,1498.0,FWD,5.0,41.0
+Honda,Brio S MT,5200.25,2016,49000,Petrol,Manual,Mumbai,First,Individual,1198.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza ZDi Plus,14487.5,2018,71000,Diesel,Manual,Udupi,Second,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Swift VXi,6252.48475,2014,20000,Petrol,Manual,Mumbai,Second,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Zeta 1.3 Hybrid,16012.5,2021,5000,Diesel,Manual,Lucknow,First,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Swift VXi,5566.25,2013,68000,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,42.0
+Mercedes-Benz,CLA 200 D Urban Sport,47275.0,2019,17000,Diesel,Automatic,Delhi,First,Individual,2143.0,FWD,5.0,56.0
+Ford,Ecosport Titanium 1.5 TDCi,9073.75,2015,43000,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,52.0
+Maruti Suzuki,Ciaz VDi+ SHVS,9912.5,2017,92000,Diesel,Manual,Jalandhar,Second,Individual,1248.0,FWD,5.0,43.0
+Maruti Suzuki,Ignis Zeta 1.2 AMT,7945.25,2017,40879,Petrol,Automatic,Mumbai,First,Individual,1197.0,FWD,5.0,32.0
+Ford,Ecosport Titanium 1.5L TDCi,8692.5,2016,80000,Diesel,Manual,Gurgaon,First,Individual,1498.0,FWD,5.0,52.0
+Renault,Kwid 1.0 RXT [2016-2019],4559.75,2018,19000,Petrol,Manual,Kolkata,First,Individual,999.0,FWD,5.0,28.0
+Skoda,Rapid Ambition 1.6 TDI CR MT,5337.5,2012,130000,Diesel,Manual,Nashik,First,Individual,1598.0,FWD,5.0,55.0
+Maruti Suzuki,Swift DZire VDI,8768.75,2017,35000,Diesel,Manual,Patna,First,Individual,1248.0,FWD,5.0,42.0
+Honda,Brio VX AT,5108.75,2013,64418,Petrol,Automatic,Mumbai,Second,Individual,1198.0,FWD,5.0,35.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],7320.0,2019,10265,Petrol,Manual,Hyderabad,First,Individual,1197.0,FWD,5.0,43.0
+Maruti Suzuki,Wagon R LXi 1.0 CNG,10293.75,2021,15000,CNG,Manual,Pune,First,Individual,998.0,FWD,5.0,60.0
+Ford,Fiesta Titanium Diesel,5337.5,2012,85000,Diesel,Manual,Jaipur,First,Individual,1498.0,FWD,5.0,40.0
+Mercedes-Benz,GLA 200 d Style,38125.0,2018,90000,Diesel,Automatic,Mumbai,Second,Individual,2143.0,FWD,5.0,50.0
+Maruti Suzuki,Wagon R LXI CNG,6100.0,2017,43000,CNG,Manual,Agra,First,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza ZDi Plus,12047.5,2017,50000,Diesel,Manual,Delhi,First,Individual,1248.0,FWD,5.0,48.0
+Maruti Suzuki,Alto 800 Std,2745.0,2014,48000,Petrol,Manual,Ranchi,Third,Individual,796.0,FWD,5.0,35.0
+Hyundai,Xcent SX 1.1 CRDi,8402.75,2019,39000,Diesel,Manual,Jaipur,First,Individual,1120.0,FWD,5.0,43.0
+Maruti Suzuki,Vitara Brezza VDi,13115.0,2018,33030,Diesel,Manual,Jaipur,First,Individual,1248.0,FWD,5.0,48.0
+Honda,City 1.5 E MT,5718.75,2013,86000,Petrol,Manual,Mumbai,Second,Individual,1497.0,FWD,5.0,42.0
+Maruti Suzuki,Ciaz Alpha 1.4 AT,11056.25,2017,55000,Petrol,Automatic,Noida,First,Individual,1373.0,FWD,5.0,43.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],6100.0,2017,35000,Petrol,Manual,Kolkata,First,Individual,1197.0,FWD,5.0,43.0
+Jeep,Compass Limited (O) 1.4 Petrol DCT,34693.75,2022,2000,Petrol,Automatic,Kolkata,First,Individual,1368.0,FWD,5.0,60.0
+Jeep,Compass Limited 2.0 Diesel [2017-2020],19062.5,2018,90000,Diesel,Manual,Ludhiana,First,Individual,1956.0,FWD,5.0,60.0
+Honda,City 1.5 S MT,7609.75,2012,96506,Petrol,Manual,Bangalore,Second,Individual,1497.0,FWD,5.0,42.0
+Volkswagen,Vento Highline Petrol AT,6084.75,2014,88000,Petrol,Automatic,Faridabad,First,Individual,1598.0,FWD,5.0,55.0
+Maruti Suzuki,Swift DZire VXI,6862.5,2015,52000,Petrol,Manual,Roorkee,First,Individual,1197.0,FWD,5.0,42.0
+Maruti Suzuki,Celerio VXi AMT,6252.48475,2015,54443,Petrol,Automatic,Mumbai,First,Individual,998.0,FWD,5.0,35.0
+Audi,A4 30 TFSI Technology Pack,45750.0,2017,42000,Petrol,Automatic,Pune,First,Individual,1395.0,FWD,5.0,54.0
+Datsun,Redigo T(O) 1.0,3812.5,2018,25000,Petrol,Manual,Kolkata,Second,Individual,999.0,FWD,5.0,28.0
+Maruti Suzuki,Swift VDi,8997.5,2014,86000,Diesel,Manual,Coimbatore,First,Individual,1248.0,FWD,5.0,42.0
+MINI,Countryman Cooper D,19825.0,2013,50300,Diesel,Automatic,Delhi,Second,Individual,1995.0,FWD,5.0,47.0
+Ford,Ecosport Titanium 1.5 TDCi,8082.5,2013,75000,Diesel,Manual,Mumbai,First,Individual,1498.0,FWD,5.0,52.0
+BMW,X5 xDrive 30d M Sport,45368.75,2015,87000,Diesel,Automatic,Mohali,First,Individual,2993.0,AWD,5.0,50.0
+Hyundai,Creta SX (O) 1.5 Diesel Automatic,30347.48475,2022,5800,Diesel,Automatic,Surat,First,Individual,1493.0,FWD,5.0,50.0
+Kia,Seltos GTX Plus AT 1.4 [2019-2020],30118.75,2021,7000,Petrol,Automatic,Bangalore,First,Individual,1353.0,FWD,5.0,50.0
+Toyota,Etios Liva G,4803.75,2011,38091,Petrol,Manual,Mumbai,First,Individual,1197.0,FWD,5.0,45.0
+Hyundai,Eon Sportz,4193.75,2013,34000,Petrol,Manual,Pune,First,Individual,814.0,FWD,5.0,32.0
+Honda,City SV Diesel,11437.5,2018,75000,Diesel,Manual,Faridabad,First,Individual,1498.0,FWD,5.0,40.0
+Toyota,Etios VXD,7091.25,2014,82000,Diesel,Manual,Ludhiana,First,Individual,1364.0,FWD,5.0,45.0
+Kia,Sonet GTX Plus 1.0 iMT [2020-2021],20206.25,2021,20000,Petrol,Manual,Bangalore,First,Individual,998.0,FWD,5.0,45.0
+Maruti Suzuki,Swift DZire VDI,2668.75,2008,65000,Diesel,Manual,Jamshedpur,Second,Individual,1248.0,FWD,5.0,42.0
+Maruti Suzuki,Swift DZire VDI,4193.75,2011,65000,Diesel,Manual,Allahabad,First,Individual,1248.0,FWD,5.0,42.0
+Honda,City V,11132.5,2016,51834,Petrol,Manual,Bangalore,Second,Individual,1497.0,FWD,5.0,40.0
+Jeep,Compass Limited 1.4 Petrol AT [2017-2020],22798.75,2018,28000,Petrol,Automatic,Delhi,First,Individual,1368.0,FWD,5.0,60.0
+Mercedes-Benz,B-class B180,17537.5,2014,39000,Petrol,Automatic,Mumbai,Second,Individual,1595.0,FWD,5.0,50.0
+Honda,City SV CVT,8997.5,2015,116592,Petrol,Automatic,Mumbai,First,Individual,1497.0,FWD,5.0,40.0
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,37362.5,2014,80000,Diesel,Automatic,Hyderabad,First,Individual,2143.0,RWD,5.0,66.0
+Chevrolet,Sail Sedan 1.2 LS,4559.75,2014,32000,Petrol,Manual,Dehradun,First,Individual,1199.0,FWD,5.0,42.0
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,43462.5,2016,21200,Diesel,Automatic,Pune,First,Individual,2143.0,RWD,5.0,66.0
+Maruti Suzuki,Wagon R LXI CNG (O),5566.25,2014,75693,CNG,Manual,Pune,Second,Individual,998.0,FWD,5.0,35.0
+Maruti Suzuki,Vitara Brezza ZDi,12962.5,2018,85000,Diesel,Manual,Hyderabad,First,Individual,1248.0,FWD,5.0,48.0
+Honda,City V,7320.0,2015,49000,Petrol,Manual,Kolkata,First,Individual,1497.0,FWD,5.0,40.0
+Hyundai,Grand i10 Asta 1.1 CRDi [2013-2016],5261.25,2016,71000,Diesel,Manual,Kanpur,Second,Individual,1120.0,FWD,5.0,43.0
+Hyundai,Creta SX Plus 1.6  Petrol,13587.75,2016,47000,Petrol,Manual,Delhi,First,Individual,1591.0,FWD,5.0,60.0
+Maruti Suzuki,Vitara Brezza VXi,14106.25,2021,48000,Petrol,Manual,Bangalore,First,Individual,1462.0,FWD,5.0,48.0
+Maruti Suzuki,Ritz Vxi (ABS) BS-IV,3736.25,2014,79000,Petrol,Manual,Faridabad,Second,Individual,1197.0,FWD,5.0,43.0
+Hyundai,Eon D-Lite +,4193.75,2014,83000,Petrol,Manual,Ahmedabad,Second,Individual,814.0,FWD,5.0,32.0
+Ford,Figo Duratec Petrol ZXI 1.2,3660.0,2013,73000,Petrol,Manual,Thane,First,Individual,1196.0,FWD,5.0,45.0
