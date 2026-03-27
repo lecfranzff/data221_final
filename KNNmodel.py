@@ -43,6 +43,41 @@ data_frame["Seating Capacity"] = data_frame["Seating Capacity"].fillna(median_fo
 median_for_fuel = data_frame["Fuel Tank Capacity"].median()
 data_frame["Fuel Tank Capacity"] = data_frame["Fuel Tank Capacity"].fillna(median_for_fuel)
 
+#remove outliers(helps with MAE and SSE very well)
+columns_with_outliers = ["Price", "Engine", "Kilometer", "Seating Capacity", "Fuel Tank Capacity"]
+
+for column in columns_with_outliers:
+    q1 = data_frame[column].quantile(0.25)
+    q3 = data_frame[column].quantile(0.75)
+    iqr = q3 - q1
+
+    lower_bound = q1 - 1.5 * iqr
+    upper_bound = q3 + 1.5 * iqr
+
+    data_frame = data_frame[
+        (data_frame[column] >= lower_bound) &
+        (data_frame[column] <= upper_bound)
+        ]
+
+#this removes the test car that was already used, so that the similar cars aren't the same exact car as the test car
+duplicate_columns = [
+    "Make",
+    "Model",
+    "Year",
+    "Kilometer",
+    "Fuel Type",
+    "Transmission",
+    "Location",
+    "Owner",
+    "Seller Type",
+    "Engine",
+    "Drivetrain",
+    "Seating Capacity",
+    "Fuel Tank Capacity"
+]
+
+data_frame = data_frame.drop_duplicates(subset = duplicate_columns).reset_index(drop = True)
+
 #if we want to see similar cars, keep a copy of the cleaned dataset for later
 original_data = data_frame.copy()
 
@@ -62,11 +97,30 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 #build, train, predict
-model = KNeighborsRegressor(n_neighbors = 3)
+model = KNeighborsRegressor(n_neighbors = 5, weights = "distance")
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 sse = sum((y_test - y_pred) ** 2)
 
-print("MAE: ", mae)
-print("SSE: ", sse)
+print("MAE: ", round(mae, 2))
+print("SSE: ", round(sse, 2))
+
+similar_car = 100
+test_car = X_test[similar_car:similar_car+1]
+indices = model.kneighbors(test_car, n_neighbors = 5, return_distance = False)
+
+print("Test car: ")
+print(X_test_original.iloc[similar_car])
+
+print("5 most similar cars: ")
+print(X_train_original.iloc[indices[0]])
+
+print("prices of 5 most similar cars: ")
+print(y_train.iloc[indices[0]])
+
+print("model prediction: ")
+print(y_pred[similar_car])
+
+print("Actual price: ")
+print(y_test.iloc[similar_car])
