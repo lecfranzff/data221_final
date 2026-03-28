@@ -3,5 +3,9 @@ from sklearn.model_selection import train_test_split
 # load the cleaned data set
 dataset = pandas.read_csv("cleaned_car_details_dataset.csv")
 
+X = dataframe.drop(columns=["Price"])   # Features
+y = dataframe["Price"]                  # Target
 
-features_train, features_test, labels_train, labels_test =train_test_split(feature_matrix, target_labels, test_size=0.3,random_state=42)
+#converts text into values
+x = pandas.get_dummies(data_frame, drop_first = True)
+X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.3,random_state=42)
