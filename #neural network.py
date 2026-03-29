@@ -22,15 +22,17 @@ df_one_hot= pd.get_dummies(df_one_hot, columns=["Fuel Type","Transmission","Loca
 target_Y=df_one_hot.loc[:,"Price"]
 feature_X = df_one_hot.loc[:, df_one_hot.columns != "Price"]
 
-train_X, test_X, train_y, test_y = train_test_split(feature_X, target_Y, test_size = 0.2,random_state = 1)
+train_X, test_X, train_y, test_y = train_test_split(feature_X, target_Y, 
+                                        test_size = 0.2,random_state = 1) #Splitting the data into training and testing sets, with 20% of the data reserved for testing. The random_state parameter ensures that the split is reproducible.
 
-columns = train_X.columns.tolist()
+columns = train_X.columns.tolist() #Counting how many features I have for the input layer of the neural network
 count = 0
 for x in columns: 
     count = count + 1 
 
 #Scale
-scaler = StandardScaler() 
+scaler = StandardScaler() #Scale the features to have mean 0 and variance 1, which can help with training the neural network.
 
 X_train_scaled = scaler.fit_transform(train_X)
 X_test_scaled = scaler.transform(test_X)
+
