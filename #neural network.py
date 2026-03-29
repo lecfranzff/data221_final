@@ -36,3 +36,22 @@ scaler = StandardScaler() #Scale the features to have mean 0 and variance 1, whi
 X_train_scaled = scaler.fit_transform(train_X)
 X_test_scaled = scaler.transform(test_X)
 
+#Building the Model 
+
+model = tf.keras.Sequential([ 
+    tf.keras.layers.Input(shape = (X_train_scaled.shape[1],)),
+    tf.keras.layers.Dense(512,activation ="relu"), #The first hidden layer has 512 neurons and uses the ReLU activation function. (ReLU performed better than sigmoid)
+    tf.keras.layers.Dense(256,activation ="relu"),
+    tf.keras.layers.Dense(128,activation ="relu"),
+    tf.keras.layers.Dense(64,activation ="relu"),
+    tf.keras.layers.Dense(32,activation ="relu"),
+    tf.keras.layers.Dense(1)
+])
+
+model.summary() #Prints a summary of the model, including the number of parameters in each layer and the total number of parameters in the model.
+
+model.compile(
+    optimizer=tf.keras.optimizers.Adam(learning_rate=0.001), 
+    loss="mse", #Mean Squared Error loss
+    metrics=[tf.keras.metrics.MeanAbsoluteError(name="mae"),] #Mean Abs Error as a metric to check if model is training well on the epochs
+)
