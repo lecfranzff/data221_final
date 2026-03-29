@@ -24,5 +24,5 @@ sse = ((y_test - y_pred) ** 2).sum()
 
 print("Decision Tree Results")
 print("----------------------")
-print("Mean Absolute Error (MAE):", mae)
-print("Sum of Squared Errors (SSE):", sse)
+print("MAE:", round(mae, 2))
+print("SSE:", round(sse, 2))
