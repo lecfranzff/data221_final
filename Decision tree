@@ -6,22 +6,23 @@ from sklearn.metrics import mean_absolute_error
 
 # load the cleaned data set
 dataset = pandas.read_csv("cleaned_car_details_dataset.csv")
+dataset = dataset.drop(columns=["Model"])
 
-X = dataset.drop(columns=["Price"])   # Features
-y = dataset["Price"]                  # Target
+Features = dataset.drop(columns=["Price"])   # Features
+Target = dataset["Price"]                  # Target
 
 #converts text into values
-dataset = dataset.drop(columns=["Model"])
-X = pandas.get_dummies(X, drop_first = True)
-X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.3,random_state=42)
+
+Features = pandas.get_dummies(Features, drop_first = True)
+Features_train, Features_test, Target_train, Target_test = train_test_split(Features, Target,test_size=0.3,random_state=42)
 model = DecisionTreeRegressor(random_state=42,max_depth=10) # max depth to reduce overfitting
-model.fit(X_train, y_train)
+model.fit(Features_train, Target_train)
 # Make predictions
-y_pred = model.predict(X_test)
+Target_pred = model.predict(Features_test)
 
 # Evaluate
-mae = mean_absolute_error(y_test, y_pred)
-sse = ((y_test - y_pred) ** 2).sum()
+mae = mean_absolute_error(Target_test, Target_pred)
+sse = ((Target_test - Target_pred) ** 2).sum()
 
 
 print("Decision Tree Results")
@@ -29,21 +30,21 @@ print("----------------------")
 print("MAE:", round(mae, 2))
 print("SSE:", round(sse, 2))
 
-# Feature importances
-importances = pandas.Series(model.feature_importances_, index=X.columns)
+# Features importances
+importances = pandas.Series(model.feature_importances_, index=Features.columns)
 importances_sorted = importances.sort_values(ascending=False)
 
-# Strongest feature
+# Strongest Features
 strongest = importances_sorted.head(1)
-print("\nStrongest feature:")
+print("\nStrongest Features:")
 print(strongest)
 
-# Top 5 features
+# Top 5 Features
 top5 = importances_sorted.head(5)
-print("\nTop 5 features:")
+print("\nTop 5 Features:")
 print(top5)
 
-# Weakest feature
+# Weakest Features
 weakest = importances_sorted.tail(1)
-print("\nWeakest feature:")
+print("\nWeakest Features:")
 print(weakest)
