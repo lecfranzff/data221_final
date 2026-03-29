@@ -22,7 +22,27 @@ y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 sse = ((y_test - y_pred) ** 2).sum()
 
+
 print("Decision Tree Results")
 print("----------------------")
 print("MAE:", round(mae, 2))
 print("SSE:", round(sse, 2))
+
+# Feature importances
+importances = pd.Series(model.feature_importances_, index=X.columns)
+importances_sorted = importances.sort_values(ascending=False)
+
+# Strongest feature
+strongest = importances_sorted.head(1)
+print("\nStrongest feature:")
+print(strongest)
+
+# Top 5 features
+top5 = importances_sorted.head(5)
+print("\nTop 5 features:")
+print(top5)
+
+# Weakest feature
+weakest = importances_sorted.tail(1)
+print("\nWeakest feature:")
+print(weakest)
