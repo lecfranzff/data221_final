@@ -111,7 +111,9 @@ y_pred = model.predict(X_test)
 
 # Evaluation
 mean_absolute_error = mean_absolute_error(y_test, y_pred)
+sum_of_squared_error = ((y_test - y_pred) ** 2).sum()
 print("Mean Absolute Error:", mean_absolute_error)
+print("Sum of Squared Error:", sum_of_squared_error)
 
 print("Intercept:", model.intercept_)
 print("Coefficients:")
