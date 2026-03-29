@@ -30,7 +30,7 @@ print("MAE:", round(mae, 2))
 print("SSE:", round(sse, 2))
 
 # Feature importances
-importances = pd.Series(model.feature_importances_, index=X.columns)
+importances = pandas.Series(model.feature_importances_, index=X.columns)
 importances_sorted = importances.sort_values(ascending=False)
 
 # Strongest feature
