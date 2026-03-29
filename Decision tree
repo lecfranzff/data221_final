@@ -22,5 +22,7 @@ y_pred = model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 sse = ((y_test - y_pred) ** 2).sum()
 
+print("Decision Tree Results")
+print("----------------------")
 print("Mean Absolute Error (MAE):", mae)
 print("Sum of Squared Errors (SSE):", sse)
