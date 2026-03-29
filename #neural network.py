@@ -9,3 +9,28 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_absolute_error
 import matplotlib.pyplot as plt
+
+
+#Preprocessing
+df = pd.read_csv("C:/Users/alecf/Code/data221_final/cleaned_car_details_dataset.csv")
+#Encode 
+
+df_one_hot=df.drop(columns = "Model") #Too complex of a string, if I use one hot could create more than 100+ columns increasing the curse of cardinality
+df_one_hot= pd.get_dummies(df_one_hot, columns=["Fuel Type","Transmission","Location","Owner",
+                                    "Seller Type","Drivetrain","Make"])
+
+target_Y=df_one_hot.loc[:,"Price"]
+feature_X = df_one_hot.loc[:, df_one_hot.columns != "Price"]
+
+train_X, test_X, train_y, test_y = train_test_split(feature_X, target_Y, test_size = 0.2,random_state = 1)
+
+columns = train_X.columns.tolist()
+count = 0
+for x in columns: 
+    count = count + 1 
+
+#Scale
+scaler = StandardScaler() 
+
+X_train_scaled = scaler.fit_transform(train_X)
+X_test_scaled = scaler.transform(test_X)
