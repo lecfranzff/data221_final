@@ -72,3 +72,39 @@ sse = ((test_y - y_pred) ** 2).sum()
 
 print("MAE:", mae)
 print("SSE:", sse)
+
+#Comparing a plot of the learned curve vs the actual data points of a column of the test set to see non-linearity
+
+#ONE numeric feature
+feature_name = "Year"
+
+#Put test feature + actual target together
+df_plot = pd.DataFrame({
+    feature_name: test_X[feature_name].values,"actual": np.array(test_y).flatten()
+})
+
+# Sort by the feature
+df_plot = df_plot.sort_values(feature_name)
+#Binning
+bins = 25
+df_plot["bin"] = pd.cut(df_plot[feature_name], bins=bins)
+
+actual_curve = (
+    df_plot.groupby("bin", observed=True).agg(x=(feature_name, "mean"),actual_mean=("actual", "mean")).sort_values("x")
+)
+
+x_vals = actual_curve["x"].values
+y_actual_curve = actual_curve["actual_mean"].values
+#Predictions
+y_nn_curve = model.predict(X_curve_scaled, verbose=0).flatten()
+
+#Plotting the curves
+plt.figure(figsize=(8, 5))
+plt.plot(x_vals, y_actual_curve, label="Actual trend")
+plt.plot(x_vals, y_nn_curve, label="NN learned curve")
+plt.xlabel(feature_name)
+plt.ylabel("Target")
+plt.title(f"Actual Trend vs Neural Net Curve ({feature_name})")
+plt.legend()
+plt.grid(True)
+plt.show()
